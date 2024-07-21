@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Paris RNA Club is officially launched
+The Paris RNA Club is officially launched  :sparkles: :smile:
