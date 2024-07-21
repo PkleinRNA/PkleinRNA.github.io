@@ -18,8 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Paris RNA Club: Advancing RNA Research Together
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+What We Offer:
+•	Monthly Meetings: Each month we host two 30-minute talks from club members and guest speakers.
+•	Engaging Discussions: The talks are followed by the opportunity to discuss and explore the topics in depth.
+•	Networking Opportunities: You’ll be able to connect with fellow RNA scientists, build collaborations, and expand your professional network.
+
+Join Us: All interested scientists are welcome to join the Paris RNA Club. Whether you're an established researcher or just starting your journey in RNA science, our club offers a supportive environment for growth and innovation.
+
+
