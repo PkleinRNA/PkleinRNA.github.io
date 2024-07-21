@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The Paris RNA Club: Advancing RNA Research Together
+Advancing RNA Research Together
 
 Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.
 
