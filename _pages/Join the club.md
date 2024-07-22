@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Join the Club
+permalink: /join the club/
+title: join the club
 description: 
 nav: true
 nav_order: 2
