@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 Blog:
   enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
+
   
   # https://loops.so/docs/forms/custom-for
 #blog_name: al-folio # blog_name will be displayed in your blog page
