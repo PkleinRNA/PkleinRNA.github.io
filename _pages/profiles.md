@@ -13,17 +13,14 @@ profiles:
     image: Photo.jpg
     content: pierre.md
     image_circular: false # crops the image to make it circular
-    more_info:
   - align: left
     image: clement.jpg
     content: about_clement.md
     image_circular: false # crops the image to make it circular
-    more_info:
  - align: right
     image: herve.jpg
     content: about_herve.md
     image_circular: false # crops the image to make it circular
-    more_info: 
      
 ---
 
