@@ -21,4 +21,4 @@ april 2025 - Thursday 17th <br><br>
 may 2025 - Thursday 15th <br><br>
 june 2025 - Thursday 19th<br><br><br><br>
 
-ROOM WILL BE COMMUNICATED SOON - STAYED TUNED
+ROOM WILL BE COMMUNICATED SOON - STAY TUNED
