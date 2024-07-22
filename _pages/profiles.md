@@ -17,14 +17,6 @@ profiles:
       <p>klein.pierre1@gmail.com</p>
       <p></p>
       <p></p>
-    - align: left
-    image: clement.jpg
-    content: about_herve.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>herve.lehir@bio.ens.psl.eu</p>
-      <p></p>
-      <p></p>
   - align: left
     image: herve.jpg
     content: about_herve.md
