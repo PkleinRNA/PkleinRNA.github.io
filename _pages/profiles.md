@@ -7,40 +7,26 @@ nav: true
 nav_order: 7
 
 profiles:
-   # Pierre Klein
-   # Linkedin: https://www.linkedin.com/in/pierre-klein-phd/
-   # ORCID: https://orcid.org/0000-0002-9209-2939
-
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
-    image: herve.jpg
+    image: Pierre.jpg
     content: pierre.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
----
-
-profiles:
-  # Herve Le Hir
-  # 
-
-  - align: right
-    image: herve.jpg
-    content: about_herve.md
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
-
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 ---
 
-profiles:
-  # Clement Carre
-  # 
-
-  - align: right
-    image: clement.jpg
-    content: about_clement.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
    
 
 
