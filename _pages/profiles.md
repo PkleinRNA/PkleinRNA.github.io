@@ -14,17 +14,25 @@ profiles:
     content: pierre.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p></p>
+      <p></p>
+      <p></p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: herve.jpg
+    content: about_herve.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p></p>
+      <p></p>
+      <p></p>
+    - align: right
+    image: clement.jpg
+    content: about_clement.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p></p>
+      <p></p>
+      <p></p>
 ---
 
    
