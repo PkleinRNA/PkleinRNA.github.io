@@ -1,12 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: Organising commitee 
+title: organising commitee 
 description: Organising committee
 nav: true
 nav_order: 7
-
----
 
 profiles:
    # Pierre Klein
