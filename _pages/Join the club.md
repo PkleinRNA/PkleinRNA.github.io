@@ -1,14 +1,11 @@
 ---
 layout: page
-permalink: /join the club/
-title: join the club
-description: 
+permalink: /join-the-club/
+title: Join the Club
+description: Joining the Paris RNA Club
 nav: true
 nav_order: 2
 ---
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
