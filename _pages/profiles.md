@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: organising commitee 
-description: Organising committee
+description: 
 nav: true
 nav_order: 7
 
@@ -24,7 +24,7 @@ profiles:
   # 
 
   - align: right
-    image: prof_pic.jpg
+    image: herve.jpg
     content: about_herve.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -37,7 +37,7 @@ profiles:
   # 
 
   - align: right
-    image: prof_pic.jpg
+    image: clement.jpg
     content: about_clement.md
     image_circular: false # crops the image to make it circular
     more_info: >
