@@ -14,25 +14,20 @@ profiles:
     content: pierre.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
+   
+      
   - align: left
     image: herve.jpg
     content: about_herve.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
+     
     - align: right
     image: clement.jpg
     content: about_clement.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
+     
 ---
 
    
