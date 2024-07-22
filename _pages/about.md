@@ -8,7 +8,7 @@ profile:
   align: right
   image: PRC2_480.webp
   image_circular: false # crops the image to make it circular
-  image_style: "width: 150px; height: 150px;"
+  image_style: "width: 400px; height: 150px;"
   more_info: >
     <p></p>
     <p></p>
