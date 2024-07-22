@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: 
+title: organizing committee
 description: 
 nav: true
 nav_order: 7
