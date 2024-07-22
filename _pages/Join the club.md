@@ -7,14 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+If you would like to join the club and subscribe to the newsletter, please fill in the required information below. We look forward to seeing you at the next meeting!
