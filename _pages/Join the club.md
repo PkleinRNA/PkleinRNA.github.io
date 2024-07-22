@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Join the Club
+title: join the club
 permalink: /join-the-club/
-description: Joining the Paris RNA Club
+description: joining the Paris RNA Club
 nav: true
 nav_order: 2
 ---
-
-## Joining the Club
-
-The Paris RNA Club keeps members up to date with relevant information through email newsletters. This includes details for attending future meetings, on the guest speakers and their talks, as well as other news and events of interest.
 
 If you would like to join the club and subscribe to the newsletter, please fill in the required information below. We look forward to seeing you at the next meeting!
 
@@ -31,6 +27,7 @@ If you would like to join the club and subscribe to the newsletter, please fill 
     }
     .join-club-form label {
         margin-bottom: 5px;
+        color: #000; /* Change label text color to black */
     }
     .join-club-form input[type="text"], .join-club-form input[type="email"] {
         padding: 10px;
