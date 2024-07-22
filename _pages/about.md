@@ -25,7 +25,7 @@ Welcome to the Paris RNA Club, a community created by passionate RNA scientists 
 **What We Offer:**<br>
 •	Monthly Meetings: Each month we host two 30-minute talks from club members and guest speakers.<br>
 •	Engaging Discussions: The talks are followed by the opportunity to discuss and explore the topics in depth.<br>
-•	Networking Opportunities:You’ll be able to connect with fellow RNA scientists, build collaborations, and expand your professional network.<br><br>
+•	Networking Opportunities: You will be able to connect with fellow RNA scientists, build collaborations, and expand your professional network.<br><br>
 
 **Join Us:** <br> All interested scientists are welcome to join the Paris RNA Club. Whether you're an established researcher or just starting your journey in RNA science, our club offers a supportive environment for growth and innovation.
 
