@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: organising commitee 
+title: organasins comitee
 description: 
 nav: true
 nav_order: 7
