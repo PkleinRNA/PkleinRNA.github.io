@@ -12,8 +12,8 @@ profiles:
    # ORCID: https://orcid.org/0000-0002-9209-2939
 
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: photo.jpg
+    content: aboutPierre.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 </p>
@@ -27,7 +27,7 @@ profiles:
 
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_herve.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 </p>
@@ -42,7 +42,7 @@ profiles:
 
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_clement.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 </p>
