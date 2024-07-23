@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join us for our first meeting on Thursday 10th of September 2024! 
+Join us for our first meeting on Thursday 10th of October 2024! 
