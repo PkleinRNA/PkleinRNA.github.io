@@ -5,7 +5,6 @@ permalink: /join-the-club/
 description: 
 nav: true
 nav_order: 2
----
 
 profile:
   align: left
