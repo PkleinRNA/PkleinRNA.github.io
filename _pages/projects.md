@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tell us about a project
+title: Tell us about a project
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
