@@ -4,7 +4,7 @@ permalink: /calendar/
 title: calendar
 description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 **2024/2025**
