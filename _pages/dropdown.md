@@ -1,6 +1,6 @@
 ---
 layout: page
-title: affiliated labs
+title: Affiliated labs
 nav: true
 nav_order: 8
 dropdown: true
