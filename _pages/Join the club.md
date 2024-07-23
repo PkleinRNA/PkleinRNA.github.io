@@ -17,7 +17,8 @@ profile:
     <p></p>
     <p></p>
     <br><br><br><br>
-
+    
+---
 
 
 If you would like to join the club and subscribe to the newsletter, please fill in the required information below. We look forward to seeing you at the next meeting!
