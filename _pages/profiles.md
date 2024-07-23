@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: committee
+title: Committee
 description: 
 nav: true
 nav_order: 7
