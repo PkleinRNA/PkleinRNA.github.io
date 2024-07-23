@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-profile2:
-  align: bottom
+profile:
+  align: left
   image: Updated_RNA_related_word_cloud-480.webp
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;"
