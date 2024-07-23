@@ -1,16 +1,35 @@
-<form action="https://formspree.io/f/xovajjgw" method="POST">
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    form label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    form input,
+    form textarea {
+      display: block;
+      margin-top: 5px;
+      margin-bottom: 20px;
+    }
+    form button {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <form action="https://formspree.io/f/xovajjgw" method="POST">
+    <label>
+      Your email:
+      <input type="email" name="email">
+    </label>
 
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
+    <label>
+      Your message (please include your name):
+      <textarea name="your message (please include your name)"></textarea>
+    </label>
 
-  <br><br>
-  
-  <label>
-    your message (please include your name):
-    <textarea name="your message (please include your name)"></textarea>
-  </label>
-
-  <button type="submit">Send</button>
-</form>
+    <button type="submit">Send</button>
+  </form>
+</body>
+</html>
