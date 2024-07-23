@@ -1,5 +1,5 @@
 ---
-layout: about2
+layout: about
 title: join
 permalink: /join-the-club/
 description: 
