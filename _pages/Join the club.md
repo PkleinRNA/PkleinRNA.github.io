@@ -1,6 +1,6 @@
 ---
 layout: about2
-title: 
+title: join
 permalink: /join-the-club/
 description: join
 nav: true
@@ -16,8 +16,6 @@ profile:
     <p></p>
     <br><br><br><br><br>
 
-   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    
 ---
 
 <br><br><br><br><br><br><br><br><br>
