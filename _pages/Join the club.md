@@ -1,12 +1,12 @@
 ---
-layout: about
+layout: about2
 title: join
 permalink: /join-the-club/
 description: join
 nav: true
 nav_order: 2
 
-profile2:
+profile:
   align: left
   image: Updated_RNA_related_word_cloud-480.webp
   image_circular: false # crops the image to make it circular
