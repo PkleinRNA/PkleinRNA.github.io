@@ -14,7 +14,6 @@ profile:
   more_info: >
     <p></p>
     <p></p>
-    <p></p>
     <br><br><br><br><br>
     
 ---
