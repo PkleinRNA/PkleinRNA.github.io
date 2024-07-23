@@ -12,7 +12,7 @@ If you would like to join the club and subscribe to the newsletter, please fill 
 {% include contact-form.html %}
 
 
-profile:
+profile2:
   align: bottom
   image: Updated_RNA_related_word_cloud-480.webp
   image_circular: false # crops the image to make it circular
