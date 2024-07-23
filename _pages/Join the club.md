@@ -2,7 +2,7 @@
 layout: about2
 title: join
 permalink: /join-the-club/
-description: join
+description: 
 nav: true
 nav_order: 2
 
