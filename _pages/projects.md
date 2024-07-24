@@ -2,7 +2,7 @@
 layout: page
 title:  Spotlight
 permalink: /projects/
-description: This page is dedicated to highlighting members' research projects, papers, and job opportunities 
+description: This page is dedicated to highlighting members' research projects, papers, and job opportunities. 
 nav: true
 nav_order: 7
 display_categories: [work, fun]
