@@ -9,11 +9,11 @@ profile:
   image: PRC2_480.webp
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;" alt="Generated Image"
-  alt: "Generated Image"
   more_info: >
-     <p style="font-size: small; margin-top: 5px;">Image generated using ChatGPT 4.0</p>
-     <p></p>
-     <p></p>
+    <img src="PRC2_480.webp" style="width: 600px; height: 300px;" alt="Generated Image">
+    <p style="font-size: small; margin-top: 5px;">Image generated using ChatGPT 4.0</p>
+    <p></p>
+    <p> </p>
  
 
 news: true # includes a list of news items
