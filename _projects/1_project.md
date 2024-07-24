@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reseach highlights from members
-description: Publications
+title: Publications
+description: Reseach highlights from members 
 img: assets/img/12.jpg
 importance: 1
 category: work
