@@ -8,12 +8,11 @@ profile:
   align: right
   image: PRC2_480.webp
   image_circular: false # crops the image to make it circular
-  image_style: "width: 600px; height: 300px;" alt="Generated Image"
+  image_style: "width: 600px; height: 300px;"
   more_info: >
-    <img src="PRC2_480.webp" style="width: 600px; height: 300px;" alt="Generated Image">
-    <p style="font-size: small; margin-top: 5px;">Image generated using ChatGPT 4.0</p>
+    <p style="font-size: small; margin-top: 3px;">Image generated using ChatGPT 4.0</p>
     <p></p>
-    <p> </p>
+    <p></p>
  
 
 news: true # includes a list of news items
