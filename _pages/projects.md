@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tell us about a project
+title:  Spotlight
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page is dedicated to highlighting members' research projects, papers, and job opportunities that you would like to share with the community.
 nav: true
 nav_order: 7
 display_categories: [work, fun]
