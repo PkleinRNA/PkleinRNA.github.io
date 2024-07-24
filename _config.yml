@@ -111,10 +111,10 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-work_url: "https://scholar.google.com/scholar?q=RNA" # use this field if you don't want to add a new one
+
 
 contact_note: >
-  Contact us at parisrnaclub@googlegroups.com
+  Contact us at "parisrnaclub@googlegroups.com"
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
