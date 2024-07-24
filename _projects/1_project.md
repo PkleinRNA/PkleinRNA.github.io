@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-description: project
+title: Highlight your paper
+description: Publications
 img: assets/img/12.jpg
 importance: 1
 category: work
