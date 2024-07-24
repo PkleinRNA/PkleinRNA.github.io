@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;"
   more_info: >
-    <p></p>
+    <p>style="font-size: small; margin-top: 5px;">Image generated using ChatGPT 4o</p>
     <p></p>
     <p> </p>
 
