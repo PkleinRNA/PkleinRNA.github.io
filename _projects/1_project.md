@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highlight your paper
+title: Reseach highlights from members
 description: Publications
 img: assets/img/12.jpg
 importance: 1
