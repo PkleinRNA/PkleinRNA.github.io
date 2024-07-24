@@ -10,9 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;"
   more_info: >
-    <p style="font-size: small; margin-top: 3px;">Image generated using ChatGPT 4.0</p>
-    <p></p>
-    <p></p>
+      <img src="PRC2_480.webp" style="width: 600px; height: 300px;" alt="Generated Image">
+    <p style="font-size: small; margin-top: 0px; margin-bottom: 0px;">Image generated using ChatGPT 4.0</p>
+    <p style="margin-top: 0px; margin-bottom: 0px;"></p>
+    <p style="margin-top: 0px; margin-bottom: 0px;"></p>
  
 
 news: true # includes a list of news items
@@ -20,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <br><br><br>
-**Advancing RNA Research Together** <br><br><br>
+**Advancing RNA Research Together** <br><br>
 
 Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
 
