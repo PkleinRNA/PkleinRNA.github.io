@@ -96,7 +96,7 @@ publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scholar_userid:  # your Google Scholar ID
-scholar_search_url: "https://scholar.google.com/scholar?q=RNA" # custom URL for RNA keyword search on Google Scholar
+scholar_search_url:  # custom URL for RNA keyword search on Google Scholar
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -107,14 +107,14 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: "https://scholar.google.com/scholar?q=RNA" # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 
 contact_note: >
-  Contact us at "parisrnaclub@googlegroups.com"
+  Contact us at parisrnaclub@googlegroups.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
