@@ -11,7 +11,7 @@ profile:
   image: Updated_RNA_related_word_cloud-480.webp
   image_circular: false # crops the image to make it circular
   image_style: "width: 900px; height: 600px;"
-  more_info:> 
+  more_info: > 
     <p></p>
     <p></p>
     
