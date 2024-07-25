@@ -651,3 +651,19 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+* Add this CSS to your stylesheet */
+
+/* Default to light theme */
+.profile-img-dark {
+  display: none;
+}
+
+body.dark-mode .profile-img-light {
+  display: none;
+}
+
+body.dark-mode .profile-img-dark {
+  display: block;
+}
