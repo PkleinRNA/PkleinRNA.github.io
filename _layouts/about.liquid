@@ -14,24 +14,13 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <article>
+<article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-0 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-0
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
+        <!-- Light theme image -->
+        <img src="assets/img/logo_black_480.jpeg" alt="Profile Light" class="profile-img-light">
+        <!-- Dark theme image -->
+        <img src="assets/img/logo_480.jpeg" alt="Profile Dark" class="profile-img-dark">
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -39,6 +28,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
