@@ -23,12 +23,21 @@ let setThemeSetting = (themeSetting) => {
 
 // Apply the computed dark or light theme to the website.
 let applyTheme = () => {
-  let theme = determineComputedTheme();
+    let theme = determineComputedTheme();
 
-  transTheme();
-  setHighlight(theme);
-  setGiscusTheme(theme);
-  setSearchTheme(theme);
+    transTheme();
+    setHighlight(theme);
+    setGiscusTheme(theme);
+    setSearchTheme(theme);
+
+    // Profile image switch
+    const profileImage = document.getElementById('profile-image');
+    if (theme === 'dark') {
+        profileImage.src = "{{ '/assets/images/profile_image_dark.jpeg' | relative_url }}";
+    } else {
+        profileImage.src = "{{ '/assets/images/profile_image_light.jpeg' | relative_url }}";
+    }
+
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
