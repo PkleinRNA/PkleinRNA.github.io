@@ -23,20 +23,20 @@ let setThemeSetting = (themeSetting) => {
 
 // Apply the computed dark or light theme to the website.
 let applyTheme = () => {
-    let theme = determineComputedTheme();
+  let theme = determineComputedTheme();
 
-    transTheme();
-    setHighlight(theme);
-    setGiscusTheme(theme);
-    setSearchTheme(theme);
+  transTheme();
+  setHighlight(theme);
+  setGiscusTheme(theme);
+  setSearchTheme(theme);
 
-    // Profile image switch
+  // Profile image switch
   const profileImage = document.getElementById('profile-image');
-    if (theme === 'dark') {
-        profileImage.src = "{{ '/assets/images/logo_black_480.jpeg' | relative_url }}";
-    } else {
-        profileImage.src = "{{ '/assets/images/logo_480.jpeg' | relative_url }}";
-    }
+  if (theme === 'dark') {
+    profileImage.src = "{{ '/assets/images/logo_black_480.jpeg' | relative_url }}";
+  } else {
+    profileImage.src = "{{ '/assets/images/logo_480.jpeg' | relative_url }}";
+  }
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
@@ -86,7 +86,7 @@ let applyTheme = () => {
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
+      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for transparency.
     });
   }
 };
@@ -222,6 +222,7 @@ let determineThemeSetting = () => {
   }
   return themeSetting;
 };
+
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
 // "system", the computed theme is determined based on the user's system preference.
