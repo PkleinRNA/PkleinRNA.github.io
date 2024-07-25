@@ -14,13 +14,13 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-<article>
+  <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile float-{{ page.profile.align }}">
         <!-- Light theme image -->
-        <img src="assets/img/logo_480.jpeg" alt="Profile Light" class="profile-img-light">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image }}" alt="Profile Light" class="profile-img-light">
         <!-- Dark theme image -->
-        <img src="assets/img/logo_black_480.jpeg" alt="Profile Dark" class="profile-img-dark">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -28,7 +28,6 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -58,7 +57,6 @@ layout: default
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
-
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
