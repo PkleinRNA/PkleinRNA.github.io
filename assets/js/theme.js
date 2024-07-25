@@ -33,9 +33,9 @@ let applyTheme = () => {
   // Profile image switch
   const profileImage = document.getElementById('profile-image');
   if (theme === 'dark') {
-    profileImage.src = "{{ '/assets/images/logo_black_480.jpeg' | relative_url }}";
+    profileImage.src = "{{ '/assets/img/logo_black_480.jpeg' | relative_url }}";
   } else {
-    profileImage.src = "{{ '/assets/images/logo_480.jpeg' | relative_url }}";
+    profileImage.src = "{{ '/assets/img/logo_480.jpeg' | relative_url }}";
   }
 
   // if mermaid is not defined, do nothing
