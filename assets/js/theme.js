@@ -1,4 +1,4 @@
-/ Has to be in the head tag, otherwise a flicker effect will occur.
+// Has to be in the head tag, otherwise a flicker effect will occur.
 
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
@@ -78,12 +78,9 @@ let applyTheme = () => {
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for transparency.
+      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
     });
   }
-
-  // Update images based on theme
-  updateProfileImages(theme);
 };
 
 let setHighlight = (theme) => {
@@ -231,20 +228,6 @@ let determineComputedTheme = () => {
     }
   } else {
     return themeSetting;
-  }
-};
-
-// Update profile images based on theme
-let updateProfileImages = (theme) => {
-  let lightImages = document.querySelectorAll('.profile-img-light');
-  let darkImages = document.querySelectorAll('.profile-img-dark');
-
-  if (theme === 'dark') {
-    lightImages.forEach(img => img.style.display = 'none');
-    darkImages.forEach(img => img.style.display = 'block');
-  } else {
-    lightImages.forEach(img => img.style.display = 'block');
-    darkImages.forEach(img => img.style.display = 'none');
   }
 };
 
