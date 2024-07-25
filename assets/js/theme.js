@@ -259,3 +259,49 @@ let initTheme = () => {
     applyTheme();
   });
 };
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    function switchProfileImage() {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    // Listen for changes in theme preference
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', switchProfileImage);
+
+    // Initial check
+    switchProfileImage();
+});
+
+// Function to toggle theme
+function toggleTheme() {
+    let theme = localStorage.getItem('theme') || 'light';
+
+    if (theme === 'light') {
+        document.body.classList.add('dark-mode');
+        localStorage.setItem('theme', 'dark');
+    } else {
+        document.body.classList.remove('dark-mode');
+        localStorage.setItem('theme', 'light');
+    }
+}
+
+// Add event listener to the theme toggle button
+document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+// Apply the saved theme on load
+document.addEventListener('DOMContentLoaded', () => {
+    if (localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark-mode');
+    }
+});
