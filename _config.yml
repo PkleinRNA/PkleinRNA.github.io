@@ -652,8 +652,13 @@ jsonresume:
   - interests
   - references
 
+/*******************************************************************************
+ * Styles for the base elements of the theme.
+ ******************************************************************************/
 
-* Add this CSS to your stylesheet */
+/* Existing styles here... */
+
+/* Add the theme-switching CSS at the end */
 
 /* Default to light theme */
 .profile-img-dark {
