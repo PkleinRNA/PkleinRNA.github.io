@@ -72,6 +72,19 @@ layout: default
 <style>
 /* Remove shadow from images with class 'z-depth-1' */
 .z-depth-0 {
-  box-shadow: none 
+  box-shadow: none;
+}
+
+/* Default to light theme */
+.profile-img-dark {
+  display: none;
+}
+
+body.dark-mode .profile-img-light {
+  display: none;
+}
+
+body.dark-mode .profile-img-dark {
+  display: block;
 }
 </style>
