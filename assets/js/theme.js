@@ -1,4 +1,4 @@
-// Has to be in the head tag, otherwise a flicker effect will occur.
+/ Has to be in the head tag, otherwise a flicker effect will occur.
 
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
@@ -78,7 +78,7 @@ let applyTheme = () => {
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
+      background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for transparency.
     });
   }
 
@@ -252,3 +252,18 @@ let initTheme = () => {
   let themeSetting = determineThemeSetting();
 
   setThemeSetting(themeSetting);
+
+  // Add event listener to the theme toggle button.
+  document.addEventListener("DOMContentLoaded", function () {
+    const mode_toggle = document.getElementById("light-toggle");
+
+    mode_toggle.addEventListener("click", function () {
+      toggleThemeSetting();
+    });
+  });
+
+  // Add event listener to the system theme preference change.
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
+    applyTheme();
+  });
+};
