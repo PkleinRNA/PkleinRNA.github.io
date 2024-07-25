@@ -81,6 +81,9 @@ let applyTheme = () => {
       background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
     });
   }
+
+  // Update images based on theme
+  updateProfileImages(theme);
 };
 
 let setHighlight = (theme) => {
@@ -231,22 +234,21 @@ let determineComputedTheme = () => {
   }
 };
 
+// Update profile images based on theme
+let updateProfileImages = (theme) => {
+  let lightImages = document.querySelectorAll('.profile-img-light');
+  let darkImages = document.querySelectorAll('.profile-img-dark');
+
+  if (theme === 'dark') {
+    lightImages.forEach(img => img.style.display = 'none');
+    darkImages.forEach(img => img.style.display = 'block');
+  } else {
+    lightImages.forEach(img => img.style.display = 'block');
+    darkImages.forEach(img => img.style.display = 'none');
+  }
+};
+
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
 
   setThemeSetting(themeSetting);
-
-  // Add event listener to the theme toggle button.
-  document.addEventListener("DOMContentLoaded", function () {
-    const mode_toggle = document.getElementById("light-toggle");
-
-    mode_toggle.addEventListener("click", function () {
-      toggleThemeSetting();
-    });
-  });
-
-  // Add event listener to the system theme preference change.
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
-    applyTheme();
-  });
-};
