@@ -17,9 +17,9 @@ layout: default
     {% if page.profile %}
       <div class="profile float-{{ page.profile.align }}">
         <!-- Light theme image -->
-        <img src="{{ site.baseurl }}/assets/images/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
         <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/images/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
         {% endif %}
@@ -80,3 +80,5 @@ body.dark-mode .profile-img-dark {
   display: block;
 }
 </style>
+
+<button id="theme-toggle">Toggle Theme</button>
