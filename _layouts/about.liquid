@@ -1,12 +1,40 @@
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-body.dark-mode .profile-img-dark {
-  display: block;
-}
-
-.profile-img-light, .profile-img-dark {
-  max-width: 100%;
-  height: auto;
-}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const toggleButton = document.getElementById('theme-toggle');
+    function applyTheme(theme) {
+        document.body.className = theme === 'dark' ? 'dark-mode' : '';
+        switchProfileImage(theme);
+        updateToggleButtonText(theme);
+    }
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        if (!profileImageLight || !profileImageDark) {
+            console.error('Profile images are not found.');
+            return;
+        }
+        profileImageLight.style.display = theme === 'dark' ? 'none' : 'block';
+        profileImageDark.style.display = theme === 'dark' ? 'block' : 'none';
+    }
+    function toggleTheme() {
+        const currentTheme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+        const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', newTheme);
+        applyTheme(newTheme);
+    }
+    function updateToggleButtonText(theme) {
+        toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
+    }
+    function setInitialTheme() {
+        const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        applyTheme(storedTheme);
+    }
+    toggleButton.addEventListener('click', toggleTheme);
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        const newTheme = e.matches ? 'dark' : 'light';
+        localStorage.setItem('theme', newTheme);
+        applyTheme(newTheme);
+    });
+    setInitialTheme();
+});
+</script>
