@@ -8,9 +8,9 @@ nav_order: 3
 ---
 <span style="font-size: 40px;">
 **2024/2025**
-
+<span style="font-size: 40px;">
 Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks followed by refreshments, allowing further discussions.<br><br><br>
-
+<span style="font-size: 40px;">
 October 2024 - Thursday 10th<br><br>
 November 2024 - Thursday 14th <br><br>
 December 2024 - Thursday 12th<br><br>
