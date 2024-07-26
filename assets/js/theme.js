@@ -269,3 +269,20 @@ function switchTheme() {
   switchProfilePhoto();
 }
 
+
+function switchProfilePhoto() {
+  // Get the light and dark theme images
+  const lightImage = document.querySelector('.profile-img-light');
+  const darkImage = document.querySelector('.profile-img-dark');
+
+  // Check if the body has the class 'dark-theme'
+  if (document.body.classList.contains('dark-theme')) {
+    // If it does, hide the light image and show the dark image
+    lightImage.style.display = 'none';
+    darkImage.style.display = 'block';
+  } else {
+    // If it doesn't, show the light image and hide the dark image
+    lightImage.style.display = 'block';
+    darkImage.style.display = 'none';
+  }
+}
