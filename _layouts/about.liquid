@@ -16,10 +16,11 @@ layout: default
 
 {% if page.profile %}
   <div class="profile float-{{ page.profile.align }}">
-    <!-- Light theme image -->
-    <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light theme-light">
-    <!-- Dark theme image -->
-    <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark theme-dark">
+    {% if site.theme == "dark" %}
+        <img src="/path/to/dark-theme/profile/photo.jpg" alt="Profile Photo">
+    {% else %}
+        <img src="/path/to/light-theme/profile/photo.jpg" alt="Profile Photo">
+    {% endif %}
     {% if page.profile.more_info %}
       <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
     {% endif %}
@@ -65,4 +66,3 @@ layout: default
     {% endif %}
   </article>
 </div>
-
