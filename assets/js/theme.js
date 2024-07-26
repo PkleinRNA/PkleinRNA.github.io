@@ -266,3 +266,23 @@ function switchTheme() {
     body.classList.add('dark-theme');
   }
 }
+
+let mode = 'light'; // This should be tied to your actual light/dark mode status
+
+function switchProfilePhoto() {
+  const profilePhoto = document.getElementById('profilePhoto');
+
+  if (mode === 'light') {
+    profilePhoto.src = '{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}';
+    mode = 'dark';
+  } else {
+    profilePhoto.src = '{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}';
+    mode = 'light';
+  }
+}
+
+
+
+// Call switchProfilePhoto when the theme is switched
+// This will depend on how you're handling theme switching
+
