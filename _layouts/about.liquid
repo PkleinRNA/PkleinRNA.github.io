@@ -17,15 +17,16 @@ layout: default
 {% if page.profile %}
   <div class="profile float-{{ page.profile.align }}">
     {% if site.theme == "dark" %}
-        <img src="/path/to/dark-theme/profile/photo.jpg" alt="Profile Photo">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
     {% else %}
-        <img src="/path/to/light-theme/profile/photo.jpg" alt="Profile Photo">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
     {% endif %}
     {% if page.profile.more_info %}
       <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
     {% endif %}
   </div>
 {% endif %}
+
 
     <div class="clearfix">{{ content }}</div>
 
