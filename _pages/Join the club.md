@@ -17,6 +17,7 @@ profile2:
     
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<span style="font-size: 20px;">
 If you would like to join the club and subscribe to the newsletter, please fill in the information below. We look forward to seeing you at the next meeting!
 
 {% include contact-form.html %}
