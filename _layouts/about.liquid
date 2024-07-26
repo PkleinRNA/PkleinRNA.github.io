@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function toggleTheme() {
-        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark');
+        let theme = localStorage.getItem('theme') || 'light';
         theme = theme === 'light' ? 'dark' : 'light';
         localStorage.setItem('theme', theme);
         applyTheme();
