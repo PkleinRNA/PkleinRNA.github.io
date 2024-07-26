@@ -13,13 +13,17 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-   <article>
+  <article>
     {% if page.profile %}
       <div class="profile float-{{ page.profile.align }}">
         <!-- Light theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
-        <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
+        
+        <!-- Dark theme image if it exists -->
+        {% unless page.profile.image_dark == "No" %}
+          <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
+        {% endunless %}
+        
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
         {% endif %}
@@ -94,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         document.body.classList.toggle('dark-mode', theme === 'dark');
         switchProfileImage(theme);
+        updateToggleButtonText(theme);
     }
 
     function switchProfileImage(theme) {
@@ -109,35 +114,24 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function toggleTheme() {
-        let theme = localStorage.getItem('theme') || 'light';
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark');
         theme = theme === 'light' ? 'dark' : 'light';
         localStorage.setItem('theme', theme);
         applyTheme();
     }
 
+    function updateToggleButtonText(theme) {
+        const toggleButton = document.getElementById('theme-toggle');
+        toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
+    }
+
     // Set the initial state of the toggle button based on the theme
     function setInitialToggleButton() {
         let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        const toggleButton = document.getElementById('theme-toggle');
-        if (theme === 'dark') {
-            toggleButton.textContent = 'Switch to Light Mode';
-        } else {
-            toggleButton.textContent = 'Switch to Dark Mode';
-        }
+        updateToggleButtonText(theme);
     }
 
-    // Update the toggle button text when the theme is toggled
-    document.getElementById('theme-toggle').addEventListener('click', function() {
-        let theme = localStorage.getItem('theme') || 'light';
-        theme = theme === 'light' ? 'dark' : 'light';
-        if (theme === 'dark') {
-            this.textContent = 'Switch to Light Mode';
-        } else {
-            this.textContent = 'Switch to Dark Mode';
-        }
-        toggleTheme();
-    });
-
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
     applyTheme();
     setInitialToggleButton();
