@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <br>
 <span style="font-size: 30px;">
-**Advancing RNA Research Together** <br><br>
+**Advancing RNA Research Together** <br>
 <span style="font-size: 25px;">
 Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. <br> Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
 <span style="font-size: 30px;">
