@@ -94,8 +94,7 @@ body.dark-mode .profile-img-dark {
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-    function applyTheme() {
-        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    function applyTheme(theme) {
         document.body.classList.toggle('dark-mode', theme === 'dark');
         switchProfileImage(theme);
         updateToggleButtonText(theme);
@@ -114,10 +113,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function toggleTheme() {
-        let theme = localStorage.getItem('theme') || 'light';
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         theme = theme === 'light' ? 'dark' : 'light';
         localStorage.setItem('theme', theme);
-        applyTheme();
+        applyTheme(theme);
     }
 
     function updateToggleButtonText(theme) {
@@ -125,21 +124,20 @@ document.addEventListener('DOMContentLoaded', function () {
         toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
     }
 
-    // Set the initial state of the toggle button based on the theme
-    function setInitialToggleButton() {
+    function setInitialTheme() {
         let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        updateToggleButtonText(theme);
+        applyTheme(theme);
     }
 
-    // Update theme and button text on system preference change
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+    // Listen for system preference changes and update the theme accordingly
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-        let newColorScheme = e.matches ? 'dark' : 'light';
-        localStorage.setItem('theme', newColorScheme);
-        applyTheme();
+        const newTheme = e.matches ? 'dark' : 'light';
+        localStorage.setItem('theme', newTheme);
+        applyTheme(newTheme);
     });
 
-    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
-    applyTheme();
-    setInitialToggleButton();
+    setInitialTheme();
 });
 </script>
