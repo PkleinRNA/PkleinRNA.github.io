@@ -17,9 +17,9 @@ layout: default
 {% if page.profile %}
   <div class="profile float-{{ page.profile.align }}">
     {% if site.theme == "dark" %}
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
+        <img src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Profile Light" class="profile-img-light">
     {% else %}
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
+        <img src="{{ site.baseurl }}/assets/img/logo_black_480.jpeg" alt="Profile Dark" class="profile-img-dark">
     {% endif %}
     {% if page.profile.more_info %}
       <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
