@@ -1,16 +1,12 @@
-<!-- Layout and head content might go here -->
-<div class="post">
-  <header class="post-header">
-    <!-- Your header content -->
-  </header>
-  <article>
-    <!-- Assuming 'page' and 'site' variables are set via your site's backend or static site generator -->
-    <div class="profile">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="display:none;">
-    </div>
-    <!-- Other content of the article -->
-  </article>
-</div>
+body.dark-mode .profile-img-light {
+  display: none;
+}
 
-<button id="theme-toggle">Toggle Theme</button>
+body.dark-mode .profile-img-dark {
+  display: block;
+}
+
+.profile-img-light, .profile-img-dark {
+  max-width: 100%;
+  height: auto;
+}
