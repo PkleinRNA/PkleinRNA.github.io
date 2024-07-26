@@ -250,3 +250,19 @@ let initTheme = () => {
     applyTheme();
   });
 };
+
+
+// Function to switch the theme
+function switchTheme() {
+  // Get the body element
+  var body = document.body;
+
+  // Check if the body has the class 'dark-theme'
+  if (body.classList.contains('dark-theme')) {
+    // If it does, remove it
+    body.classList.remove('dark-theme');
+  } else {
+    // If it doesn't, add it
+    body.classList.add('dark-theme');
+  }
+}
