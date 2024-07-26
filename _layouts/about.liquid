@@ -143,3 +143,56 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const toggleButton = document.getElementById('theme-toggle');
+
+    function applyTheme(theme) {
+        console.log('Applying theme:', theme);  // Confirm theme being applied
+        document.body.classList.toggle('dark-mode', theme === 'dark');
+        switchProfileImage(theme);
+        updateToggleButtonText(theme);
+    }
+
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        console.log('Switching theme to:', theme);  // Log current theme switch attempt
+        if (theme === 'dark') {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    function toggleTheme() {
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        theme = theme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', theme);
+        applyTheme(theme);
+    }
+
+    function updateToggleButtonText(theme) {
+        toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
+    }
+
+    function setInitialTheme() {
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        applyTheme(theme);
+    }
+
+    toggleButton.addEventListener('click', toggleTheme);
+
+    // Listen for system preference changes and update the theme accordingly
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+        const newTheme = e.matches ? 'dark' : 'light';
+        localStorage.setItem('theme', newTheme);
+        applyTheme(newTheme);
+    });
+
+    setInitialTheme();
+});
+</script>
+
