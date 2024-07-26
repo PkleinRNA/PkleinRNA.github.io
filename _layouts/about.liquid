@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
-
+  
   <article>
     {% if page.profile %}
       <div class="profile float-{{ page.profile.align }}">
@@ -26,67 +26,114 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
-
     <div class="clearfix">{{ content }}</div>
+  </article>
+</div>
 
-   
-<style>
-/* Default to light theme */
-.profile-img-dark {
-  display: none;
-}
-
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-body.dark-mode .profile-img-dark {
-  display: block;
-}
-</style>
-
-<button id="theme-toggle">Toggle Theme</button>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    const toggleButton = document.getElementById('theme-toggle');
-
-    function getSystemTheme() {
-        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Theme Toggle Example</title>
+  <style>
+    /* Default light theme variables */
+    :root {
+      --background-color: #fff;
+      --text-color: #333;
+      --link-color: #007bff;
     }
 
-    function applyTheme(theme) {
+    /* Dark theme overrides */
+    body.dark-mode {
+      --background-color: #333;
+      --text-color: #fff;
+      --link-color: #1a73e8;
+    }
+
+    body {
+      background-color: var(--background-color);
+      color: var(--text-color);
+    }
+
+    a {
+      color: var(--link-color);
+    }
+
+    .profile-img-light, .profile-img-dark {
+      max-width: 100%;
+      height: auto;
+      display: none; /* Hide both by default */
+    }
+
+    /* Default to light theme */
+    .profile-img-light {
+      display: block;
+    }
+
+    /* When dark mode is enabled */
+    body.dark-mode .profile-img-light {
+      display: none;
+    }
+
+    body.dark-mode .profile-img-dark {
+      display: block;
+    }
+
+    #theme-toggle {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      padding: 10px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <button id="theme-toggle">Toggle Theme</button>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const toggleButton = document.getElementById('theme-toggle');
+
+      function getSystemTheme() {
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function applyTheme(theme) {
         const currentTheme = theme || localStorage.getItem('theme') || getSystemTheme();
         document.body.className = currentTheme === 'dark' ? 'dark-mode' : '';
         switchProfileImage(currentTheme);
         updateToggleButtonText(currentTheme);
-    }
+      }
 
-    function switchProfileImage(theme) {
+      function switchProfileImage(theme) {
         const profileImageLight = document.querySelector('.profile-img-light');
         const profileImageDark = document.querySelector('.profile-img-dark');
         profileImageLight.style.display = theme === 'dark' ? 'none' : 'block';
         profileImageDark.style.display = theme === 'dark' ? 'block' : 'none';
-    }
+      }
 
-    function toggleTheme() {
+      function toggleTheme() {
         const newTheme = document.body.classList.contains('dark-mode') ? 'light' : 'dark';
         localStorage.setItem('theme', newTheme);
         applyTheme(newTheme);
-    }
+      }
 
-    function updateToggleButtonText(theme) {
+      function updateToggleButtonText(theme) {
         toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
-    }
+      }
 
-    // Set initial theme based on saved or system preference
-    applyTheme();
+      // Set initial theme based on saved or system preference
+      applyTheme();
 
-    toggleButton.addEventListener('click', toggleTheme);
-    
-    // Adjust theme automatically when system preference changes
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (event) => {
+      toggleButton.addEventListener('click', toggleTheme);
+      
+      // Adjust theme automatically when system preference changes
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (event) => {
         applyTheme(event.matches ? 'dark' : 'light');
+      });
     });
-});
-</script>
+  </script>
+</body>
+</html>
