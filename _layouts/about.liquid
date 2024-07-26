@@ -21,7 +21,7 @@ layout: default
         <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
         
         <!-- Dark theme image if it exists -->
-        {% unless page.profile.image_dark == "No" %}
+        {% unless page.profile.image_dark == "Yes" %}
           <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
         {% endunless %}
         
