@@ -131,8 +131,14 @@ document.addEventListener('DOMContentLoaded', function () {
         updateToggleButtonText(theme);
     }
 
+    // Update theme and button text on system preference change
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+        let newColorScheme = e.matches ? 'dark' : 'light';
+        localStorage.setItem('theme', newColorScheme);
+        applyTheme();
+    });
+
     document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
     applyTheme();
     setInitialToggleButton();
 });
