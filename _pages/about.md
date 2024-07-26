@@ -36,6 +36,6 @@ Welcome to the Paris RNA Club, a community created by passionate RNA scientists 
 **Join Us:** <br> 
 <span style="font-size: 25px;">
 All interested scientists are welcome to join the Paris RNA Club. Whether you're an established researcher or just starting your journey in RNA science, our club offers a supportive environment for growth and innovation.
-<br> 
+<br><br><br><br> 
 
 
