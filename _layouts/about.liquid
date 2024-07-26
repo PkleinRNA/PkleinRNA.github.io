@@ -16,22 +16,11 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
+      <div class="profile float-{{ page.profile.align }}">
+        <!-- Light theme image -->
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
+        <!-- Dark theme image -->
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -68,7 +57,6 @@ layout: default
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
-
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
@@ -78,3 +66,53 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+<style>
+/* Default to light theme */
+.profile-img-dark {
+  display: none;
+}
+
+body.dark-mode .profile-img-light {
+  display: none;
+}
+
+body.dark-mode .profile-img-dark {
+  display: block;
+}
+</style>
+
+<button id="theme-toggle">Toggle Theme</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    function applyTheme() {
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.body.classList.toggle('dark-mode', theme === 'dark');
+        switchProfileImage(theme);
+    }
+
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        if (theme === 'dark') {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    function toggleTheme() {
+        let theme = localStorage.getItem('theme') || 'light';
+        theme = theme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', theme);
+        applyTheme();
+    }
+
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
+    applyTheme();
+});
+</script>
