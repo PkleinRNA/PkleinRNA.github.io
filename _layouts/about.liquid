@@ -90,13 +90,36 @@ body.dark-mode .profile-img-dark {
 }
 </style>
 
+<button id="theme-toggle">Toggle Theme</button>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     function applyTheme() {
-        let theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         document.body.classList.toggle('dark-mode', theme === 'dark');
+        switchProfileImage(theme);
     }
 
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        if (theme === 'dark') {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    function toggleTheme() {
+        let theme = localStorage.getItem('theme') || 'light';
+        theme = theme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', theme);
+        applyTheme();
+    }
+
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
     applyTheme();
 });
