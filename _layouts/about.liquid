@@ -17,9 +17,13 @@ layout: default
     {% if page.profile %}
       <div class="profile float-{{ page.profile.align }}">
         <!-- Light theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light"  style="{{ page.profile.image_light }}">
-        <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" style="{{ page.profile.image_style_dark }}">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
+        
+        <!-- Dark theme image if it exists -->
+        {% unless page.profile.image_dark == "No" %}
+          <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
+        {% endunless %}
+        
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
         {% endif %}
@@ -83,7 +87,6 @@ body.dark-mode .profile-img-dark {
 .profile-img-light, .profile-img-dark {
   max-width: 100%;
   height: auto;
-  width: auto;
 }
 </style>
 
