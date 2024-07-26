@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 **Advancing RNA Research Together** <br><br>
 
-Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
+Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. <br> Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
 
 **What We Offer:**<br>
 •	Monthly Meetings: Each month we host two 30-minute talks from club members and guest speakers.<br>
