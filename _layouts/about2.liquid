@@ -1,89 +1,41 @@
 ---
 layout: default
 ---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
 
-<style>
-/* Default light theme variables */
-:root {
-  --background-color: #fff;
-  --text-color: #333;
-  --link-color: #007bff;
-  --profile-img: url('{{ "/assets/img/" | append: page.profile.image_light }}'); /* Update with Liquid filter */
-}
 
-/* Dark theme overrides */
-body.dark-mode {
-  --background-color: #333;
-  --text-color: #fff;
-  --link-color: #1a73e8;
-  --profile-img: url('{{ "/assets/img/" | append: page.profile.image_dark }}'); /* Update with Liquid filter */
-}
+  <article>
+    {% if page.profile2 %}
+      <div class="profile2 float-{% if page.profile2.align == 'left' %}left{% else %}right{% endif %}" style="margin: 15px;">
+        {% if page.profile2.image %}
+          {% assign profile2_image_path = page.profile2.image | prepend: 'assets/img/' %}
+          {% if page.profile2.image_circular %}
+            {% assign profile2_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile2_image_class = 'img-fluid z-depth-1
+      rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 800px)
+      30vw, 95vw"{% endcapture %}
+          {%
+            include figure.liquid loading="eager" path=profile2_image_path class=profile2_image_class sizes=sizes alt=page.profile2.image
+            cache_bust=true
+          %}
+        {% endif %}
+        {% if page.profile2.more_info %}
+          <div class="more-info">{{ page.profile2.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
 
-body {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
+<br><br><br>
 
-a {
-  color: var(--link-color);
-}
 
-.profile {
-  width: 100%;
-  height: 300px;
-  background-image: var(--profile-img);
-  background-size: cover;
-  background-position: center;
-}
 
-#theme-toggle {
-  position: fixed;
-  bottom: 10px;
-  right: 10px;
-  padding: 10px;
-  font-size: 16px;
-  cursor: pointer;
-}
+    <div class="clearfix">{{ content }}</div>
 
-</style>
 
-<div class="profile"></div>
-<button id="theme-toggle">Toggle Theme</button>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const toggleButton = document.getElementById('theme-toggle');
-
-  function applyTheme(theme) {
-    document.body.className = theme === 'dark' ? 'dark-mode' : '';
-    updateToggleButtonText(theme);
-  }
-
-  function updateToggleButtonText(theme) {
-    toggleButton.textContent = theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode';
-  }
-
-  function toggleTheme() {
-    const currentTheme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
-    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-    localStorage.setItem('theme', newTheme);
-    applyTheme(newTheme);
-  }
-
-  toggleButton.addEventListener('click', toggleTheme);
-
-  // Set initial theme based on saved or system preference
-  function setInitialTheme() {
-    const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    applyTheme(storedTheme);
-  }
-
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-    const newTheme = e.matches ? 'dark' : 'light';
-    localStorage.setItem('theme', newTheme);
-    applyTheme(newTheme);
-  });
-
-  setInitialTheme();
-});
-</script>
