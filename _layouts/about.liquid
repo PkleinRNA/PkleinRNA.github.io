@@ -1,45 +1,81 @@
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Theme Switcher</title>
+  <style>
+    /* Add your CSS here */
+    .profile-img-dark {
+      display: none;
+    }
+
+    body.light-mode .profile-img-light {
+      display: block;
+    }
+
+    body.light-mode .profile-img-dark {
+      display: none;
+    }
+
+    body.dark-mode .profile-img-light {
+      display: none;
+    }
+
+    body.dark-mode .profile-img-dark {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <button id="theme-toggle-button">Toggle Theme</button>
   
-  <article>
-    {% if page.profile %}
-      <div class="profile float-{{ page.profile.align }}">
-        <!-- Light theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
-        <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
         {% endif %}
-      </div>
-    {% endif %}
-    <div class="clearfix">{{ content }}</div>
-  </article>
-</div>
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </header>
+    
+    <article>
+      {% if page.profile %}
+        <div class="profile float-{{ page.profile.align }}">
+          <!-- Light theme image -->
+          <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img profile-img-light">
+          <!-- Dark theme image -->
+          <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img profile-img-dark">
+          {% if page.profile.more_info %}
+            <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
+      <div class="clearfix">{{ content }}</div>
+    </article>
+  </div>
 
-<style>
-.profile-img-light {
-  display: block;
-}
+  <script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const currentTheme = localStorage.getItem('theme') || 'light';
+      document.body.classList.add(currentTheme + '-mode');
 
-.profile-img-dark {
-  display: none;
-}
+      const toggleTheme = () => {
+        let theme = document.body.classList.contains('light-mode') ? 'dark' : 'light';
+        document.body.classList.remove('light-mode', 'dark-mode');
+        document.body.classList.add(theme + '-mode');
+        localStorage.setItem('theme', theme);
+      };
 
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-body.dark-mode .profile-img-dark {
-  display: block;
-}
-</style>
+      // Add your theme toggle button or method to call toggleTheme()
+      const themeToggleButton = document.getElementById('theme-toggle-button');
+      if (themeToggleButton) {
+        themeToggleButton.addEventListener('click', toggleTheme);
+      }
+    });
+  </script>
+</body>
+</html>
