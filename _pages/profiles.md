@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: Photo.jpg
     content: about_pierre.md
-    image_circular: false # crops the image to make it circular
+    image_circular: True # crops the image to make it circular
     more_info: >
       <p>klein.pierre1@gmail.com</p>
       <p></p>
@@ -20,7 +20,7 @@ profiles:
   - align: left
     image: herve.jpg
     content: about_herve.md
-    image_circular: false # crops the image to make it circular
+    image_circular: True # crops the image to make it circular
     more_info: >
       <p>herve.lehir@bio.ens.psl.eu</p>
       <p></p>
@@ -28,7 +28,7 @@ profiles:
   - align: right
     image: clement.jpg
     content: about_clement.md
-    image_circular: false # crops the image to make it circular
+    image_circular: True # crops the image to make it circular
     more_info: >
       <p>clement.carre@gmail.com</p>
       <p></p>
