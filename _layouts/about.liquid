@@ -5,8 +5,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -18,11 +17,11 @@ layout: default
     {% if page.profile %}
       <div class="profile float-{{ page.profile.align }}">
         <!-- Light theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light" style="{{ page.profile.image_style }}">
         <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark" style="{{ page.profile.image_style }}">
         {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
+          <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
         {% endif %}
       </div>
     {% endif %}
