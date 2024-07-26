@@ -20,7 +20,7 @@ layout: default
         <!-- Light theme image -->
         <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
         <!-- Dark theme image -->
-        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="profile-img-light">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="profile-img-dark">
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -67,3 +67,52 @@ layout: default
   </article>
 </div>
 
+<style>
+/* Default to light theme */
+.profile-img-dark {
+  display: none;
+}
+
+body.dark-mode .profile-img-light {
+  display: none;
+}
+
+body.dark-mode .profile-img-dark {
+  display: block;
+}
+</style>
+
+<button id="theme-toggle">Toggle Theme</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    function applyTheme() {
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.body.classList.toggle('dark-mode', theme === 'dark');
+        switchProfileImage(theme);
+    }
+
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        if (theme === 'dark') {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    function toggleTheme() {
+        let theme = localStorage.getItem('theme') || 'light';
+        theme = theme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', theme);
+        applyTheme();
+    }
+
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
+    applyTheme();
+});
+</script>
