@@ -2,8 +2,28 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation" style="font-size: 18px;">
     <div class="container">
-      <!-- Your existing code... -->
-
+      {% if page.permalink != '/' %}
+        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          {% if site.title == 'blank' %}
+            {% if site.first_name %}
+              <span class="font-weight-bold">
+                {{- site.first_name -}}
+              </span>
+            {% endif %}
+            {% if site.middle_name %}
+              {{- site.middle_name -}}
+            {% endif %}
+            {% if site.last_name %}
+              {{- site.last_name -}}
+            {% endif %}
+          {% else %}
+            {{- site.title -}}
+          {% endif %}
+        </a>
+      {% elsif site.enable_navbar_social %}
+        <!-- Social Icons -->
+        <div class="navbar-brand social">{% include social.liquid %}</div>
+      {% endif %}
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -19,32 +39,6 @@
         <span class="icon-bar middle-bar"></span>
         <span class="icon-bar bottom-bar"></span>
       </button>
-
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
-          <!-- Your existing code... -->
-
-          {% if site.enable_darkmode %}
-            <!-- Toggle theme mode -->
-            <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <img id="theme-toggle" src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Toggle Theme" style="cursor: pointer; width: 20%; max-width: 100px; z-index: 1000;">
-              </button>
-            </li>
-          {% endif %}
-        </ul>
-      </div>
-    </div>
-  </nav>
-  {% if site.enable_progressbar %}
-    <!-- Scrolling Progress Bar -->
-    <progress id="progress" value="0">
-      <div class="progress-container">
-        <span class="progress-bar"></span>
-      </div>
-    </progress>
-  {% endif %}
-</header>
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
@@ -129,6 +123,7 @@
                 <i class="ti ti-sun-moon" id="light-toggle-system"></i>
                 <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
                 <i class="ti ti-sun-filled" id="light-toggle-light"></i>
+<img id="theme-toggle" src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Toggle Theme" style="cursor: pointer; width: 20%; max-width: 100px; z-index: 1000;”></i>
               </button>
             </li>
           {% endif %}
