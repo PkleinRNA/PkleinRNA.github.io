@@ -23,34 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
   ;
-
-/* Hide dark theme image by default */
-.theme-dark {
-  display: none;
-}
-
-/* If the body has the class .dark-theme, hide the light theme image and show the dark theme image */
-body.dark-theme .theme-light {
-  display: none;
-}
-
-body.dark-theme .theme-dark {
-  display: block;
-}
-
-// In your main Sass file or _themes.scss
-
-/* Hide dark theme image by default */
-.theme-dark {
-  display: none;
-}
-
-/* If the body has the class .dark-theme, hide the light theme image and show the dark theme image */
-body.dark-theme .theme-light {
-  display: none;
-}
-
-body.dark-theme .theme-dark {
-  display: block;
-}
-
