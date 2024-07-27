@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 <span style="font-size: 15px;">
 Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. <br> Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
 </span>
-<span style="font-size: 25px; color= gold;">
+<span style="font-size: 25px; color:purple-color;">
 **What We Offer:**<br>
 </span>
 <span style="font-size: 15px;">
