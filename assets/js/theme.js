@@ -286,3 +286,20 @@ function switchProfilePhoto() {
     darkImage.style.display = 'none';
   }
 }
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const lightToggle = document.getElementById('light-toggle');
+    const themeToggle = document.getElementById('theme-toggle');
+
+    const syncToggles = () => {
+      // Add your logic to switch themes here
+      document.body.classList.toggle('dark-mode');
+      // Ensure both toggles are synchronized
+    };
+
+    lightToggle.addEventListener('click', syncToggles);
+    themeToggle.addEventListener('click', syncToggles);
+  });
+</script>
+
