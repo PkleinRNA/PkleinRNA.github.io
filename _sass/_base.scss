@@ -183,7 +183,7 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 40%;
+  width: 100%;
 
   .more-info {
     margin-bottom: 5px;
@@ -205,11 +205,9 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
-
-
 @media (min-width: 576px) {
   .profile {
-    width: 40%;
+    width: 30%;
 
     .address {
       p {
@@ -1295,77 +1293,4 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
-}
-
-// Profile2
-
-.profile2 {
-  width: 100%;
-
-  .more-info {
-    margin-bottom: 0px;
-    margin-top: 0px;
-    font-family: monospace;
-
-    p {
-      display: inline-block;
-      margin: 0;
-    }
-  }
-}
-
-.profile.float-right {
-  margin-left: 1rem;
-}
-
-.profile.float-left {
-  margin-right: 1rem;
-}
-
-@media (min-width: 576px) {
-  .profile2 {
-    width: 60%;
-
-    .address {
-      p {
-        display: block;
-      }
-    }
-  }
-}
-
-.post-description {
-  margin-bottom: 6rem;
-  margin-top: 6rem;
-  font-size: 0.1rem;
-
-  a {
-    color: inherit;
-
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
-    }
-  }
-}
-
-/*******************************************************************************
- * Styles for the base elements of the theme.
- ******************************************************************************/
-
-/* Existing styles here... */
-
-/* Add the theme-switching CSS at the end */
-
-/* Default to light theme */
-.profile-img-dark {
-  display: none;
-}
-
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-body.dark-mode .profile-img-dark {
-  display: block;
 }
