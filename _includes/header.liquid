@@ -117,14 +117,11 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
-            <!-- Toogle theme mode -->
-            <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <i class="ti ti-sun-moon" id="light-toggle-system"></i>
-                <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
-                <i class="ti ti-sun-filled" id="light-toggle-light"></i>
-              </button>
+            <!-- Toggle theme mode -->
+            <li class="nav-item">
+              <img id="theme-toggle" src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Toggle Theme" class="theme-toggle-button">
             </li>
+            <!-- End of toggle theme mode -->
           {% endif %}
         </ul>
       </div>
@@ -138,34 +135,28 @@
       </div>
     </progress>
   {% endif %}
+
+  <style>
+  /* Default to light theme */
+  .profile-img-dark {
+    display: none;
+  }
+
+  body.dark-mode .profile-img-light {
+    display: none;
+  }
+
+  body.dark-mode .profile-img-dark {
+    display: block;
+  }
+
+  .theme-toggle-button {
+    cursor: pointer;
+    width: 20px; /* Adjust the width as needed */
+    max-width: 100px; /* Ensure it doesn't get too large */
+  }
+  </style>
 </header>
-
-<style>
-/* Default to light theme */
-.profile-img-dark {
-  display: none;
-}
-
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-body.dark-mode .profile-img-dark {
-  display: block;
-}
-
-#theme-toggle {
-  cursor: pointer;
-  width: 20%; /* Adjust the width as needed */
-  max-width: 100px; /* Ensure it doesn't get too large */
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
-  z-index: 1000; /* Ensure it stays above other content */
-}
-</style>
-
-<img id="theme-toggle" src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Toggle Theme">
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
