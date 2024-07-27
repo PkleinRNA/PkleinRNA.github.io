@@ -288,6 +288,29 @@ function switchProfilePhoto() {
 }
 
 
+// Common function to toggle theme
+function toggleTheme() {
+  const isDarkMode = !document.body.classList.contains('dark-mode');
+  updateTheme(isDarkMode);
+}
+
+// Update theme function
+function updateTheme(isDarkMode) {
+  if (isDarkMode) {
+    document.body.classList.add('dark-mode');
+    lightToggleIcon.classList.remove('ti-sun-filled');
+    lightToggleIcon.classList.add('ti-moon-filled');
+    themeToggleLight.style.display = 'none';
+    themeToggleDark.style.display = 'inline';
+  } else {
+    document.body.classList.remove('dark-mode');
+    lightToggleIcon.classList.remove('ti-moon-filled');
+    lightToggleIcon.classList.add('ti-sun-filled');
+    themeToggleLight.style.display = 'inline';
+    themeToggleDark.style.display = 'none';
+  }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
   const lightToggle = document.getElementById('light-toggle');
   const themeToggle = document.getElementById('theme-toggle');
@@ -295,27 +318,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const themeToggleLight = document.getElementById('theme-toggle-light');
   const themeToggleDark = document.getElementById('theme-toggle-dark');
 
-  function updateTheme(isDarkMode) {
-    if (isDarkMode) {
-      document.body.classList.add('dark-mode');
-      lightToggleIcon.classList.remove('ti-sun-filled');
-      lightToggleIcon.classList.add('ti-moon-filled');
-      themeToggleLight.style.display = 'none';
-      themeToggleDark.style.display = 'inline';
-    } else {
-      document.body.classList.remove('dark-mode');
-      lightToggleIcon.classList.remove('ti-moon-filled');
-      lightToggleIcon.classList.add('ti-sun-filled');
-      themeToggleLight.style.display = 'inline';
-      themeToggleDark.style.display = 'none';
-    }
-  }
-
-  function toggleTheme() {
-    const isDarkMode = !document.body.classList.contains('dark-mode');
-    updateTheme(isDarkMode);
-  }
-
+  // Attach the common function to both buttons
   lightToggle.addEventListener('click', toggleTheme);
   themeToggle.addEventListener('click', toggleTheme);
 
