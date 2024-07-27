@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <br>
-<span style="font-size: 25px;">
+<span style="font-size: 25px; color: gold;">
 **Advancing RNA Research Together** <br>
 </span>
 <span style="font-size: 15px;">
