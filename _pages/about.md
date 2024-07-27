@@ -22,19 +22,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <br>
-<span style="font-size: 30px;">
+<span style="font-size: 25px; "color: gold;">
 **Advancing RNA Research Together** <br>
-<span style="font-size: 25px;">
+<span style="font-size: 15px;">
 Welcome to the Paris RNA Club, a community created by passionate RNA scientists for fellow enthusiasts. <br> Our mission is to provide a vibrant space for scientists to share their work, exchange ideas and network, ultimately advancing RNA research and fostering collaboration within the RNA community.<br><br>
-<span style="font-size: 30px;">
-**What We Offer:**<br>
 <span style="font-size: 25px;">
+**What We Offer:**<br>
+<span style="font-size: 15px;" color: gold;">
 •	Monthly Meetings: Each month we host two 30-minute talks from club members and guest speakers.<br>
 •	Engaging Discussions: The talks are followed by the opportunity to discuss and explore the topics in depth.<br>
 •	Networking Opportunities: You will be able to connect with fellow RNA scientists, build collaborations, and expand your professional network.<br><br>
-<span style="font-size: 30px;">
+<span style="font-size: 25px;"color: gold;">
 **Join Us:** <br> 
-<span style="font-size: 25px;">
+<span style="font-size: 15px;">
 All interested scientists are welcome to join the Paris RNA Club. Whether you're an established researcher or just starting your journey in RNA science, our club offers a supportive environment for growth and innovation.
 <br><br><br><br> 
 
