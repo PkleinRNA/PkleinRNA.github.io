@@ -132,15 +132,15 @@
   </nav>
   
   <!-- Profile section for theme-based image switching -->
-  <div class="profile float-{{ page.profile.align }}">
-    <!-- Light theme image -->
-    <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="theme-light" style="{{ page.profile.image_style }}">
-    <!-- Dark theme image -->
-    <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="theme-dark" style="{{ page.profile.image_style }}">
-    {% if page.profile.more_info %}
-      <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
-    {% endif %}
-  </div>
+  {% if page.profile %}
+    <div class="profile float-{{ page.profile.align }}">
+      <!-- Light theme image -->
+      <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_light }}" alt="Profile Light" class="theme-light" style="{{ page.profile.image_style }}">
+      <!-- Dark theme image -->
+      <img src="{{ site.baseurl }}/assets/img/{{ page.profile.image_dark }}" alt="Profile Dark" class="theme-dark" style="{{ page.profile.image_style }}">
+      {% if page.profile.more_info %}
+        <div class="more-info">{{ page.profile.more_info | markdownify }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
 </header>
-
-
