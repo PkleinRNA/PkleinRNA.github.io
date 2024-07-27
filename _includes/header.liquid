@@ -139,3 +139,63 @@
     </progress>
   {% endif %}
 </header>
+
+<style>
+/* Default to light theme */
+.profile-img-dark {
+  display: none;
+}
+
+body.dark-mode .profile-img-light {
+  display: none;
+}
+
+body.dark-mode .profile-img-dark {
+  display: block;
+}
+
+#theme-toggle {
+  cursor: pointer;
+  width: 20%; /* Adjust the width as needed */
+  max-width: 100px; /* Ensure it doesn't get too large */
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  z-index: 1000; /* Ensure it stays above other content */
+}
+</style>
+
+<img id="theme-toggle" src="{{ site.baseurl }}/assets/img/logo_480.jpeg" alt="Toggle Theme">
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    function applyTheme() {
+        let theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.body.classList.toggle('dark-mode', theme === 'dark');
+        switchProfileImage(theme);
+    }
+
+    function switchProfileImage(theme) {
+        const profileImageLight = document.querySelector('.profile-img-light');
+        const profileImageDark = document.querySelector('.profile-img-dark');
+        if (theme === 'dark') {
+            profileImageLight.style.display = 'none';
+            profileImageDark.style.display = 'block';
+        } else {
+            profileImageLight.style.display = 'block';
+            profileImageDark.style.display = 'none';
+        }
+    }
+
+    function toggleTheme() {
+        let theme = localStorage.getItem('theme') || 'light';
+        theme = theme === 'light' ? 'dark' : 'light';
+        localStorage.setItem('theme', theme);
+        applyTheme();
+    }
+
+    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
+    applyTheme();
+});
+</script>
