@@ -54,29 +54,3 @@ body.dark-theme .theme-dark {
   display: block;
 }
 
-/* Base styles */
-body {
-    font-family: Arial, sans-serif;
-}
-
-.profile-photo {
-    width: 200px;
-    height: 200px;
-    background-size: cover;
-    background-position: center;
-}
-
-/* Light theme */
-@media (prefers-color-scheme: light) {
-    .profile-photo {
-        background-image: url('/assets/img/logo_480.jpg');
-    }
-}
-
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-    .profile-photo {
-        background-image: url('/assets/img/logo_black_480.jpg');
-    }
-}
-
