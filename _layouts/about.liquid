@@ -67,39 +67,3 @@ layout: default
   </article>
 </div>
 
-
-<style>
-/* Default to light theme */
-.profile-img-dark {
-  display: none;
-}
-
-
-body.dark-mode .profile-img-light {
-  display: none;
-}
-
-
-body.dark-mode .profile-img-dark {
-  display: block;
-}
-
-#theme-toggle {
-  cursor: pointer;
-  width: 20%; /* Adjust the width as needed */
-  max-width: 100px; /* Ensure it doesn't get too large */
-}
-
-
-    function toggleTheme() {
-        let theme = localStorage.getItem('theme') || 'light';
-        theme = theme === 'light' ? 'dark' : 'light';
-        localStorage.setItem('theme', theme);
-        applyTheme();
-    }
-
-    document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme);
-    applyTheme();
-});
-</script>
