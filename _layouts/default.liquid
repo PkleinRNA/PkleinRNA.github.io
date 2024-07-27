@@ -13,17 +13,12 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
-
-
   </head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
-
-<!-- Add the script tag for theme.js here -->
-<script src="/assets/js/theme.js"></script>
 
     <!-- Content -->
     <div class="container mt-5" role="main">
@@ -80,5 +75,3 @@
     {% include scripts/search.liquid %}
   </body>
 </html>
-
-
