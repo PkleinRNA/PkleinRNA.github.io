@@ -288,4 +288,31 @@ function switchProfilePhoto() {
 }
 
 
+document.addEventListener('DOMContentLoaded', function () {
+  const lightToggle = document.getElementById('light-toggle');
+  const themeToggle = document.getElementById('theme-toggle');
+  const lightToggleLight = document.getElementById('light-toggle-light');
+  const lightToggleDark = document.getElementById('light-toggle-dark');
+  const themeToggleLight = document.getElementById('theme-toggle-light');
+  const themeToggleDark = document.getElementById('theme-toggle-dark');
+
+  function toggleTheme() {
+    const isLightMode = document.body.classList.toggle('dark-mode');
+
+    if (isLightMode) {
+      lightToggleLight.style.display = 'none';
+      lightToggleDark.style.display = 'inline';
+      themeToggleLight.style.display = 'none';
+      themeToggleDark.style.display = 'inline';
+    } else {
+      lightToggleLight.style.display = 'inline';
+      lightToggleDark.style.display = 'none';
+      themeToggleLight.style.display = 'inline';
+      themeToggleDark.style.display = 'none';
+    }
+  }
+
+  lightToggle.addEventListener('click', toggleTheme);
+  themeToggle.addEventListener('click', toggleTheme);
+});
 
