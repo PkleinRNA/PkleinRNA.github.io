@@ -1,3 +1,7 @@
+/*******************************************************************************
+ * Themes
+ ******************************************************************************/
+
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
@@ -52,14 +56,21 @@
     display: none;
   }
 
+  .profile-img-light {
+    display: block;
+  }
+  .profile-img-dark {
+    display: none;
+  }
+
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
-  }
-
-  /* Profile image visibility for light theme */
-  .profile-img-dark {
-    display: none;
+    bottom: $back-to-top-bottom;
+    right: $back-to-top-right;
+    height: $back-to-top-height;
+    width: $back-to-top-width;
+    z-index: $back-to-top-z-index;
   }
 }
 
@@ -102,9 +113,11 @@ html[data-theme="dark"] {
     display: block;
   }
 
-  /* Profile image visibility for dark theme */
   .profile-img-light {
     display: none;
+  }
+  .profile-img-dark {
+    display: block;
   }
 }
 
