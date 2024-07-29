@@ -117,12 +117,12 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
-            <!-- Toogle theme mode -->
+            <!-- Toggle theme mode -->
             <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <i class="ti ti-sun-moon" id="light-toggle-system"></i>
-                <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
-                <i class="ti ti-sun-filled" id="light-toggle-light"></i>
+              <button id="theme-toggle" title="Change theme">
+                <i class="ti ti-sun-moon" id="theme-toggle-system"></i>
+                <i class="ti ti-moon-filled" id="theme-toggle-dark"></i>
+                <i class="ti ti-sun-filled" id="theme-toggle-light"></i>
               </button>
             </li>
           {% endif %}
@@ -138,4 +138,9 @@
       </div>
     </progress>
   {% endif %}
+  <!-- Profile Photo -->
+  <div class="profile-photo">
+    <img id="profile-photo" src="{{ site.baseurl }}/assets/images/profile-photo-{{ site.theme }}.jpg" alt="Profile Photo">
+  </div>
 </header>
+
