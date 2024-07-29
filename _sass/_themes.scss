@@ -65,6 +65,14 @@
     width: $back-to-top-width;
     z-index: $back-to-top-z-index;
   }
+
+  .profile-photo-light {
+    display: block;
+  }
+
+  .profile-photo-dark {
+    display: none;
+  }
 }
 
 html[data-theme="dark"] {
@@ -103,6 +111,14 @@ html[data-theme="dark"] {
     display: none;
   }
   .repo-img-dark {
+    display: block;
+  }
+
+  .profile-photo-light {
+    display: none;
+  }
+
+  .profile-photo-dark {
     display: block;
   }
 }
