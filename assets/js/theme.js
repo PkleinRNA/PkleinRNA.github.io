@@ -29,6 +29,7 @@ let applyTheme = () => {
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
+  updateProfilePhoto(theme);
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
@@ -80,6 +81,13 @@ let applyTheme = () => {
     medium_zoom.update({
       background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
     });
+  }
+};
+
+let updateProfilePhoto = (theme) => {
+  const profilePhoto = document.getElementById('profile-photo');
+  if (profilePhoto) {
+    profilePhoto.src = `/assets/images/profile-photo-${theme}.jpg`;
   }
 };
 
@@ -243,6 +251,9 @@ let initTheme = () => {
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
     });
+
+    // Initial profile photo setting
+    updateProfilePhoto(determineComputedTheme());
   });
 
   // Add event listener to the system theme preference change.
@@ -250,3 +261,6 @@ let initTheme = () => {
     applyTheme();
   });
 };
+
+// Initialize the theme on page load
+initTheme();
