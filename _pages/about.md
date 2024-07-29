@@ -6,7 +6,8 @@ subtitle: <a href='#'></a>
 
 profile:
   align: right
-  image: logo_480.jpeg
+  profile-photo-light.jpg: logo_480.jpeg
+  profile-photo-dark.jpg: logo_black_480.jpg
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;"
   more_info: >
