@@ -25,7 +25,7 @@ let setThemeSetting = (themeSetting) => {
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
-  transTheme();
+  transTheme(theme);
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
@@ -198,10 +198,24 @@ let setSearchTheme = (theme) => {
   }
 };
 
-let transTheme = () => {
+let setProfilePicture = (theme) => {
+  const profileImageWithTheme = document.getElementById('profile-image-theme');
+  if (profileImageWithTheme) {
+    const lightImage = profileImageWithTheme.getAttribute('data-light');
+    const darkImage = profileImageWithTheme.getAttribute('data-dark');
+    if (theme === "dark") {
+      profileImageWithTheme.src = darkImage;
+    } else {
+      profileImageWithTheme.src = lightImage;
+    }
+  }
+}
+
+let transTheme = (theme) => {
   document.documentElement.classList.add("transition");
   window.setTimeout(() => {
     document.documentElement.classList.remove("transition");
+    setProfilePicture(theme);
   }, 500);
 };
 
