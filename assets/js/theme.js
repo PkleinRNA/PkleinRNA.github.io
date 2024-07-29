@@ -25,6 +25,14 @@ let setThemeSetting = (themeSetting) => {
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
+// Change profile photo based on theme
+  let profilePhoto = document.getElementById("profile-photo");
+  if (theme == "dark") {
+    profilePhoto.src = "path/to/dark/profile/photo.jpg"; // replace with the actual path to your dark profile photo
+  } else {
+    profilePhoto.src = "path/to/light/profile/photo.jpg"; // replace with the actual path to your light profile photo
+  }
+  
   transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
