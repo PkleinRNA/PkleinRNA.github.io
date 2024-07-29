@@ -87,7 +87,7 @@ let applyTheme = () => {
 let updateProfilePhoto = (theme) => {
   const profilePhoto = document.getElementById('profile-photo');
   if (profilePhoto) {
-    profilePhoto.src = `/assets/images/profile-photo-${theme}.jpg`;
+    profilePhoto.src = `/assets/img/profile-photo-${theme}.jpg`;
   }
 };
 
