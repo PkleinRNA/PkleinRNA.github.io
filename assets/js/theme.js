@@ -1,25 +1,11 @@
-// Has to be in the head tag, otherwise a flicker effect will occur.
-
-// Toggle through light, dark, and system theme settings.
-let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting === "system") {
-    setThemeSetting("light");
-  } else if (themeSetting === "light") {
-    setThemeSetting("default");
-  } else {
-    setThemeSetting("system");
+let updateProfilePhoto = (theme) => {
+  const profilePhoto = document.getElementById('profile-photo');
+  if (profilePhoto) {
+    let photoSrc = theme === "default" ? "{{ page.profile.dark }}" : "{{ page.profile.light }}";
+    profilePhoto.src = `{{ site.baseurl }}/assets/img/${photoSrc}`;
   }
 };
 
-// Change the theme setting and apply the theme.
-let setThemeSetting = (themeSetting) => {
-  localStorage.setItem("theme", themeSetting);
-  document.documentElement.setAttribute("data-theme-setting", themeSetting);
-  applyTheme();
-};
-
-// Apply the computed dark or light theme to the website.
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
@@ -75,150 +61,7 @@ let applyTheme = () => {
   }
 };
 
-let updateProfilePhoto = (theme) => {
-  const profilePhoto = document.getElementById('profile-photo');
-  if (profilePhoto) {
-    const profilePhotoPath = theme === "default" ? "{{ site.profile.dark }}" : "{{ site.profile.light }}";
-    profilePhoto.src = `/assets/img/${profilePhotoPath}`;
-  }
-};
-
-let setHighlight = (theme) => {
-  if (theme === "default") {
-    document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
-  } else {
-    document.getElementById("highlight_theme_dark").media = "none";
-    document.getElementById("highlight_theme_light").media = "";
-  }
-};
-
-let setGiscusTheme = (theme) => {
-  function sendMessage(message) {
-    const iframe = document.querySelector("iframe.giscus-frame");
-    if (!iframe) return;
-    iframe.contentWindow.postMessage({ giscus: message }, "https://giscus.app");
-  }
-
-  sendMessage({
-    setConfig: {
-      theme: theme,
-    },
-  });
-};
-
-let addMermaidZoom = (records, observer) => {
-  var svgs = d3.selectAll(".mermaid svg");
-  svgs.each(function () {
-    var svg = d3.select(this);
-    svg.html("<g>" + svg.html() + "</g>");
-    var inner = svg.select("g");
-    var zoom = d3.zoom().on("zoom", function (event) {
-      inner.attr("transform", event.transform);
-    });
-    svg.call(zoom);
-  });
-  observer.disconnect();
-};
-
-let setMermaidTheme = (theme) => {
-  if (theme === "light") {
-    theme = "default";
-  }
-
-  document.querySelectorAll(".mermaid").forEach((elem) => {
-    let svgCode = elem.previousSibling.childNodes[0].innerHTML;
-    elem.removeAttribute("data-processed");
-    elem.innerHTML = svgCode;
-  });
-
-  mermaid.initialize({ theme: theme });
-  window.mermaid.init(undefined, document.querySelectorAll(".mermaid"));
-
-  const observable = document.querySelector(".mermaid svg");
-  if (observable !== null) {
-    var observer = new MutationObserver(addMermaidZoom);
-    const observerOptions = { childList: true };
-    observer.observe(observable, observerOptions);
-  }
-};
-
-let setDiff2htmlTheme = (theme) => {
-  document.querySelectorAll(".diff2html").forEach((elem) => {
-    let textData = elem.previousSibling.childNodes[0].innerHTML;
-    elem.innerHTML = "";
-    const configuration = { colorScheme: theme, drawFileList: true, highlight: true, matching: "lines" };
-    const diff2htmlUi = new Diff2HtmlUI(elem, textData, configuration);
-    diff2htmlUi.draw();
-  });
-};
-
-let setEchartsTheme = (theme) => {
-  document.querySelectorAll(".echarts").forEach((elem) => {
-    let jsonData = elem.previousSibling.childNodes[0].innerHTML;
-    echarts.dispose(elem);
-
-    if (theme === "default") {
-      var chart = echarts.init(elem, "dark-fresh-cut");
-    } else {
-      var chart = echarts.init(elem);
-    }
-
-    chart.setOption(JSON.parse(jsonData));
-  });
-};
-
-let setVegaLiteTheme = (theme) => {
-  document.querySelectorAll(".vega-lite").forEach((elem) => {
-    let jsonData = elem.previousSibling.childNodes[0].innerHTML;
-    elem.innerHTML = "";
-    if (theme === "default") {
-      vegaEmbed(elem, JSON.parse(jsonData), { theme: "dark" });
-    } else {
-      vegaEmbed(elem, JSON.parse(jsonData));
-    }
-  });
-};
-
-let setSearchTheme = (theme) => {
-  const ninjaKeys = document.querySelector("ninja-keys");
-  if (!ninjaKeys) return;
-
-  if (theme === "default") {
-    ninjaKeys.classList.add("dark");
-  } else {
-    ninjaKeys.classList.remove("dark");
-  }
-};
-
-let transTheme = () => {
-  document.documentElement.classList.add("transition");
-  window.setTimeout(() => {
-    document.documentElement.classList.remove("transition");
-  }, 500);
-};
-
-let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
-  if (themeSetting !== "default" && themeSetting !== "light" && themeSetting !== "system") {
-    themeSetting = "system";
-  }
-  return themeSetting;
-};
-
-let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting === "system") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      return "default";
-    } else {
-      return "light";
-    }
-  } else {
-    return themeSetting;
-  }
-};
+// Other JavaScript functions here...
 
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
