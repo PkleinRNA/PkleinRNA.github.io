@@ -78,7 +78,8 @@ let applyTheme = () => {
 let updateProfilePhoto = (theme) => {
   const profilePhoto = document.getElementById('profile-photo');
   if (profilePhoto) {
-    profilePhoto.src = `/assets/img/profile-photo-${theme}.jpg`;
+    const profilePhotoPath = theme === "default" ? "{{ site.profile.dark }}" : "{{ site.profile.light }}";
+    profilePhoto.src = `/assets/img/${profilePhotoPath}`;
   }
 };
 
