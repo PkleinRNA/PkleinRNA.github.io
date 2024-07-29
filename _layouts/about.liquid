@@ -17,21 +17,35 @@ layout: default
  <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-0
-      rounded' %}
+
+        <!-- Prioritise theme sensitive profile images  -->
+        {% if page.profile.image_light and page.profile.image_dark %}
+          {% assign profile_image_light_path = page.profile.image_light | prepend: 'assets/img/' %}
+          {% assign profile_image_dark_path = page.profile.image_dark | prepend: 'assets/img/' %}
+
+          {% assign profile_image_class = 'img-fluid z-depth-0' %}
+
+          <img id="profile-image-theme" class="{{ profile_image_class }}" data-light="{{ profile_image_light_path }}" data-dark="{{ profile_image_dark_path }}" alt="{{ page.profile.image_alt }}">
+
+        {% else %}
+
+          {% if page.profile.image %}
+            {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+            {% if page.profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-0
+        rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+        30vw, 95vw"{% endcapture %}
+            {%
+              include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+              cache_bust=true
+            %}
           {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
         {% endif %}
+
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -78,4 +92,3 @@ layout: default
     {% endif %}
   </article>
 </div>
-
