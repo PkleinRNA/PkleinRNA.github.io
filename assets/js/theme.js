@@ -25,26 +25,11 @@ let setThemeSetting = (themeSetting) => {
 let applyTheme = () => {
   let theme = determineComputedTheme();
 
-// Change profile photo based on theme
-  let profilePhoto = document.getElementById("profile-photo");
-  if (theme == "dark") {
-    profilePhoto.src = "/assets/img/profile_480.jpeg"; // replace with the actual path to your dark profile photo
-  } else {
-    profilePhoto.src = "path/to/img/profile_black_480.jpeg"; // replace with the actual path to your light profile photo
-  }
-  
   transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
 
-let profilePhoto = document.getElementById("image"); // replace "profile-photo" with the actual id of your profile photo element
-  if (theme == "dark") {
-    profilePhoto.src = "/assets/img/logo.jpg"; // replace with the actual path to your dark profile photo
-  } else {
-    profilePhoto.src = "assets/img/logo_480.jpg"; // replace with the actual path to your light profile photo
-  }
-  
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
     setMermaidTheme(theme);
