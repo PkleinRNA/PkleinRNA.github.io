@@ -6,6 +6,7 @@ title: Paris RNA Club # the website title (if blank, full name will be used inst
 first_name: 
 middle_name:
 last_name: P.Klein
+Join_us: Join Us
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  Paris RNA Club
