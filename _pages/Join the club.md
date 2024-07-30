@@ -10,7 +10,7 @@ profile2:
   align: top
   image: Updated_RNA_related_word_cloud-480.jpg
   image_circular: false # crops the image to make it circular
-  image_style: 
+  image_style: border: 1px solid black;
   more_info: > 
     <p></p>
     <p></p>
