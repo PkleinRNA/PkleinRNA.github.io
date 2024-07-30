@@ -1,4 +1,4 @@
-![Updated_RNA_related_word_cloud-480](https://github.com/user-attachments/assets/a1cda153-2c66-4738-8897-aef0df8c38db)---
+---
 layout: about2
 title: Join
 permalink: /join-the-club/
