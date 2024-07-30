@@ -15,7 +15,7 @@ layout: default
   </header>
 
 
-<article>
+  <article>
     {% if page.profile2 %}
       <div class="profile2 float-{% if page.profile2.align == 'top' %}top{% else %}bottom{% endif %}" style="margin: 10px;">
         {% if page.profile2.image %}
@@ -23,7 +23,7 @@ layout: default
           {% if page.profile2.image_circular %}
             {% assign profile2_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile2_image_class = 'img-fluid z-depth-1
+            {% assign profile2_image_class = 'img-fluid z-depth-0
       rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 800px)
@@ -43,6 +43,9 @@ layout: default
 
 
     <div class="clearfix">{{ content }}</div>
+
+
+
 
 
 
