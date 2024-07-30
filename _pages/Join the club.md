@@ -1,15 +1,11 @@
 ---
-layout: profiles
-permalink: /Join us/
-title: Join us
-description:
-nav: true
-nav_order: 2
----
+layout: about2
+title: Join
+permalink: /join-the-club/
+description: 
 
 
-
-profile2:
+about:
   align: top
   image: Updated_RNA_related_word_cloud-480.webp
   image_circular: false # crops the image to make it circular
