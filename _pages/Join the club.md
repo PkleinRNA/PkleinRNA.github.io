@@ -8,7 +8,7 @@ nav_order: 2
 
 profile2:
   align: top
-  image: untitled.png
+  image: Untitled.png
   image_circular: false # crops the image to make it circular
   image_style: "border: 4px solid black;" # adds a black border around the image
   more_info: > 
