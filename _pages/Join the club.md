@@ -1,4 +1,4 @@
----
+![Updated_RNA_related_word_cloud-480](https://github.com/user-attachments/assets/a1cda153-2c66-4738-8897-aef0df8c38db)---
 layout: about2
 title: Join
 permalink: /join-the-club/
@@ -8,7 +8,7 @@ nav_order: 2
 
 profile2:
   align: top
-  image: Untitled.png
+  image: Updated_RNA_related_word_cloud-480.png
   image_circular: false # crops the image to make it circular
   image_style: "border: 0px solid black;" # adds a black border around the image
   more_info: > 
