@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: about
 permalink: /Join us/
-title: Joun us
+title: Join us
 description:
 nav: true
 nav_order: 2
 ---
+
+
 
 profile2:
   align: top
