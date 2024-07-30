@@ -1,10 +1,11 @@
 ---
-layout: about2
-title: Join
-permalink: /join-the-club/
-description: 
+layout: page
+permalink: /Join us/
+title: Joun us
+description:
 nav: true
 nav_order: 2
+---
 
 profile2:
   align: top
