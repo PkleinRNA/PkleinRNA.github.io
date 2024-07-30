@@ -10,7 +10,7 @@ profile2:
   align: top
   image: Untitled.png
   image_circular: false # crops the image to make it circular
-  image_style: "border: 4px solid black;" # adds a black border around the image
+  image_style: "border: 0px solid black;" # adds a black border around the image
   more_info: > 
     <p></p>
     <p></p>
