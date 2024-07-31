@@ -118,7 +118,7 @@ zotero_username: # your zotero username
 
 
 contact_note: >
-  Contact us at "contact@parisrnaclub.fr"
+  Contact us at <a href="mailto:contact@parisrnaclub.fr">contact@parisrnaclub.fr</a>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
