@@ -9,7 +9,8 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages
-  - align: right
+ 
+- align: right
   image: Photo.jpg
   content: about_pierre.md
   image_circular: True # crops the image to make it circular
@@ -33,4 +34,3 @@ profiles:
     <p style="text-align: right;"><a href="mailto:clement.carre@gmail.com">clement.carre@gmail.com</a></p>
     <p></p>
     <p></p>   
----
