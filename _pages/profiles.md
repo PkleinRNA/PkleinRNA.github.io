@@ -15,7 +15,7 @@ profiles:
   content: about_pierre.md
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p style="text-align: right;"><a href="mailto:klein.pierre1@gmail.com">klein.pierre1@gmail.com</a></p>
+    <p style="text-align: right;"><a href="mailto:klein.pierre1&#64;gmail&#46;com">klein.pierre1&#64;gmail&#46;com</a></p>
     <p></p>
     <p></p>
 - align: left
