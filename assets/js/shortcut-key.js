@@ -1,1 +1,1 @@
-document.addEventListener("readystatechange",()=>{if("interactive"===document.readyState){let e=navigator.platform.toUpperCase().indexOf("MAC")>=0,t=document.querySelector("#search-toggle .nav-link");t&&e&&(t.innerHTML='Search k <i class="ti ti-search"></i>')}});
+document.addEventListener("readystatechange",()=>{if("interactive"===document.readyState){let e=navigator.platform.toUpperCase().indexOf("MAC")>=0,t=document.querySelector("#search-toggle .nav-link");t&&e&&(t.innerHTML='Search <i class="ti ti-search"></i>')}});
