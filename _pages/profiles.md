@@ -23,7 +23,7 @@ profiles:
   content: about_herve.md
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p style="text-align: left;"><a href="mailto:herve.lehir@bio.ens.psl.eu">herve.lehir@bio.ens.psl.eu</a></p>
+    <p style="text-align: left;"><a href="mailto:herve.lehir1&#64;bio&#46;ens&#46;psl&#46;eu">herve.lehir1&#64;bio&#46;ens&#46;psl&#46;eu</a></p>
     <p></p>
     <p></p>
 - align: right
@@ -31,7 +31,7 @@ profiles:
   content: about_clement.md
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p style="text-align: right;"><a href="mailto:clement.carre@gmail.com">clement.carre@gmail.com</a></p>
+    <p style="text-align: right;"><a href="mailto:clement.carre1&#64;gmail&#46;com">clement.carre1&#64;gmail&#46;com</a></p>
     <p></p>
     <p></p>   
 
