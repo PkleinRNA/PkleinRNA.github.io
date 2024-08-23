@@ -5,7 +5,7 @@ document.addEventListener("readystatechange", () => {
     let shortcutKeyElement = document.querySelector("#search-toggle .nav-link");
     if (shortcutKeyElement && isMac) {
       // use the unicode for command key
-      shortcutKeyElement.innerHTML = 'Search k <i class="ti ti-search"></i>';
+      shortcutKeyElement.innerHTML = 'Search <i class="ti ti-search"></i>';
     }
   }
 });
