@@ -11,6 +11,8 @@ nav_order: 3
 <span style="font-size: 20px;">
 Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks followed by refreshments, allowing further discussions.<br>
 
+Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois <br><br>
+
 October 2024 - Thursday 10th<br><br>
 November 2024 - Thursday 14th <br><br>
 December 2024 - Thursday 12th<br><br>
@@ -20,5 +22,3 @@ March 2025 - Thursday 13th <br><br>
 April 2025 - Thursday 17th <br><br>
 May 2025 - Thursday 15th <br><br>
 June 2025 - Thursday 19th<br><br><br><br>
-
-ROOM WILL BE COMMUNICATED SOON - STAY TUNED
