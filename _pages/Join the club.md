@@ -18,7 +18,11 @@ profile2:
 ---
 <br><br>
 <span style="font-size: 20px;">
-If you would like to join the club and subscribe to the newsletter, please fill in the information below. We look forward to seeing you at the next meeting! We will send you an inviation email, after you've clicked submit. Please check you spams and contact us if you haven't heard from us.
+We’re excited to welcome you to our community. Please fill out the information below to join the club and subscribe to our newsletter.
+
+You will receive a confirmation email within 48 hours. If you don’t hear from us, please check your spam folder or contact us at contact@parisrnaclub.fr.
+
+We look forward to seeing you at our next meeting!
 
 {% include contact-form.html %}
 
