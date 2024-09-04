@@ -11,6 +11,7 @@ nav_order: 3
 <span style="font-size: 20px;">
 Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks followed by refreshments, allowing further discussions.<br>
 
+<span style="font-size: 20px;">
 Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois <br><br>
 
 October 2024 - Thursday 10th<br><br>
