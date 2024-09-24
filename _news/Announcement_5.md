@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are happy to announce our first speakers: Adham SAFIEDDINE and Benoit PALANCADE 
+We are thrilled to announce our first speakers: Adham SAFIEDDINE and Benoit PALANCADE 
