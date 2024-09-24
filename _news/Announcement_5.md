@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"We are thrilled to announce our first speakers: Adham SAFIEDDINE and Benoit PALANCADE" 
+We are seeking an early career researcher to speak at our upcoming meeting in November. If you are interested in presenting your research, please get in touch with us
