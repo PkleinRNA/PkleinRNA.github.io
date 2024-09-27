@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 <span style="font-size: 40px;">
-**2024/2025** <br><br>
+**2024/2025** <br>
 <span style="font-size: 20px;">
 Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks followed by refreshments, allowing further discussions.<br>
 
