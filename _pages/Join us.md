@@ -15,8 +15,8 @@ Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks fo
 Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois <br><br>
 
 October 2024 - Thursday 10th : [Adham SAFIEDDINE and Benoit PALANCADE](/speakers/October/) <br><br> 
-November 2024 - Thursday 14th : Carine TISNE <br><br> 
-December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/jagodnik-vaucheret/) <br><br>
+November 2024 - Thursday 14th : [Carine TISNE](/speakers/November/) <br><br> 
+December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/December/) <br><br>
 January 2025 - Thursday 16th : TBC <br><br> 
 February 2025 - Thursday 13th : TBC <br><br> 
 March 2025 - Thursday 13th : TBC <br><br>
