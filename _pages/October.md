@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talk by Adham SAFIEDDINE and Benoit PALANCADE"
+title: "Talks by Adham SAFIEDDINE and Benoit PALANCADE"
 permalink: /speakers/October/
 ---
 
