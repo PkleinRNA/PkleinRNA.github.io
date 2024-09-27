@@ -4,8 +4,6 @@ title: "Talks by Jonathan JAGODNIK and Hervé VAUCHERET"
 permalink: /speakers/December/
 ---
 
-## Speakers <br>
-
 **Jonathan JAGODNIK**  
 Institut de Biologie Physico-Chimique, Paris, CNRS UMR8261 : Expression Génétique Microbienne.
 
