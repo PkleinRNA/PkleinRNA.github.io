@@ -3,8 +3,7 @@ layout: page
 title: "Talks by Adham SAFIEDDINE and Benoit PALANCADE"
 permalink: /speakers/October/
 ---
-
-**Adham SAFIEDDINE**  
+<span style="font-size: 1.5em;"><strong>Adham SAFIEDDINE</strong></span><br>
 Institut de biologie Paris-Seine IBPS, CNRS
 
 **Title**:  
