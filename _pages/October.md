@@ -4,8 +4,6 @@ title: "Talks by Adham SAFIEDDINE and Benoit PALANCADE"
 permalink: /speakers/October/
 ---
 
-## First speaker
-
 **Adham SAFIEDDINE**  
 Institut de biologie Paris-Seine IBPS, CNRS
 
@@ -13,9 +11,8 @@ Institut de biologie Paris-Seine IBPS, CNRS
 Cell cycle-dependent mRNA localization in P-bodies
 
 **Abstract**:  
-Understanding the dynamics of RNA targeting to membraneless organelles is essential to disentangle their functions. Notably, whether p-bodies (PBs) participate in regulation of gene expression remains unclear. To tackle this question, we investigate how PBs evolve during cell cycle progression. PB purification across the cell cycle uncovers widespread changes in their RNA content, which are partly uncoupled from cell cycle-dependent changes in RNA expression. Single molecule FISH shows various mRNA localization patterns in PBs peaking in G1, S, or G2, with examples illustrating the timely capture of mRNAs in PBs when their encoded protein becomes dispensable. However, rather than directly reflecting absence of translation, cyclic mRNA localization in PBs is controlled by extrinsic (RNA binding proteins) and intrinsic (RNA features) factors. Indeed, while PB mRNAs are AU-rich at all cell cycle phases, they are specifically longer in G1, suggesting their involvement in post-mitotic PB reassembly. Altogether, our study supports a model where PBs are more than a default location for excess untranslated mRNAs.
+Understanding the dynamics of RNA targeting to membraneless organelles is essential to disentangle their functions. Notably, whether p-bodies (PBs) participate in regulation of gene expression remains unclear. To tackle this question, we investigate how PBs evolve during cell cycle progression. PB purification across the cell cycle uncovers widespread changes in their RNA content, which are partly uncoupled from cell cycle-dependent changes in RNA expression. Single molecule FISH shows various mRNA localization patterns in PBs peaking in G1, S, or G2, with examples illustrating the timely capture of mRNAs in PBs when their encoded protein becomes dispensable. However, rather than directly reflecting absence of translation, cyclic mRNA localization in PBs is controlled by extrinsic (RNA binding proteins) and intrinsic (RNA features) factors. Indeed, while PB mRNAs are AU-rich at all cell cycle phases, they are specifically longer in G1, suggesting their involvement in post-mitotic PB reassembly. Altogether, our study supports a model where PBs are more than a default location for excess untranslated mRNAs.<br><br>
 
-## Second speaker
 
 **Benoit PALANCADE** 
 RNA biogenesis and genome homeostasis, Institut Jacques Monod, CNRS, Université Paris Cité, Paris, France
