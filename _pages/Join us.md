@@ -12,7 +12,8 @@ nav_order: 3
 Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks followed by refreshments, allowing further discussions.<br>
 
 <span style="font-size: 20px;">
-Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois <br><br>
+Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/images/map.jpeg" target="_blank">click here to open the map</a>) <br><br>
+
 
 October 2024 - Thursday 10th : [Adham SAFIEDDINE and Benoit PALANCADE](/speakers/October/) <br><br> 
 November 2024 - Thursday 14th : [Carine TISNE](/speakers/November/) <br><br> 
