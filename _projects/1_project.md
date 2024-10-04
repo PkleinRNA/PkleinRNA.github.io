@@ -17,3 +17,13 @@ permalink: /Conference_highlights
 Prof. Soldano is a group leader at the Department of Neurogenetics at the SISSA in Trieste (Italy). Her group investigates the role of mRNA modifications in nervous system development and diseases.
  
 If you want to discuss with Prof. Soldano in person, please contact me by email (ariane.ramaekers@curie.fr).
+
+
+<span style="font-size: 1.5em;"><strong> ---- </strong></span><br>
+
+
+
+<span style="font-size: 1.5em;"><strong> ---- </strong></span><br>
+
+<span style="font-size: 1.5em;"><strong>13th SifrARN, Lyon November 18-20 2024 </strong></span><br>
+![SifrARN 2024 Affiche](/pages/SifrARN2024_Affiche.jpg)
