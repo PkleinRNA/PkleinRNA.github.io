@@ -22,5 +22,5 @@ If you want to discuss with Prof. Soldano in person, please contact me by email 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 <span style="font-size: 1.5em;"><strong>13th SifrARN, Lyon November 18-20 2024 </strong></span><br>
-![SifrARN 2024 Affiche](/_site/_pages/SifrARN2024_Affiche.jpg)
+![SifrARN 2024 Affiche](/_projects/SifrARN2024_Affiche.jpg)
 
