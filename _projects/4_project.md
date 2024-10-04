@@ -6,6 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+permalink: /Conference_highlights 
 ---
 
 <span style="font-size: 1.5em;"><strong>Wednesday October 9, at 9:30 am</strong></span><br>
