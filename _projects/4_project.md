@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference highlights 
-description: Conference highlights 
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
