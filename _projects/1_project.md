@@ -8,7 +8,7 @@ category: work
 related_publications: true
 permalink: /Conference_highlights 
 ---
-
+<br><br><br>
 <span style="font-size: 1.5em;"><strong>Wednesday October 9, at 9:30 am at Institut Curie (Amphithéâtre Marie Curie) </strong></span><br>
 
 <span style="font-size: 1.5em;"><strong> Talk: “m6A mRNA modification: a new layer of regulation of brain development from neurons to glia” </strong></span><br>
