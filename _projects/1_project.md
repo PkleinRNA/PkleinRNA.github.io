@@ -2,7 +2,7 @@
 layout: page
 title: Conference highlights 
 description: 
-img: assets/img/img12.jpeg
+img: assets/img/img13.jpeg
 importance: 1
 category: work
 related_publications: true
