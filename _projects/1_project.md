@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference highlights 
-description: 
+description: Publish an RNA conference
 img: assets/img/img14.jpeg
 importance: 1
 category: work
