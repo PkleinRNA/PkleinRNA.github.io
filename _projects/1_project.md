@@ -9,7 +9,7 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 <br><br><br>
-<span style="font-size: 1.5em;"><strong> ---- </strong></span><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 <span style="font-size: 1.5em;"><strong>Wednesday October 9, at 9:30 am at Institut Curie (Amphithéâtre Marie Curie) </strong></span><br>
 
 <span style="font-size: 1.5em;"><strong> Talk: “m6A mRNA modification: a new layer of regulation of brain development from neurons to glia” </strong></span><br>
@@ -20,8 +20,7 @@ Prof. Soldano is a group leader at the Department of Neurogenetics at the SISSA 
 If you want to discuss with Prof. Soldano in person, please contact me by email (ariane.ramaekers@curie.fr).
 
 
-<span style="font-size: 1.5em;"><strong> ---- </strong></span><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 <span style="font-size: 1.5em;"><strong>13th SifrARN, Lyon November 18-20 2024 </strong></span><br>
-[SifrARN 2024 Affiche](/_pages/SifrARN2024_Affiche.jpg)
 ![SifrARN 2024 Affiche](/_pages/SifrARN2024_Affiche.jpg)
 
