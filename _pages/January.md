@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Talks by Grégory Boël"
+title: "Talks by Grégory BOËL"
 permalink: /speakers/January/
 ---
-<span style="font-size: 1.5em;"><strong>Grégory Boël</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Grégory BOËL</strong></span><br>
 UMR8261 CNRS / Université Paris Cité
 Institut de Biologie Physico-Chimique
 
