@@ -17,7 +17,7 @@ Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/im
 October 2024 - Thursday 10th : [Adham SAFIEDDINE and Benoit PALANCADE](/speakers/October/) <br><br> 
 November 2024 - Thursday 14th : [Carine TISNE](/speakers/November/) <br><br> 
 December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/December/) <br><br>
-January 2025 - Thursday 16th : [Grégory Boël](/speakers/January/) <br><br> 
+January 2025 - Thursday 16th : [Grégory BOËL](/speakers/January/) <br><br> 
 February 2025 - Thursday 13th : TBC <br><br> 
 March 2025 - Thursday 13th : TBC <br><br>
 April 2025 - Thursday 17th : TBC <br><br> 
