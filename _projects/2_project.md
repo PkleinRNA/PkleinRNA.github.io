@@ -25,5 +25,5 @@ Tracks: The Maraganore Early Independence Fellows (RNA biology, RNA therapeutics
 
 <span style="font-size: 1.5em;"><strong>Application Deadline: December 1, 2024 (priority consideration)</strong></span><br>
 
-More details cans be found here: https://www.umassmed.edu/rti/about-the-rti/fellows/
+<span style="font-size: 1.5em;"><strong><a href="https://www.umassmed.edu/rti/about-the-rti/fellows/"> More details cans be found here:  </a></strong></span><br>
 
