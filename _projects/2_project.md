@@ -11,7 +11,7 @@ permalink: /Job_highlights
 
 
 
-The RTI at UMass Chan is seeking applicants for the newly established <span style="font-size: 1.5em;"><strong>UMass Chan Early Independence Fellows Program and the Maraganore Early Independence Fellows track in the RNA Therapeutics Institute (RTI). </strong></span><br>
+<span style="font-size: 1.5em;"><strong> The RTI at UMass Chan is seeking applicants for the newly established UMass Chan Early Independence Fellows Program and the Maraganore Early Independence Fellows track in the RNA Therapeutics Institute (RTI). </strong></span><br>
 
 <span style="font-size: 1.5em;"><strong>Program description: </strong></span><br> The goal of the UMass Chan Early Independence Fellows Program is to recruit clusters of exceptionally talented junior scientists with the potential to become independent investigators at UMass Chan Medical School, and to provide them with career development, mentoring, and financial support to foster their scientific excellence and leadership. In recognition of diversity as a driver of innovation and scientific impact, we are committed to building and sustaining an inclusive environment with talented individuals from all backgrounds, including backgrounds that are underrepresented in medicine and the biomedical sciences, who embrace a commitment to diversity, equity and inclusion in line with our institutional goals (IMPACT 2025).  
 
@@ -26,5 +26,5 @@ Tracks: The Maraganore Early Independence Fellows (RNA biology, RNA therapeutics
 
 <span style="font-size: 1.5em;"><strong>Application Deadline: December 1, 2024 (priority consideration)</strong></span><br>
 
-<span style="font-size: 1.5em;"><strong><a href="https://www.umassmed.edu/rti/about-the-rti/fellows/"> More details can be found here  </a></strong></span><br>
+<span style="font-size: 1.5em;"><strong><a href="https://www.umassmed.edu/rti/about-the-rti/fellows/"> More details can be found here </a></strong></span><br>
 
