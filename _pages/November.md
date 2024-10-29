@@ -3,7 +3,7 @@ layout: page
 title: "Talk by Olivia CHARMANT and Carine TISNE"
 permalink: /speakers/November/
 ---
-<span style="font-size: 1.5em;"><strong>Olivia Charmant</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Olivia CHARMANTt</strong></span><br>
 Sandra DUHARCOURT's lab - Élimination programmée du génome, Institut Jacques Monod 
 
 **Title**:  
