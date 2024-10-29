@@ -22,10 +22,5 @@ children:
  - title: Reini Lf Luco's lab - Chromatin & RNA 
     permalink: https://institut-curie.org/team/luco
  - title: Christian Muschardt's lab - Epigenetics and RNA metabolism in human diseases
-    permalink: https://www.ibps.upmc.fr/fr/Recherche/umr-8256/epigenetique-metabolisme-arn-maladies-humaines
- - title: 
-    permalink:
- - title: 
-    permalink:
-                                    
+    permalink: https://www.ibps.upmc.fr/fr/Recherche/umr-8256/epigenetique-metabolisme-arn-maladies-humaines                
 ---
