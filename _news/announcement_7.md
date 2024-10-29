@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Click here to access our dedicated page featuring highlighted RNA conferences](/Conference_highlights)
+We welcome our new affiliated lab! 
