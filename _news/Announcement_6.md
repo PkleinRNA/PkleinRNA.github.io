@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Click here to access our dedicated page featuring highlighted RNA conferences](/Conference_highlights)
+[Click here to access our dedicated page featuring highlighted RNA conferences.](/Conference_highlights)
