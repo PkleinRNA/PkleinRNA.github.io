@@ -6,6 +6,7 @@ img: assets/img/10.jpg
 importance: 1
 category: work
 related_publications: true
+permalink: /job_highlights
 ---
 
 
