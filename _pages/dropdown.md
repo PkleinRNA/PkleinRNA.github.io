@@ -15,7 +15,7 @@ children:
     permalink: https://www.ijm.fr/research-topics/duharcourt-lab-va/?lang=en
 - title: Daniel Gautheret's lab - RNA sequence, structure and function
     permalink: https://www.i2bc.paris-saclay.fr/equipe-rna-sequence-structure-function/
- - title: Reini L. Luco's lab - Chromatin & RNA 
+- title: Reini L. Luco's lab - Chromatin & RNA 
     permalink: https://institut-curie.org/team/luco  
 - title: Hervé Le Hir's lab - Expression des ARN messagers eucaryotes
     permalink: https://www.ibens.bio.ens.psl.eu/spip.php?rubrique42&lang=fr
