@@ -5,7 +5,7 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Lionel Bernard's lab - RNA functional Regulation and Surveillance
+  - title: Lionel Bénard's lab - RNA functional Regulation and Surveillance
     permalink: http://www.lbmce.ibpc.fr/en/rna-functional-regulation-and-surveillance-824.htm
   - title: Clément Carré's lab - Transgenerational epigenetics & small RNA biology
     permalink: https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/transgenerational-epigenetics-small-rna-biology
