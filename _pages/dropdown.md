@@ -25,4 +25,8 @@ children:
     permalink: https://www.ijm.fr/research-topics/palancade-lab-va/?lang=en
   - title: Olga Soutourina's lab - Regulatory RNAs in Clostridia
     permalink: https://www.i2bc.paris-saclay.fr/regulatory-rnas-in-clostridia/
+  - title: Julie Soutourina’s lab – Genome transcriptional regulation
+    permalink: https://www.i2bc.paris-saclay.fr/equipe-genome-transcriptional-regulation/
+    
+    
 ---
