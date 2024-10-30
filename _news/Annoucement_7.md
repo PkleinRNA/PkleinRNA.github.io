@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to our newly affiliated labs! If you would like to join them, please get in touch.
+A warm welcome to our newly affiliated labs! If you're interested in affiliating your lab, please don't hesitste to get in touch. 
