@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Don't forget to check out our job opportunities page! New jobs adverts are added regularly.](/job_highlights)
+Don't forget to check out our job opportunities page! New jobs adverts are added regularly.
