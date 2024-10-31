@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 
-A warm welcome to our newly affiliated labs! If you're interested in affiliating your lab, please don't hesitate to get in touch. 
+A warm welcome to our newly affiliated labs! If you are interested in affiliating your lab, please do not hesitate to get in touch. 
 
 [Don't forget to check out our job opportunities page! New jobs adverts are added regularly](/Conference_highlights)
 
