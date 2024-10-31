@@ -11,6 +11,8 @@ children:
     permalink: https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/transgenerational-epigenetics-small-rna-biology
   - title: Ciaran Condon's lab - RNA maturation and Degradation
     permalink: http://www.ibpc.fr/UMR8261/equipe%20CC/AccueilCCEN.html
+  - title: Martin Crespi’s lab – Regulatory RNAs in plasticity
+    permalink: https://ips2.u-psud.fr/en/research/dgg-department-developmental-genomics-and-genetics/regarn-regulatory-non-coding-rnas-in-root-plasticity/exploring-the-diversity-of-ncrnas-linking-ncrnas-to-root-plasticity.html
   - title: Sandra Duharcourt's lab - Programmed genome elimination
     permalink: https://www.ijm.fr/research-topics/duharcourt-lab-va/?lang=en
   - title: Daniel Gautheret's lab - RNA sequence, structure and function
@@ -29,5 +31,6 @@ children:
     permalink: https://www.i2bc.paris-saclay.fr/regulatory-rnas-in-clostridia/
   - title: Julie Soutourina’s lab – Genome transcriptional regulation
     permalink: https://www.i2bc.paris-saclay.fr/equipe-genome-transcriptional-regulation/
-  
+
+
 ---
