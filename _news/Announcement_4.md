@@ -6,3 +6,5 @@ related_posts: false
 ---
 
 [Click here to access our dedicated page featuring highlighted RNA conferences.](/Conference_highlights)
+
+[Don't forget to check out our job opportunities page! New job adverts are added regularly.](/job_highlights)
