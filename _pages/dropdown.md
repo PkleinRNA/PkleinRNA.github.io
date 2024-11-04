@@ -17,6 +17,8 @@ children:
     permalink: https://www.ijm.fr/research-topics/duharcourt-lab-va/?lang=en
   - title: Daniel Gautheret's lab - RNA sequence, structure and function
     permalink: https://www.i2bc.paris-saclay.fr/equipe-rna-sequence-structure-function/
+  - title: Marc Graille's lab - Translation and degradation of eukaryotic mRNAs
+    permalink: https://portail.polytechnique.edu/bioc/en/research/coupling-between-translation-and-mrna-degradation-eukaryotes
   - title: Reini L. Luco's lab - Chromatin & RNA splicing
     permalink: https://institut-curie.org/team/luco  
   - title: Hervé Le Hir's lab - Expression des ARN messagers eucaryotes
