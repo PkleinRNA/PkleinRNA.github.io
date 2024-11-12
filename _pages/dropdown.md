@@ -19,10 +19,12 @@ children:
     permalink: https://www.i2bc.paris-saclay.fr/equipe-rna-sequence-structure-function/
   - title: Marc Graille's lab - Translation and degradation of eukaryotic mRNAs
     permalink: https://portail.polytechnique.edu/bioc/en/research/coupling-between-translation-and-mrna-degradation-eukaryotes
-  - title: Reini L. Luco's lab - Chromatin & RNA splicing
-    permalink: https://institut-curie.org/team/luco  
+  - title: Alice Lebreton's - Bacterial Infection, Response & Dynamics
+    permalink: https://www.ibens.bio.ens.psl.eu/ida
   - title: Hervé Le Hir's lab - Expression des ARN messagers eucaryotes
     permalink: https://www.ibens.bio.ens.psl.eu/spip.php?rubrique42&lang=fr
+  - title: Reini L. Luco's lab - Chromatin & RNA splicing
+    permalink: https://institut-curie.org/team/luco
   - title: Christian Muschardt's lab - Epigenetics and RNA metabolism in human diseases
     permalink: https://www.ibps.upmc.fr/fr/Recherche/umr-8256/epigenetique-metabolisme-arn-maladies-humaines
   - title: Olivier Namy's lab - Genomic, Structure and Translation
@@ -33,8 +35,8 @@ children:
     permalink: https://www.i2bc.paris-saclay.fr/regulatory-rnas-in-clostridia/
   - title: Julie Soutourina’s lab – Genome transcriptional regulation
     permalink: https://www.i2bc.paris-saclay.fr/equipe-genome-transcriptional-regulation/
-  - Carine Tisné's lab – Biogenesis,architecture and interactions of RNAs
+  - title: Carine Tisné's lab – Biogenesis,architecture and interactions of RNAs
     permalink: http://www.ibpc.fr/UMR8261/AccueilUMR8261.html
-
+   
 
 ---
