@@ -33,6 +33,8 @@ children:
     permalink: https://www.i2bc.paris-saclay.fr/regulatory-rnas-in-clostridia/
   - title: Julie Soutourina’s lab – Genome transcriptional regulation
     permalink: https://www.i2bc.paris-saclay.fr/equipe-genome-transcriptional-regulation/
+  - Carine Tisné's lab – Biogenesis,architecture and interactions of RNAs
+    permalink: http://www.ibpc.fr/UMR8261/AccueilUMR8261.html
 
 
 ---
