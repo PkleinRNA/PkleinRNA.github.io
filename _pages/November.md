@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Talk by Olivia CHARMANT and Piera SMERIGLIO"
+title: "Talk by Olivia CHARMANT and Toni GOUHIER"
 permalink: /speakers/November/
 ---
-<span style="font-size: 1.5em;"><strong>Olivia CHARMANTt</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Olivia CHARMANT</strong></span><br>
 Sandra DUHARCOURT's lab - Élimination programmée du génome, Institut Jacques Monod 
 
 **Title**:  
