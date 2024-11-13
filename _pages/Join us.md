@@ -15,7 +15,7 @@ Meetings are happening from 16:30 to 18:00. They include two 30 minutes talks fo
 Location:  45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
 
 October 2024 - Thursday 10th : [Adham SAFIEDDINE and Benoit PALANCADE](/speakers/October/) <br><br> 
-November 2024 - Thursday 14th : [Piera SMERIGLIO and Olivia CHARMANT](/speakers/November/) <br><br> 
+November 2024 - Thursday 14th : [Toni GOUHIER and Olivia CHARMANT](/speakers/November/) <br><br> 
 December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/December/) <br><br>
 January 2025 - Thursday 16th : [Alexandre D’HALLUIN and Grégory BOËL](/speakers/January/) <br><br> 
 February 2025 - Thursday 13th : [Carine TISNE](/speakers/Fevrier/) <br><br> 
