@@ -4,7 +4,7 @@ title: "Talk by Olivia CHARMANT and Toni GOUHIER"
 permalink: /speakers/November/
 ---
 <span style="font-size: 1.5em;"><strong>Olivia CHARMANT</strong></span><br>
-Sandra DUHARCOURT's lab - Élimination programmée du génome, Institut Jacques Monod 
+Sandra DUHARCOURT's lab - Élimination programmée du génome, Institut Jacques Monod,CNRS, Université Paris Cité. 
 
 **Title**:  
 The PIWI-interacting protein Gtsf1 controls the selective degradation of small RNAs in Paramecium
