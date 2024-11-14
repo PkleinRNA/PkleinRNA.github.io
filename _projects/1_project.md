@@ -20,6 +20,12 @@ Prof. Soldano is a group leader at the Department of Neurogenetics at the SISSA 
 If you want to discuss with Prof. Soldano in person, please contact me by email (ariane.ramaekers@curie.fr).
 
 
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+<span style="font-size: 1.5em;"><strong>RNA Symposium "RNA, small or long but all champions!!!" in Paris, Jussieu, December 13 2024</a></strong></span><br>
+![RNA Symposium](/assets/img/RNA_symposium_2024.pdf)
+
+
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 <span style="font-size: 1.5em;"><strong><a href="https://sifrarn2024.sciencesconf.org">13th SifrARN conference in Lyon, November 18-20 2024</a></strong></span><br>
 
