@@ -26,7 +26,7 @@ Moderator: Andy Berglund, PhD, Professor, Department of Biological Sciences; Dir
 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
-<span style="font-size: 1.5em;"><strong>RNA Symposium "RNA, small or long but all champions!!!" in Paris, Jussieu, December 13 2024</a></strong></span><br>
+<span style="font-size: 1.5em;"><strong>RNA Symposium "RNA, small or long but all champions!!!" in Paris, Jussieu, December 13th 2024</a></strong></span><br>
 ![RNA Symposium](/assets/img/RNA_symposium_2024.pdf)
 
 
