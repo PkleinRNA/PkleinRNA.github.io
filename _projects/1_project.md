@@ -10,15 +10,19 @@ permalink: /Conference_highlights
 ---
 <br><br><br>
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
-<span style="font-size: 1.5em;"><strong>Wednesday October 9, at 9:30 am at Institut Curie (Amphithéâtre Marie Curie) </strong></span><br>
+<span style="font-size: 1.5em;"><strong>RNA Collaborative Seminar will be held virtually on Wednesday, November 20th at 10 am ET (Eastern, US), </strong></span><br>
+<span style="font-size: 1.5em;"><strong> Hosted by: The RNA Institute, SUNY University at Albany </strong></span><br>
+<span style="font-size: 1.5em;"><strong> Zoom Webinar Registration: <a href="https://us02web.zoom.us/webinar/register/WN_8s7zkvZBRqi24EARR8IZYA"> https://us02web.zoom.us/webinar/register/WN_8s7zkvZBRqi24EARR8IZYA</a> </strong></span><br>
 
-<span style="font-size: 1.5em;"><strong> Talk: “m6A mRNA modification: a new layer of regulation of brain development from neurons to glia” </strong></span><br>
-<span style="font-size: 1.5em;"><strong> Speaker: Prof. Alessia Soldano. </strong></span><br>
-
-Prof. Soldano is a group leader at the Department of Neurogenetics at the SISSA in Trieste (Italy). Her group investigates the role of mRNA modifications in nervous system development and diseases.
+“Empowering mass spectrometry for de novo unbiased sequencing of RNA modifications”
+Shenglong Zhang, PhD
+Associate Professor, Department of Chemistry, The RNA Institute, SUNY University at Albany, Albany, NY, USA
  
-If you want to discuss with Prof. Soldano in person, please contact me by email (ariane.ramaekers@curie.fr).
-
+“Elucidating the influence of RNA modifications and Magnesium ions on tRNAPhe conformational dynamics using Molecular Dynamics Simulations”
+Sweta Vangaveti, PhD
+Research Scientist, Advanced Computational Facility Manager, The RNA Institute, SUNY University at Albany, Albany, NY, USA
+ 
+Moderator: Andy Berglund, PhD, Professor, Department of Biological Sciences; Director, The RNA Institute, SUNY University at Albany, Albany, NY, USA
 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
