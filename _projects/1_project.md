@@ -11,19 +11,19 @@ permalink: /Conference_highlights
 <br><br><br>
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
-<span style="font-size: 1.5em;"><strong>Séminaire du LBD</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Séminaire du laboratoire de biologie du developpement (LBD)</strong></span><br>
 
-12h à l’Auditorium C707, bât. C-7ème étage, 9 quai St Bernard, Paris - Contact : estelle.hirsinger@sorbonne-universite.fr - http://www.ibps.upmc.fr/fr/Recherche/umr-biologie-developpement
+12h à l’Auditorium C707, bât. C-7ème étage, 9 quai St Bernard, Paris
+Contact : estelle.hirsinger@sorbonne-universite.fr
+http://www.ibps.upmc.fr/fr/Recherche/umr-biologie-developpement
 
-Le lundi 16 décembre
+span style="font-size: 1.5em;"><strong>Le lundi 16 décembre</strong></span><br> 
 "Annotation of the snoRNome across eukaryotes and study of its capacity to regulate gene expression in cis"
-Michelle SCOTT
-Université de Sherbrooke, Canada
+Michelle SCOTT, Université de Sherbrooke, Canada
 
-Le mardi 17 décembre
+span style="font-size: 1.5em;"><strong>Le mardi 17 décembre</strong></span><br> 
 "Investigating human selenoproteome regulation by selenocysteine tRNA using CRISPR-CAS9 virus-like particles"
-Laurent CHAVATTE
-ENS-Lyon, Lyon
+Laurent CHAVATTE, ENS-Lyon, Lyon
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 <span style="font-size: 1.5em;"><strong>RNA Collaborative Seminar will be held virtually on Wednesday, November 20th at 10 am ET (Eastern, US), </strong></span><br>
