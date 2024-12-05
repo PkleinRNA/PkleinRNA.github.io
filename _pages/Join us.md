@@ -18,7 +18,7 @@ October 2024 - Thursday 10th : [Adham SAFIEDDINE and Benoit PALANCADE](/speakers
 November 2024 - Thursday 14th : [Toni GOUHIER and Olivia CHARMANT](/speakers/November/) <br><br> 
 December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/December/) <br><br>
 January 2025 - Thursday 16th : [Alexandre D’HALLUIN and Grégory BOËL](/speakers/January/) <br><br> 
-February 2025 - Thursday 13th : [Pierre KLEIN and Carine TISNE](/speakers/Fevrier/) <br><br> 
+February 2025 - Thursday 13th : [Pierre KLEIN and Carine TISNE](/speakers/fevrier/) <br><br> 
 March 2025 - Thursday 13th : TBC <br><br>
 April 2025 - Thursday 17th : TBC <br><br> 
 May 2025 - Thursday 15th : TBC <br><br>
