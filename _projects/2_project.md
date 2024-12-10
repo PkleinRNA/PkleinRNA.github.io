@@ -9,6 +9,12 @@ related_publications: true
 permalink: /job_highlights
 ---
 
+ 
+Le CNRS ouvre une chaire Professeur Junior:
+Chemical biology of RNA for Understanding the Functioning of Life
+The CNRS, France is seeking to recruit a highly qualified chemist for a junior professorship, with a minimum of five years of experience post-PhD. The selected candidate will demonstrate dual expertise: expertise in chemical biology / RNA chemistry of nucleic acids, as well as in the regulation of RNA expression, translation, or stability in eukaryotes, prokaryotes, or viruses. The candidate will also be responsible for teaching 45 hours per year in this field.
+
+If you are interested  contact jean-jacques.vasseur@umontpellier.fr
 
 <br><br>
 <span style="font-size: 1.5em;"><strong>The RTI at UMass Chan is seeking applicants for the newly established UMass Chan Early Independence Fellows Program and the Maraganore Early Independence Fellows track in the RNA Therapeutics Institute (RTI). </strong></span><br>
