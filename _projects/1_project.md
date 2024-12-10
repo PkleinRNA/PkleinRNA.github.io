@@ -17,11 +17,11 @@ permalink: /Conference_highlights
 Contact : estelle.hirsinger@sorbonne-universite.fr
 http://www.ibps.upmc.fr/fr/Recherche/umr-biologie-developpement
 
-span style="font-size: 1.5em;"><strong>Le lundi 16 décembre</strong></span><br> 
+<span style="font-size: 1.5em;"><strong>Le lundi 16 décembre</strong></span><br> 
 "Annotation of the snoRNome across eukaryotes and study of its capacity to regulate gene expression in cis"
 Michelle SCOTT, Université de Sherbrooke, Canada
 
-span style="font-size: 1.5em;"><strong>Le mardi 17 décembre</strong></span><br> 
+<span style="font-size: 1.5em;"><strong>Le mardi 17 décembre</strong></span><br> 
 "Investigating human selenoproteome regulation by selenocysteine tRNA using CRISPR-CAS9 virus-like particles"
 Laurent CHAVATTE, ENS-Lyon, Lyon
 
