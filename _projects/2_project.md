@@ -14,7 +14,7 @@ permalink: /job_highlights
 Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieillissement (UMR8263, unité mixte CNRS-Inserm-Sorbonne Université) à l'Institut de Biologie Paris Seine (IBPS).
 Contact : dominique.weil@upmc.fr
 
-
+![CDD_AI_equipe Weil 2025-.pdf](/assets/img/CDD_AI_equipe Weil 2025-.pdf)
 
 
 <br><br>
