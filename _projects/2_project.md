@@ -9,8 +9,17 @@ related_publications: true
 permalink: /job_highlights
 ---
 
+<br><br>
+<span style="font-size: 1.5em;"><strong> CDD Assistant Ingénieur – Biologie moléculaire et cellulaire</strong> </span><br>
+Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieillissement (UMR8263, unité mixte CNRS-Inserm-Sorbonne Université) à l'Institut de Biologie Paris Seine (IBPS).
+Contact : dominique.weil@upmc.fr
+
+
+
+
+<br><br>
  
-Le CNRS ouvre une chaire Professeur Junior:
+<span style="font-size: 1.5em;"><strong>Le CNRS ouvre une chaire Professeur Junior:</strong></span><br>
 Chemical biology of RNA for Understanding the Functioning of Life
 The CNRS, France is seeking to recruit a highly qualified chemist for a junior professorship, with a minimum of five years of experience post-PhD. The selected candidate will demonstrate dual expertise: expertise in chemical biology / RNA chemistry of nucleic acids, as well as in the regulation of RNA expression, translation, or stability in eukaryotes, prokaryotes, or viruses. The candidate will also be responsible for teaching 45 hours per year in this field.
 
