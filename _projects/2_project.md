@@ -17,7 +17,7 @@ Contact : dominique.weil@upmc.fr
 ![CDD_AI_equipe_Weil_2025-.jpg](/assets/img/CDD_AI_equipe_Weil_2025-.jpg)
 ![CDD_AI_equipe_Weil_2025_part2.jpg](/assets/img/CDD_AI_equipe_Weil_2025_part2.jpg)
 
-<br><br>
+<br>
  
 <span style="font-size: 1.5em;"><strong>Le CNRS ouvre une chaire Professeur Junior:</strong></span><br>
 Chemical biology of RNA for Understanding the Functioning of Life
