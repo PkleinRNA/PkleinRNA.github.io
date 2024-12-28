@@ -17,6 +17,10 @@ Contact : dominique.weil@upmc.fr
 ![CDD_AI_equipe_Weil_2025-_Page_1.png](/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png){ width="600" }
 ![CDD_AI_equipe_Weil_2025-_Page_2.png](/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png){ width="600" }
 
+
+<img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png" alt="Image 1" width="600">
+<img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 2" width="600">
+
 <br>
  
 <span style="font-size: 1.5em;"><strong>Le CNRS ouvre une chaire Professeur Junior:</strong></span><br>
