@@ -15,8 +15,9 @@ Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieilliss
 Contact : dominique.weil@upmc.fr
 
 <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png" alt="Image 1" width="600">
-<div style="width: 600px; height: 10px; overflow: hidden;">
-  <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 2" width="600">
+
+<div style="width: 600px; height: 300px; overflow: hidden; position: relative;">
+  <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 2" style="width: 600px; position: absolute; top: 0; left: 0;">
 </div>
 <br>
 
