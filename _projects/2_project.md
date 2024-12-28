@@ -14,12 +14,9 @@ permalink: /job_highlights
 Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieillissement (UMR8263, unité mixte CNRS-Inserm-Sorbonne Université) à l'Institut de Biologie Paris Seine (IBPS).
 Contact : dominique.weil@upmc.fr
 
-<img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png" alt="Image 1" width="600">
+<img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png" alt="Image 1" width="100">
+<img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 1" width="100">
 
-<div style="width: 600px; height: 300px; overflow: hidden; position: relative;">
-  <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 2" style="width: 600px; position: absolute; top: 0; left: 0;">
-</div>
-<br>
 
  
 <span style="font-size: 1.5em;"><strong>Le CNRS ouvre une chaire Professeur Junior:</strong></span><br>
