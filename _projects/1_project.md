@@ -11,6 +11,17 @@ permalink: /Conference_highlights
 <br><br><br>
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
+
+
+<span style="font-size: 1.5em;"><strong>RNA et Cancer - Monday 3rd, March 2025 2:00 pm - HOB VIRTUAL SEMINAR </strong></span><br>
+
+<span style="font-size: 1.5em;"><strong><a href="https://u-paris.zoom.us/j/86074265263?pwd=O0nja7Kjfs5kadgdyrj4WcxgCkL8vo.1">Zoom link here </a></strong></span><br>
+
+![HOB Seminar_Spring 2025_Flyer](/assets/img/HOB Seminar_Spring 2025_Flyer.pdf)
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong>Séminaire du laboratoire de biologie du developpement (LBD)</strong></span><br>
 
 12h à l’Auditorium C707, bât. C-7ème étage, 9 quai St Bernard, Paris
