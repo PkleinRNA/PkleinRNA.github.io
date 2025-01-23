@@ -7,7 +7,7 @@ permalink: /speakers/fevrier/
 
 <span style="font-size: 1.5em;"><strong>Pierre KLEIN</strong></span><br>
 Francis Crick Institute and UCL, London
-Current: Inserm UMR 974, Sorbonne Université Centre de Recherche en Myologie, Institut de myologie
+Current: Inserm UMRS 974, Sorbonne Université Centre de Recherche en Myologie, Institut de myologie
 
 **Title**:  
 m6a methylation orchestrates IMP1 regulation of microtubules during human neuronal differentiation
