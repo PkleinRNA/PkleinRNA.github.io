@@ -5,6 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: Allemand Eric's lab - Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications
+    permalink: https://www.institutimagine.org/en/users/ericallemand
   - title: Lionel Bénard's lab - RNA functional Regulation and Surveillance
     permalink: http://lbmce.ibpc.fr/rna-functional-regulation-and-surveillance/
   - title:  Carré Clément & Laure Teysset lab's lab - Transgenerational epigenetics & small RNA biology
