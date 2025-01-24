@@ -19,10 +19,10 @@ November 2024 - Thursday 14th : [Toni GOUHIER and Olivia CHARMANT](/speakers/Nov
 December 2024 - Thursday 12th : [Jonathan JAGODNIK and Hervé VAUCHERET](/speakers/December/) <br><br>
 January 2025 - Thursday 16th : [Alexandre D’HALLUIN and Grégory BOËL](/speakers/January/) <br><br> 
 February 2025 - Thursday 13th : [Pierre KLEIN and Carine TISNE](/speakers/fevrier/) <br><br> 
-March 2025 - Thursday 13th : [Eric ALLEMAND](/speakers/mars/) <br><br>
+March 2025 - Thursday 13th : [Eric ALLEMAND and Martin DUTERTRE](/speakers/mars/) <br><br>
 April 2025 - Thursday 17th : TBC <br><br> 
 May 2025 - Thursday 15th : TBC <br><br>
-June 2025 - Thursday 19th : TBC <br><br><br><br>
+June 2025 - Thursday 19th : [Loic BROIX] <br><br><br><br>
 
 
 
