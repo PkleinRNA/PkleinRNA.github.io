@@ -22,7 +22,7 @@ February 2025 - Thursday 13th : [Pierre KLEIN and Carine TISNE](/speakers/fevrie
 March 2025 - Thursday 13th : [Eric ALLEMAND and Martin DUTERTRE](/speakers/mars/) <br><br>
 April 2025 - Thursday 17th : TBC <br><br> 
 May 2025 - Thursday 15th : TBC <br><br>
-June 2025 - Thursday 19th : [Loic BROIX] <br><br><br><br>
+June 2025 - Thursday 19th : [Loic BROIX](/speakers/juin/) <br><br><br><br>
 
 
 
