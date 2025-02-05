@@ -12,6 +12,29 @@ permalink: /Conference_highlights
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
+We are pleased to announce the 7th course on “Post-transcriptional gene regulation” organized by the training unit of Institut Curie. This course is dedicated to PhD students and post-docs
+
+The aim of this course is to provide an overview of post transcriptional gene regulations at multiple levels, including (pre-)messenger RNA splicing, polyadenylation, modifications (epitranscriptome), localization, translation and degradation. In addition to lectures given by international experts in the field, the course will also rely on the active contribution of participants and on their interactions with speakers.
+
+Please visit the course webpage:
+https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025
+
+The deadline for registration is March 17th.
+
+![Post_transcription_2025.pdf](/assets/img/Post_transcription_2025.pdf)
+
+
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
+
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 
 <span style="font-size: 1.5em;"><strong>RNA et Cancer - Monday 3rd, March 2025 2:00 pm - HOB VIRTUAL SEMINAR </strong></span><br>
 
