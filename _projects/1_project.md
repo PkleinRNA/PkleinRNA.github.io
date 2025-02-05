@@ -11,6 +11,7 @@ permalink: /Conference_highlights
 <br><br><br>
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
+<span style="font-size: 1.5em;"><strong>7th course on “Post-transcriptional gene regulation” - May 12-16 2025 </strong></span><br>
 
 We are pleased to announce the 7th course on “Post-transcriptional gene regulation” organized by the training unit of Institut Curie. This course is dedicated to PhD students and post-docs
 
@@ -23,14 +24,20 @@ The deadline for registration is March 17th.
 
 ![Post_transcription_2025.pdf](/assets/img/Post_transcription_2025.pdf)
 
-
-
-
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
+<span style="font-size: 1.5em;"><strong> Groupe thématique "Long reads" du réseau MERIT  </strong></span><br>
 
+Le groupe thématique "Long reads" du réseau MERIT (https://merit.cnrs.fr/) organisera son 1er webinaire le mardi 4 février de 14h à 16h.
 
+Nous aurons 2 présentations suivi d'un temps d'échange :
+     - "Epitranscriptomic with Nanopore" - Delphine Naquin 
+     - "ANNEXA: A comprehensive pipeline for extending genome annotations using Long-Read RNA Sequencing" - Nicolaï Hoffmann 
+
+Si vous êtes intéressés par ce webinaire et souhaitez rejoindre notre groupe de travail, vous pouvez vous inscrire à la liste de diffusion 
+
+Pour cela il suffit d'envoyer un mail à <sympa@services.cnrs.fr> avec pour objet :  subscribe merit-gt-long-reads@services.cnrs.fr Prénom Nom
 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
