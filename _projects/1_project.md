@@ -18,7 +18,7 @@ The aim of this course is to provide an overview of post transcriptional gene re
 
 
 
-<span style="font-size: 1.5em;"> Please visit the course webpage: <a href="https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025"> https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025 </a> </span><br>
+Please visit the course webpage: <a href="https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025"> https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025 </a> <br>
 
 The deadline for registration is March 17th.
 
@@ -35,7 +35,7 @@ Nous aurons 2 présentations suivi d'un temps d'échange :
      - "Epitranscriptomic with Nanopore" - Delphine Naquin 
      - "ANNEXA: A comprehensive pipeline for extending genome annotations using Long-Read RNA Sequencing" - Nicolaï Hoffmann 
 
-<strong>Si vous êtes intéressés par ce webinaire et souhaitez rejoindre notre groupe de travail, vous pouvez vous inscrire à la liste de diffusion </strong> 
+<strong>Si vous êtes intéressés par ce webinaire et souhaitez rejoindre notre groupe de travail, vous pouvez vous inscrire à la liste de diffusion. </strong> <br>
 Pour cela il suffit d'envoyer un mail à <sympa@services.cnrs.fr> avec pour objet :  
 subscribe merit-gt-long-reads@services.cnrs.fr Prénom Nom
 
