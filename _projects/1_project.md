@@ -31,7 +31,7 @@ The deadline for registration is March 17th.
 
 <span style="font-size: 1.5em;"><strong> Groupe thématique "Long reads" du réseau MERIT  </strong></span><br>
 
-Le groupe thématique "Long reads" du réseau MERIT (https://merit.cnrs.fr/) organisera son 1er webinaire le mardi 4 février de 14h à 16h.
+Le groupe thématique "Long reads" du réseau MERIT  <a href="[https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025](https://merit.cnrs.fr/)"> https://merit.cnrs.fr/ </a>organisera son 1er webinaire le mardi 4 février de 14h à 16h.
 
 Nous aurons 2 présentations suivi d'un temps d'échange :
      - "Epitranscriptomic with Nanopore" - Delphine Naquin 
