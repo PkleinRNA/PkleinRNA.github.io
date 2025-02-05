@@ -10,7 +10,7 @@ permalink: /Conference_highlights
 ---
 <br>
 
-<span style="font-size: 1.5em;"><strong>7th course on “Post-transcriptional gene regulation” - May 12-16 2025,Institut Curie </strong></span><br>
+<span style="font-size: 1.5em;"><strong>7th course on “Post-transcriptional gene regulation” - May 12-16 2025, Institut Curie </strong></span><br>
 
 We are pleased to announce the 7th course on “Post-transcriptional gene regulation” organized by the training unit of Institut Curie. This course is dedicated to PhD students and post-docs
 
