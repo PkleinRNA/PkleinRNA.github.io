@@ -35,9 +35,9 @@ Nous aurons 2 présentations suivi d'un temps d'échange :
      - "Epitranscriptomic with Nanopore" - Delphine Naquin 
      - "ANNEXA: A comprehensive pipeline for extending genome annotations using Long-Read RNA Sequencing" - Nicolaï Hoffmann 
 
-Si vous êtes intéressés par ce webinaire et souhaitez rejoindre notre groupe de travail, vous pouvez vous inscrire à la liste de diffusion 
-
-Pour cela il suffit d'envoyer un mail à <sympa@services.cnrs.fr> avec pour objet :  subscribe merit-gt-long-reads@services.cnrs.fr Prénom Nom
+<strong>Si vous êtes intéressés par ce webinaire et souhaitez rejoindre notre groupe de travail, vous pouvez vous inscrire à la liste de diffusion </strong> 
+Pour cela il suffit d'envoyer un mail à <sympa@services.cnrs.fr> avec pour objet :  
+subscribe merit-gt-long-reads@services.cnrs.fr Prénom Nom
 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
