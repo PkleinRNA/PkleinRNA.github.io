@@ -6,7 +6,7 @@ permalink: /speakers/fevrier/
 
 
 <span style="font-size: 1.5em;"><strong>Pierre KLEIN</strong></span><br>
-Francis Crick Institute and UCL, London
+Francis Crick Institute and UCL, London <br>
 Current: Inserm UMRS 974, Sorbonne Université Centre de Recherche en Myologie, Institut de myologie
 
 **Title**:  
