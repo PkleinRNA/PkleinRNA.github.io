@@ -17,8 +17,10 @@ We are pleased to announce the 7th course on “Post-transcriptional gene regula
 
 The aim of this course is to provide an overview of post transcriptional gene regulations at multiple levels, including (pre-)messenger RNA splicing, polyadenylation, modifications (epitranscriptome), localization, translation and degradation. In addition to lectures given by international experts in the field, the course will also rely on the active contribution of participants and on their interactions with speakers.
 
-Please visit the course webpage:
-https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025
+
+
+<span style="font-size: 1.5em;"> Please visit the course webpage: <a href="https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025"> https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2025
+</a> </strong></span><br>
 
 The deadline for registration is March 17th.
 
