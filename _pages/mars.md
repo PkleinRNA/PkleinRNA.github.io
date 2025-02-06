@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Talk by Eric ALLEMAND and Martin DUTERTRE"
+permalink: /speakers/mars/
+---
+
 <span style="font-size: 1.5em;"><strong>Eric ALLEMAND</strong></span><br>
 "Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications, U1163-CEREMAST, Foundation IMAGINE" 
 
@@ -11,3 +17,12 @@ Identification of aberrant splice-driven signature in T-cell acute lymphoblastic
 Reprogramming the post-transcriptional regulation of BCL11A to treat β-hemoglobinopathies.
 Global analysis of alternative splicing in erythropoiesis: unveiling novel therapeutic approaches to β-hemoglobinopathies.
 
+
+
+<span style="font-size: 1.5em;"><strong>Martin DUTERTRE</strong></span><br>
+
+**Title**:  
+TBC
+
+**Abstract**:  
+TBC
