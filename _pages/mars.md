@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talk by Eric ALLEMAND and Martin DUTERTRE"
+title: "Talks by Eric ALLEMAND and Martin DUTERTRE"
 permalink: /speakers/mars/
 ---
 
