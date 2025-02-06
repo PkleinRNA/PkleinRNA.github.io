@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talk by Pierre KLEIN and Carine TISNE"
+title: "Talks by Pierre KLEIN and Carine TISNE"
 permalink: /speakers/fevrier/
 ---
 
