@@ -10,6 +10,26 @@ permalink: /Conference_highlights
 ---
 <br>
 
+
+
+<span style="font-size: 1.5em;"><strong>6th Annual Scientific Meeting of GDR RNA - June 26-27, 2025 in Paris 
+RNA as a tool and a target for medicinal chemistry and chemical biology </strong></span><br>
+
+
+The meeting will start at noon on June 26 and end by 4 pm on June 27.
+ 
+The number of seats will be limited and will be given on a first asked-first served basis so do not wait too long to register!
+ 
+Permanent and non-permanent staff can apply for an oral or a poster communication. Students and post-docs will be eligible to the annual award for the best poster and the best oral communication during the scientific meeting.
+
+
+![GDR_RNA_6th_Meeting.pdf](/assets/img/GDR_RNA_6th_Meeting.pdf)
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
 <span style="font-size: 1.5em;"><strong>7th course on “Post-transcriptional gene regulation” - May 12-16 2025, Institut Curie </strong></span><br>
 
 We are pleased to announce the 7th course on “Post-transcriptional gene regulation” organized by the training unit of Institut Curie. This course is dedicated to PhD students and post-docs
