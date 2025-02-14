@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talk by Pierre KLEIN and Carine TISNE"
+title: "Talk by Eric ALLEMAND and Martin DUTERTRE"
 permalink: /speakers/mars/
 ---
 
