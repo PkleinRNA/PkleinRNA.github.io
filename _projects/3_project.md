@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project 
-description: Tell us about a project you would like to feature for collaborations or other opportunities.
+description: Photos
 img: assets/img/9.jpg
 importance: 1
 category: work
