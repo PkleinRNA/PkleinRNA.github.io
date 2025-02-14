@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photos 
-description: Photos
+title: Gallery 
+description: Gallery
 img: assets/img/9.jpg
 importance: 1
 category: work
