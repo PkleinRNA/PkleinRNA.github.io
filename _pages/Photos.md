@@ -10,7 +10,7 @@ nav_order: 7
 
 
 
-<img src="/assets/img/Photo1.jpeg" alt="Photo 1" width="300">
-<img src="/assets/img/Photo2.jpeg" alt="Photo 2" width="300">
-<img src="/assets/img/Photo3.jpeg" alt="Photo 3" width="300">
-<img src="/assets/img/Photo4.jpeg" alt="Photo 4" width="300">
+<img src="/assets/img/Photo1.jpeg" alt="Photo 1" width="500">
+<img src="/assets/img/Photo2.jpeg" alt="Photo 2" width="500">
+<img src="/assets/img/Photo3.jpeg" alt="Photo 3" width="500">
+<img src="/assets/img/Photo4.jpeg" alt="Photo 4" width="500">
