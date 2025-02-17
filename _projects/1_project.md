@@ -11,6 +11,12 @@ permalink: /Conference_highlights
 <br>
 
 
+<span style="font-size: 1.5em;"><strong>FEBS Workshop 2025 – Conservation and diversity of gene regulatory mechanisms across eukaryotes - 16–20 June 2025 │ Sant Feliu de Guixols, Spain</strong></span><br>
+
+
+Please visit the webpage: <a href="https://generegulatorymechanisms2025.febsevents.org"> htttps://generegulatorymechanisms2025.febsevents.org </a> <br> 
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 <span style="font-size: 1.5em;"><strong>6th Annual Scientific Meeting of GDR RNA - June 26-27, 2025 in Paris 
 RNA as a tool and a target for medicinal chemistry and chemical biology </strong></span><br>
