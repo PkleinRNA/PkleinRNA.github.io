@@ -22,7 +22,7 @@ Campagne d’emploi 2025, Candidatures sur l’application ODYSSEE 04/03/2025-04
 
 
 
-<img src="/assets/img/Poste-PU.pdf" alt="Image 1" width="600">
+<img src="/assets/Poste-PU.pdf" alt="Image 1" width="600">
 
 
 
