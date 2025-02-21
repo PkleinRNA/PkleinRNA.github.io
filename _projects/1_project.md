@@ -11,6 +11,21 @@ permalink: /Conference_highlights
 <br>
 
 
+<span style="font-size: 1.5em;"><strong>Hong Kong RNA Club: Hybrid Seminar on 27 Mar 2025 - Prof. Sung Chul Kwon from The University of Hong Kong </strong></span><br>
+
+
+ 
+Title: Cytosolic CRISPR RNAs for efficient application of RNA-targeting CRISPR-Cas systems
+Date: 27th March 2025 (Thursday)
+Time: HKT 16:30-17:30
+Venue: City University of Hong Kong, Yeung Kin Man Acad Building (AC1), B5-311
+Registration required: https://cityu.zoom.us/meeting/register/1KhvO7xMR7-rED0ERbFkow#/registration
+ 
+If you choose "In-person" in the registration link above, you will receive the QR code to access City University of Hong Kong in your email one day before the seminar. For more information, please kindly visit http://kitkwok.com/hk-rna-club
+
+
+<br>
+
 <span style="font-size: 1.5em;"><strong>FEBS Workshop 2025 – Conservation and diversity of gene regulatory mechanisms across eukaryotes - 16–20 June 2025 │ Sant Feliu de Guixols, Spain</strong></span><br>
 
 
