@@ -10,6 +10,24 @@ permalink: /job_highlights
 ---
 
 <br><br>
+
+
+
+
+<span style="font-size: 1.5em;"><strong> 
+Recrutement d’un.e Professeur.e des universités en Biologie Moléculaire, section CNU 64
+Faculté des Sciences et Ingénierie, Sorbonne Université, Paris
+Campagne d’emploi 2025, Candidatures sur l’application ODYSSEE 04/03/2025-04/04/2025</strong> </span><br>
+
+
+
+
+<img src="/assets/img/Poste-PU.pdf" alt="Image 1" width="600">
+
+
+
+
+<br><br>
 <span style="font-size: 1.5em;"><strong> CDD Assistant Ingénieur – Biologie moléculaire et cellulaire</strong> </span><br>
 Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieillissement (UMR8263, unité mixte CNRS-Inserm-Sorbonne Université) à l'Institut de Biologie Paris Seine (IBPS).
 Contact : dominique.weil@upmc.fr
