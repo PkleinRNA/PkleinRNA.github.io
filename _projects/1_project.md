@@ -12,7 +12,7 @@ permalink: /Conference_highlights
 
 
 
-<span style="font-size: 1.5em;"><strong The next RNA Collaborative Seminar will be held virtually on Wednesday, March 12th at 10 am ET (Eastern, US/Canada), hosted by the Helmholtz Institute for RNA-based Infection Research (HIRI) and Shanghai RNA Club.</strong></span><br> 
+<span style="font-size: 1.5em;"><strong> The next RNA Collaborative Seminar will be held virtually on Wednesday, March 12th at 10 am ET (Eastern, US/Canada), hosted by the Helmholtz Institute for RNA-based Infection Research (HIRI) and Shanghai RNA Club </strong></span><br> 
 
 Please see below for more details and the Zoom webinar registration link
 
