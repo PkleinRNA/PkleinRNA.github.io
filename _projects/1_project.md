@@ -11,6 +11,28 @@ permalink: /Conference_highlights
 <br>
 
 
+
+<span style="font-size: 1.5em;"><strong The next RNA Collaborative Seminar will be held virtually on Wednesday, March 12th at 10 am ET (Eastern, US/Canada), hosted by the Helmholtz Institute for RNA-based Infection Research (HIRI) and Shanghai RNA Club.</strong></span><br> 
+
+Please see below for more details and the Zoom webinar registration link
+
+Hosted by: Helmholtz Institute for RNA-based Infection Research (HIRI) and Shanghai RNA Club
+Zoom Registration: https://us02web.zoom.us/webinar/register/WN_w3-WB0BRQdGW8KJrwnk4dA
+
+
+“Insights into the role of RNA in bacterial immunity and phage replication”
+Jens Hör, PhD
+Group Leader, Helmholtz Institute for RNA based Infection Research, 
+Junior Professor, University of Würzburg
+
+ 
+“Nascent RNA at the crossroad of transcription and replication”
+Jie Ren, PhD
+Beijing Institute of Genomics, Chinese Academy of Sciences
+
+
+
+<br>
 <span style="font-size: 1.5em;"><strong>Hong Kong RNA Club: Hybrid Seminar on 27 Mar 2025 - Prof. Sung Chul Kwon from The University of Hong Kong </strong></span><br>
 
 
