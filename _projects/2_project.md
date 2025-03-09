@@ -14,14 +14,14 @@ permalink: /job_highlights
 
 
 <span style="font-size: 1.5em;"><strong> Project Argonaute, small RNA and Intellectual disability </strong> </span><br>
-<a href="http://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf> https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf </a> <br>
+<a href="http://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf"> https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf </a> <br>
 
 <span style="font-size: 1.5em;"><strong> Project Intellectual disability, tRNA fragments and translational control </strong> </span><br>
-<a href="https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S1.pdf> https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S1.pdf </a> <br>
+<a href="https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S1.pdf"> https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S1.pdf </a> <br>
 
 
 <span style="font-size: 1.5em;"><strong> Project snoRNA </strong> </span><br>
-<a href="https://www.sorbonne-universite.fr/sites/default/files/media/2025-03/Hub%C3%A9_CNRS_0.pdf> https://www.sorbonne-universite.fr/sites/default/files/media/2025-03/Hub%C3%A9_CNRS_0.pdf </a> <br>
+<a href="https://www.sorbonne-universite.fr/sites/default/files/media/2025-03/Hub%C3%A9_CNRS_0.pdf"> https://www.sorbonne-universite.fr/sites/default/files/media/2025-03/Hub%C3%A9_CNRS_0.pdf </a> <br>
 
 <span style="font-size: 1.5em;"><strong> MSCA Postdoctoral Fellowships at Sorbonne Université and its Alliance - 2025 </strong> </span><br>
 <a href="https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-universite-and-its-alliance-2025"> https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-universite-and-its-alliance-2025 </a> <br>
