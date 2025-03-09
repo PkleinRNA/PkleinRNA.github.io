@@ -13,7 +13,7 @@ permalink: /job_highlights
 
 
 
-<span style="font-size: 2em;">4 MSCA Postdoctoral Fellowships available:</span>
+<span style="font-size: 2.5em;"><strong>4 MSCA Postdoctoral Fellowships available:</strong> </span><br>
 
 <span style="font-size: 1.5em;"><strong> Project Argonaute, small RNA and Intellectual disability </strong> </span><br>
 <a href="http://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf"> https://www.sorbonne-universite.fr/sites/default/files/media/2025-02/Carr%C3%A9_SU%20S2.pdf </a> <br>
