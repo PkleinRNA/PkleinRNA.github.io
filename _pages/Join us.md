@@ -46,7 +46,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">April 2025 - Thursday 17th</span>: 
-  TBC
+  Half-term holiday - no meeting. 
 </div>
 <br>
 <div class="event">
