@@ -1,0 +1,15 @@
+---
+layout: page
+title: "Talk by Matthias TITEUX"
+permalink: /speakers/mai/
+---
+
+
+<span style="font-size: 1.5em;"><strong>Matthias TITEUX</strong></span><br>
+Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications, U1163-CEREMAST, Foundation IMAGINE
+
+**Title**:  
+Splice Modulation strategies for the treatment of Recessive Dystrophic Epidermolysis Bullosa
+
+**Abstract**:  
+Recessive Dystrophic Epidermolysis Bullosa (RDEB) is a rare genodermatose characterized by detachment of skin and mucous membranes, caused by loss-of-function variants in COL7A1 encoding type VII collagen (C7), the major component of anchoring fibrils (AFs). We have identified deep intronic variants inducing splice defects (intron retention or pseudoexon incorporation) that were rescued in vitro by antisense oligonucleotides (ASOs), leading to the expression of up to 50% of the normal levels of wild-type COL7A1 mRNA and protein. In addition, the excision of the frequently mutated exon 73 of COL7A1 using ASOs is a promising approach to treat RDEB. We have developed a novel palmitoylated tricyclo-DNA ASO that induced efficient exon skipping and C7 re-expression ex vivo in RDEB patient primary cells. We then demonstrated exon 73 skipping, C7 expression (up to 38% of the normal amount) and AFs formation in relevant tissues (skin, eyes, and oesophagus) in RDEB murine models following subcutaneous and intravenous injections. Preliminary toxicological studies on human plasma and in vivo in mice and in non-human primates demonstrated a safe profile of the ASO. These results paves the way for the development of a systemic treatment for RDEB patients.
