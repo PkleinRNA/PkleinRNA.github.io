@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Talk by Matthias TITEUX and Shana DELFOSSE"
+title: "Talks by Matthias TITEUX and Shana DELFOSSE"
 permalink: /speakers/mai/
 ---
 
+<br><br>
 
 <span style="font-size: 1.5em;"><strong>Matthias TITEUX</strong></span><br>
 Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications, U1163-CEREMAST, Foundation IMAGINE - Eric Allemand's lab
