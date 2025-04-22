@@ -12,6 +12,14 @@ permalink: /Conference_highlights
 
 
 
+<span style="font-size: 1.5em;"><strong> Better than Nature: Improving mRNAs and Cofactors for their Modification, Andrea Rentmeister le 30 Avril à 11h dans la salle des actes de la faculté de pharmacie (4 avenue de l’observatoire, 75005)</strong></span><br> 
+
+Alkylation is an important strategy to modulate the chemical and biological properties of nucleic acids. Selective post-synthetic methylation or alkylation is therefore highly sought after and can be achieved by enzymes, owing to their regio- and chemoselectivity. Prenyltransferases (PTases) rely on dimethylallyl diphosphate (DMAPP) as cofactor for the transfer of C5 units, whereas methyltransferases (MTases) utilize S-adenosyl-L-methionine (SAM or AdoMet) as cofactor for C1 transfer. In this talk, I will present innovative AdoMet analogues for the modification, labelling and photocaging of nucleic acids, addressing both their advantages and limitations, as well as synthetic chemistry alternatives. Additionally, I will discuss the creation of a chimeric AdoMet-DMAPP cofactor that exhibits high reactivity, favoring prenylation over methylation in MTase-catalyzed reactions. These findings show that the AdoMet scaffold can function as efficient prenyl donor. Cofactor engineering readily converts many MTases into efficient prenyl-transfer enzymes similar to natural PTases
+
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong> The next RNA Collaborative Seminar will be held virtually on Wednesday, March 12th at 10 am ET (Eastern, US/Canada), hosted by the Helmholtz Institute for RNA-based Infection Research (HIRI) and Shanghai RNA Club </strong></span><br> 
 
 Please see below for more details and the Zoom webinar registration link
@@ -30,7 +38,7 @@ Junior Professor, University of Würzburg
 Jie Ren, PhD
 Beijing Institute of Genomics, Chinese Academy of Sciences
 
-
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 <br>
 <span style="font-size: 1.5em;"><strong>Hong Kong RNA Club: Hybrid Seminar on 27 Mar 2025 - Prof. Sung Chul Kwon from The University of Hong Kong </strong></span><br>
@@ -45,6 +53,7 @@ Registration required: https://cityu.zoom.us/meeting/register/1KhvO7xMR7-rED0ERb
  
 If you choose "In-person" in the registration link above, you will receive the QR code to access City University of Hong Kong in your email one day before the seminar. For more information, please kindly visit http://kitkwok.com/hk-rna-club
 
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 <br>
 
