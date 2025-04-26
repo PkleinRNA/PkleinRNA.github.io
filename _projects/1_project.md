@@ -15,7 +15,8 @@ permalink: /Conference_highlights
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
-<span style="font-size: 1.5em;"><strong> Club Drosoph'île de France Tuesday, May 6th 2025 at 17h30 IBPS-Dev2A  </strong></span><br> 
+<span style="font-size: 1.5em;"><strong> Club Drosoph'île de France Tuesday, May 6th 2025 at 17h30 IBPS-Dev2A  </strong></span><br> <br>
+
 <span style="font-size: 1.5em;"><strong> Who killed my embryos? When and how are auto-immune piRNA clusters determined?  Nai DUCOS (Carré-Teysset's Lab, IBPS) </strong></span><br> 
 
 ![droso.pdf](/assets/img/droso.pdf)
