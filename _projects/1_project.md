@@ -27,6 +27,14 @@ permalink: /Conference_highlights
 Please visit the webpage: <a href="https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/?utm_source=EMBL+courses+and+conferences&utm_campaign=81c764ebc9-EMAIL_CAMPAIGN_2025_ETC25-01&utm_medium=email&utm_term=0_-a921cbc820-70369973"> https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/?utm_source=EMBL+courses+and+conferences&utm_campaign=81c764ebc9-EMAIL_CAMPAIGN_2025_ETC25-01&utm_medium=email&utm_term=0_-a921cbc820-70369973 </a> <br> 
 
 
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+<span style="font-size: 1.5em;"><strong> VIP/DIF : 23 Juin 2025 -IJM - Amphi Buffon - 5th Joint meeting of Paris Area - Drosophila & Nematodes Communities  </strong></span><br> 
+
+Please visit the webpage: <a href="https://sites.google.com/view/vipdif/accueil"> https://sites.google.com/view/vipdif/accueil </a> <br> 
+
+
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
