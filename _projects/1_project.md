@@ -12,6 +12,24 @@ permalink: /Conference_highlights
 
 
 
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+<span style="font-size: 1.5em;"><strong> Club Drosoph'île de France Tuesday, May 6th 2025 at 17h30 IBPS-Dev2A  </strong></span><br> 
+<span style="font-size: 1.5em;"><strong> Who killed my embryos? When and how are auto-immune piRNA clusters determined?  Nai DUCOS (Carré-Teysset's Lab, IBPS) </strong></span><br> 
+
+![droso.pdf](/assets/img/droso.pdf)
+
+
+<span style="font-size: 1.5em;"><strong> EMBO workshop - The epitranscriptome - Date: 28 to 30 Oct 2025 </strong></span><br> 
+
+
+Please visit the webpage: <a href="https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/?utm_source=EMBL+courses+and+conferences&utm_campaign=81c764ebc9-EMAIL_CAMPAIGN_2025_ETC25-01&utm_medium=email&utm_term=0_-a921cbc820-70369973"> https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/?utm_source=EMBL+courses+and+conferences&utm_campaign=81c764ebc9-EMAIL_CAMPAIGN_2025_ETC25-01&utm_medium=email&utm_term=0_-a921cbc820-70369973 </a> <br> 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 <span style="font-size: 1.5em;"><strong> Better than Nature: Improving mRNAs and Cofactors for their Modification, Andrea Rentmeister le 30 Avril à 11h dans la salle des actes de la faculté de pharmacie (4 avenue de l’observatoire, 75005)</strong></span><br> 
 
 Alkylation is an important strategy to modulate the chemical and biological properties of nucleic acids. Selective post-synthetic methylation or alkylation is therefore highly sought after and can be achieved by enzymes, owing to their regio- and chemoselectivity. Prenyltransferases (PTases) rely on dimethylallyl diphosphate (DMAPP) as cofactor for the transfer of C5 units, whereas methyltransferases (MTases) utilize S-adenosyl-L-methionine (SAM or AdoMet) as cofactor for C1 transfer. In this talk, I will present innovative AdoMet analogues for the modification, labelling and photocaging of nucleic acids, addressing both their advantages and limitations, as well as synthetic chemistry alternatives. Additionally, I will discuss the creation of a chimeric AdoMet-DMAPP cofactor that exhibits high reactivity, favoring prenylation over methylation in MTase-catalyzed reactions. These findings show that the AdoMet scaffold can function as efficient prenyl donor. Cofactor engineering readily converts many MTases into efficient prenyl-transfer enzymes similar to natural PTases
