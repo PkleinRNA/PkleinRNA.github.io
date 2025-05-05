@@ -13,6 +13,14 @@ permalink: /job_highlights
 
 
 
+<span style="font-size: 2.5em;"><strong> Postdoctoral Researcher (M/F) in Structural Biology. Carine Tisné's lab - IBPC, UMR 8261 </strong> </span><br> 
+
+<img src="/assets/Postdoctoral Researcher_TisneTeam2025.pdf" alt="Image 1" width="600">
+
+
+<br><br>
+
+
 <span style="font-size: 2.5em;"><strong>4 MSCA Postdoctoral Fellowships available:</strong> </span><br>
 
 <span style="font-size: 1.5em;"><strong> Project Argonaute, small RNA and Intellectual disability </strong> </span><br>
