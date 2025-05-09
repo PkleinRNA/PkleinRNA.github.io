@@ -12,6 +12,41 @@ permalink: /Conference_highlights
 
 
 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+<span style="font-size: 1.5em;"><strong> Call for abstracts for the upcoming 12th Bordeaux RNA Club is now open!   </strong></span><br> <br>
+
+
+This meeting will take place on June 17th (starting at 14:00) and June 18th (ending at 17:00) at the Amphitheater of the Bordeaux Biologie Santé building and will include talks from selected abstracts and a poster session. 
+The Bordeaux RNA Club became a classic in Bordeaux’s scientific agenda, now after a long break is coming back featuring invited speakers presenting cutting-edge research across various areas of RNA biology, broadly ranging from RNA structure, processing, regulation and function to RNA in disease and therapy. It’s a fantastic opportunity for Master’s students, Ph.D. candidates, Postdocs, and Researchers at any stage of their careers to network and share their work just before the start of summer and the festival Bordeaux Fête le Vin. 
+Registration is easy and free, but spots are limited! Don’t miss out and submit your abstract by May 20th.  
+More information and registration here 
+
+Please visit the webpage: <a href="https://arna.cnrs.fr/RNAclub_registration.html"> https://arna.cnrs.fr/RNAclub_registration.html </a> <br> 
+
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+<span style="font-size: 1.5em;"><strong> ÉCOLE THÉMATIQUE - Petits ARN Régulateurs (MicroARN, SiARN, PiARN). Biogenèse, Mécanismes, Fonctions Biologiques, Détection Et Annotation Fonctionnelle. 16-20 OCT. 2023 SÈTE (FRANCE)  </strong></span><br> <br>
+
+Les petits ARN régulateurs (miARN, siARN et piARN) ont attiré beaucoup d’attention au cours de la dernière vingtaine d’années. L’utilisation des siARN pour la répression expérimentale de gènes par interférence à ARN, l’apparente faible spécificité des miARN (chacun semble réprimer des centaines de gènes-cibles, ce qui impliquerait que les miARN participent collectivement au contrôle de tous les processus physiologiques chez les Animaux), et les nombreux rôles régulateurs proposés pour les piARN, expliquent probablement le grand intérêt que leur porte la communauté scientifique.
+
+Inévitablement, parmi le déluge de publications consacrées à ces petits ARN, certaines sont en contradiction avec d’autres sans le mentionner ; il devient difficile, pour le non-spécialiste, de se faire une idée réelle de l’état d’un domaine auxquels sont consacrés plusieurs dizaines d’articles scientifiques chaque jour. La conjonction des difficultés sémantiques, et du volume de publications existantes sur le sujet, créent une véritable barrière d’entrée dans ce domaine scientifique, qu’il nous semble important d’abaisser en proposant aux participants une vision claire et synthétique de l’état de l’art sur le sujet. Le but de cette école thématique du CNRS est de faire le point sur les connaissances établies, de mentionner les controverses actuelles, de donner tous les éléments objectifs sur les controverses passées, de lever les ambiguïtés de nomenclature et de vocabulaire, de façon à donner aux participants les connaissances leur permettant de comprendre la littérature du domaine.
+
+Comme toutes les écoles thématiques du CNRS, InteRNAt propose une formation de haut niveau, à destination de la communauté scientifique (chercheurs statutaires, post-doctorants, …). Elle est ouverte prioritairement aux agents du CNRS, mais s’adresse également, dans la limite des places disponibles, aux agents des autres organismes, étudiants, entreprises privées, … À la différence d’un congrès classique, les conférences données dans le cadre d’une école thématique constituent un ensemble cohérent, progressif, un véritable enseignement qui doit être suivi dans son intégralité par les participants. Outre les conférences, des ateliers impliqueront une certaine interactivité avec les participants, et, à la marge, d’échanges plus informels favorisés par le format en résidence.
+
+Si le nombre de pré-inscrits dépasse l'effectif maximal (actuellement fixé à 40 personnes), les comités scientifique et d'organisation sélectionneront, parmi les pré-inscrits, les personnes qui pourront s'inscrire définitivement.
+
+Les pré-inscriptions sont ouvertes du 30 mars 2023 au 28 juillet 2023 (extension de la période de pré-inscription de 15 jours par rapport à la date initialement annoncée).
+
+Please visit the webpage: <a href="https://internat23.sciencesconf.org"> https://internat23.sciencesconf.org </a> <br> 
+
+
+
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
