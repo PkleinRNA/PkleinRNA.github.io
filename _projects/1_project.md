@@ -23,9 +23,8 @@ permalink: /Conference_highlights
 This meeting will take place on June 17th (starting at 14:00) and June 18th (ending at 17:00) at the Amphitheater of the Bordeaux Biologie Santé building and will include talks from selected abstracts and a poster session. 
 The Bordeaux RNA Club became a classic in Bordeaux’s scientific agenda, now after a long break is coming back featuring invited speakers presenting cutting-edge research across various areas of RNA biology, broadly ranging from RNA structure, processing, regulation and function to RNA in disease and therapy. It’s a fantastic opportunity for Master’s students, Ph.D. candidates, Postdocs, and Researchers at any stage of their careers to network and share their work just before the start of summer and the festival Bordeaux Fête le Vin. 
 Registration is easy and free, but spots are limited! Don’t miss out and submit your abstract by May 20th.  
-More information and registration here 
 
-Please visit the webpage: <a href="https://arna.cnrs.fr/RNAclub_registration.html"> https://arna.cnrs.fr/RNAclub_registration.html </a> <br> 
+More information and registration here : <a href="https://arna.cnrs.fr/RNAclub_registration.html"> https://arna.cnrs.fr/RNAclub_registration.html </a> <br> 
 
 ![2025_BordeauxRNAClub.pdf](/assets/img/2025_BordeauxRNAClub.pdf)
 
