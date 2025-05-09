@@ -17,7 +17,7 @@ permalink: /Conference_highlights
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
-<span style="font-size: 1.5em;"><strong> Call for abstracts for the upcoming 12th Bordeaux RNA Club is now open!   </strong></span><br> <br>
+<span style="font-size: 1.5em;"><strong> Call for abstracts for the upcoming 12th Bordeaux RNA Club is now open!  June 17th (starting at 14:00) and June 18th (ending at 17:00) </strong></span><br> <br>
 
 
 This meeting will take place on June 17th (starting at 14:00) and June 18th (ending at 17:00) at the Amphitheater of the Bordeaux Biologie Santé building and will include talks from selected abstracts and a poster session. 
@@ -27,6 +27,7 @@ More information and registration here
 
 Please visit the webpage: <a href="https://arna.cnrs.fr/RNAclub_registration.html"> https://arna.cnrs.fr/RNAclub_registration.html </a> <br> 
 
+![2025_BordeauxRNAClub.pdf](/assets/img/2025_BordeauxRNAClub.pdf)
 
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
