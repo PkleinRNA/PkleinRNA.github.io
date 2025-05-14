@@ -51,11 +51,11 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">May 2025 - Thursday 15th</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Shana DELFOSSE et Matthias TITEUX</a>
+  <a href="/speakers/mai/" class="event-speakers">Shana DELFOSSE and Matthias TITEUX</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">June 2025 - Thursday 19th</span>: 
-  <a href="/speakers/juin/" class="event-speakers">Loic BROIX</a>
+  <a href="/speakers/juin/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
 </div>
 <br><br><br>
