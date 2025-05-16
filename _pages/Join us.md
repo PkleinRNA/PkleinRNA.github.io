@@ -56,6 +56,6 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">June 2025 - Thursday 19th</span>: 
-  <a href="/speakers/juin/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
+  <a href="/speakers/Juin/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
 </div>
 <br><br><br>
