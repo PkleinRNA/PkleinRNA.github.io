@@ -4,7 +4,7 @@ title: "Talks by Loic BROIX and Patricia UGUEN"
 permalink: /speakers/Juin/
 ---
 <span style="font-size: 1.5em;"><strong>Loic BROIX</strong></span><br>
-
+Sorbonne Université - NeuroSU Site du Fer à Moulin - CNRS UMR8265/Inserm U1341
 
 **Title**:  
 TBA
