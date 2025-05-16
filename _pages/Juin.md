@@ -3,7 +3,7 @@ layout: page
 title: "Talks by Loic BROIX and Patricia UGUEN"
 permalink: /speakers/Juin/
 ---
-<span style="font-size: 1.5em;"><strong>Loic BROIXE</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Loic BROIX</strong></span><br>
 
 
 **Title**:  
