@@ -16,15 +16,14 @@ More info here:  <a href="https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default
 
 <img src="/assets/img/JuniorProfessorshipCPJmodARNannonce2025.pdf" alt="Image 1" width="600">
 
-
-<br><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 <span style="font-size: 1.5em;"><strong> CNRS Junior Professorship – Rôles moléculaires, physiologiques et cellulaires des Modifications des ARNs  </strong> </span><br> 
 
 More info here: <a href="https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" >  https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN </a> <br>
 More info here: <a href= "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" > https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN </a> <br>
 
-<br><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> Postdoctoral Researcher (M/F) in Structural Biology. Carine Tisné's lab - IBPC, UMR 8261 </strong> </span><br> 
@@ -32,7 +31,7 @@ More info here: <a href= "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default
 <img src="/assets/Postdoctoral Researcher_TisneTeam2025.pdf" alt="Image 1" width="600">
 
 
-<br><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong>4 MSCA Postdoctoral Fellowships available:</strong> </span><br>
@@ -51,7 +50,7 @@ More info here: <a href= "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default
 <a href="https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-universite-and-its-alliance-2025"> https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-universite-and-its-alliance-2025 </a> <br>
 
 
-<br><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> 
@@ -63,17 +62,14 @@ Campagne d’emploi 2025, Candidatures sur l’application ODYSSEE 04/03/2025-04
 
 <img src="/assets/Poste-PU.png" alt="Image 1" width="600">
 
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
-
-
-<br><br>
 <span style="font-size: 1.5em;"><strong> CDD Assistant Ingénieur – Biologie moléculaire et cellulaire</strong> </span><br>
 Equipe de Dominique Weil, au Laboratoire Développement, Adaptation et Vieillissement (UMR8263, unité mixte CNRS-Inserm-Sorbonne Université) à l'Institut de Biologie Paris Seine (IBPS).
 Contact : dominique.weil@upmc.fr
 
 <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_1.png" alt="Image 1" width="600">
 <img src="/assets/img/CDD_AI_equipe_Weil_2025-_Page_2.png" alt="Image 1" width="600">
-
 
  
 <span style="font-size: 1.5em;"><strong>Le CNRS ouvre une chaire Professeur Junior:</strong></span><br>
@@ -82,7 +78,8 @@ The CNRS, France is seeking to recruit a highly qualified chemist for a junior p
 
 If you are interested in knowing more, please contact jean-jacques.vasseur@umontpellier.fr
 
-<br><br>
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong>The RTI at UMass Chan is seeking applicants for the newly established UMass Chan Early Independence Fellows Program and the Maraganore Early Independence Fellows track in the RNA Therapeutics Institute (RTI). </strong></span><br>
 
 <span style="font-size: 1.5em;"><strong>Program description: </strong></span><br> The goal of the UMass Chan Early Independence Fellows Program is to recruit clusters of exceptionally talented junior scientists with the potential to become independent investigators at UMass Chan Medical School, and to provide them with career development, mentoring, and financial support to foster their scientific excellence and leadership. In recognition of diversity as a driver of innovation and scientific impact, we are committed to building and sustaining an inclusive environment with talented individuals from all backgrounds, including backgrounds that are underrepresented in medicine and the biomedical sciences, who embrace a commitment to diversity, equity and inclusion in line with our institutional goals (IMPACT 2025).  
