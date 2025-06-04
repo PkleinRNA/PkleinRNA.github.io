@@ -10,7 +10,21 @@ permalink: /job_highlights
 ---
 
 <br><br>
+<span style="font-size: 2.5em;"><strong> CNRS Junior Professorship – RNA Modifications and Advanced Epitranscriptomic Technologies (M/F) </strong> </span><br> 
 
+More info here:  <a href="https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" > https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=ENf </a> <br>
+
+<img src="/assets/img/JuniorProfessorshipCPJmodARNannonce2025.pdf" alt="Image 1" width="600">
+
+
+<br><br>
+
+<span style="font-size: 2.5em;"><strong> CNRS Junior Professorship – Rôles moléculaires, physiologiques et cellulaires des Modifications des ARNs  </strong> </span><br> 
+
+More info here: <a href="https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" >  https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN </a> <br>
+More info here: <a href= "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" > https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN </a> <br>
+
+<br><br>
 
 
 <span style="font-size: 2.5em;"><strong> Postdoctoral Researcher (M/F) in Structural Biology. Carine Tisné's lab - IBPC, UMR 8261 </strong> </span><br> 
