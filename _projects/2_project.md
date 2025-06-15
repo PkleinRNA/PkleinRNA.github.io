@@ -12,7 +12,7 @@ permalink: /job_highlights
 <br><br>
 
 
-<span style="font-size: 1.5em;"><strong>  2025 SFBBM Annual Congress June 19th and 20th </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong>  2025 SFBBM Annual Congress, June 19th and 20th </strong> </span><br> 
 
 The conference is fully funded by the SFBBM for its members. So if you haven't yet updated your registration, now is the time to do so before we meet at the conference. Follow the link:
 <a href="https://sfbbm.assoconnect.com/collect/description/197753-j-cotisations-sfbbm-2022" > https://sfbbm.assoconnect.com/collect/description/197753-j-cotisations-sfbbm-2022 </a> 
