@@ -14,7 +14,8 @@ permalink: /Conference_highlights
 
 <span style="font-size: 1.5em;"><strong> 2025 SFBBM (Société Française de Biochimie et Biologie Moléculaire) Annual Congress, June 19th and 20th </strong> </span><br> 
 
-Program here : <a href="https://sfbbm-2025.sciencesconf.org/data/pages/ProgrammeSFBBM2025_Paris_VFF_1.pdf"> https://sfbbm-2025.sciencesconf.org/data/pages/ProgrammeSFBBM2025_Paris_VFF_1.pdf </a> <br> 
+More info here: <a href="https://sfbbm-2025.sciencesconf.org"> https://sfbbm-2025.sciencesconf.org </a> <br>   
+Program here: <a href="https://sfbbm-2025.sciencesconf.org/data/pages/ProgrammeSFBBM2025_Paris_VFF_1.pdf"> https://sfbbm-2025.sciencesconf.org/data/pages/ProgrammeSFBBM2025_Paris_VFF_1.pdf </a> <br> 
 
 The conference is fully funded by the SFBBM for its members. So if you haven't yet updated your registration, now is the time to do so before we meet at the conference. Follow the link:
 <a href="https://sfbbm.assoconnect.com/collect/description/197753-j-cotisations-sfbbm-2022" > https://sfbbm.assoconnect.com/collect/description/197753-j-cotisations-sfbbm-2022 </a> 
