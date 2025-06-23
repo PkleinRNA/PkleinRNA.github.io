@@ -9,6 +9,8 @@ children:
     permalink: https://www.institutimagine.org/en/users/ericallemand
   - title: Lionel Bénard's lab - RNA functional Regulation and Surveillance
     permalink: http://lbmce.ibpc.fr/rna-functional-regulation-and-surveillance/
+  - title: Zeynep Baharoglu's lab - Epitranscriptomic responses to antibacterial stress (EpicS)
+    permalink: https://research.pasteur.fr/en/team/epitranscriptomic-and-translational-responses-to-antibacterial-stress/
   - title:  Carré Clément & Laure Teysset lab's lab - Transgenerational epigenetics & small RNA biology
     permalink: https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/transgenerational-epigenetics-small-rna-biology
   - title: Ciaran Condon's lab - RNA maturation and Degradation
