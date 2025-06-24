@@ -15,7 +15,7 @@ Meetings are happening from 16:30 to 18:00. They include two 30-minute talks fol
 Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
 
 <div class="event">
-  <span class="event-date">mid October 2025 - exact date tbc soon</span>: 
+  <span class="event-date">October 2025 - 16th </span>: 
   <a href="/speakers/October/" class="event-speakers">Emma DENHAM and free slot </a>
 </div>
 <br>
