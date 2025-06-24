@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One year already! The Paris RNA Club has officially lived through its first year—thank you to all who joined the adventure.
+🎉🎉🎉 The Paris RNA Club has officially lived through its first year—thank you to all who joined the adventure. 🎉🎉🎉
