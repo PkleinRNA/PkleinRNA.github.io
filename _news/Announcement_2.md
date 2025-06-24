@@ -8,8 +8,8 @@ related_posts: false
 
 🗓️ The 2025/2026 schedule is now open — if you’d like to present, get in touch at contact@parisrnaclub.fr!
 
-<br>
-A warm welcome to our newly affiliated labs! If you are interested in affiliating your lab, please do not hesitate to get in touch. <br><br>
+<br><br>
+If you are interested in affiliating your lab, please do not hesitate to get in touch. <br><br>
 
 [Don't forget to check out our job opportunities page! New jobs adverts are added regularly.](/job_highlights) <br><br>
 
