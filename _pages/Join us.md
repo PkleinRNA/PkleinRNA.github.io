@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 <span style="font-size: 40px;">
-**2024/2025** <br>
+**2025/2026** <br>
 <span style="font-size: 20px;">
 Meetings are happening from 16:30 to 18:00. They include two 30-minute talks followed by refreshments, allowing further discussions.<br>
 
@@ -15,47 +15,47 @@ Meetings are happening from 16:30 to 18:00. They include two 30-minute talks fol
 Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
 
 <div class="event">
-  <span class="event-date">October 2024 - Thursday 10th</span>: 
-  <a href="/speakers/October/" class="event-speakers">Adham SAFIEDDINE and Benoit PALANCADE</a>
+  <span class="event-date">mid October 2025 - exact date tbc soon</span>: 
+  <a href="/speakers/October/" class="event-speakers">Emma DENHAM and free slot </a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">November 2024 - Thursday 14th</span>: 
-  <a href="/speakers/November/" class="event-speakers">Toni GOUHIER and Olivia CHARMANT</a>
+  <span class="event-date"> mid November 2025 - exact date tbc soon</span>: 
+  <a href="/speakers/November/" class="event-speakers">A51 startup and free slot</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">December 2024 - Thursday 12th</span>: 
-  <a href="/speakers/December/" class="event-speakers">Jonathan JAGODNIK and Hervé VAUCHERET</a>
+  <span class="event-date">mid December 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/December/" class="event-speakers">free slots</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">January 2025 - Thursday 16th</span>: 
-  <a href="/speakers/January/" class="event-speakers">Alexandre D’HALLUIN and Grégory BOËL</a>
+  <span class="event-date">mid January 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/January/" class="event-speakers">free slots</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">February 2025 - Thursday 13th</span>: 
-  <a href="/speakers/fevrier/" class="event-speakers">Pierre KLEIN and Carine TISNE</a>
+  <span class="event-date">mid February 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/fevrier/" class="event-speakers">free slots</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">March 2025 - Thursday 13th</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Eric ALLEMAND and Martin DUTERTRE</a>
+  <span class="event-date">mid March 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/mars/" class="event-speakers">Carré/ Teysset Lab and free slot</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">April 2025 - Thursday 17th</span>: 
-  Half-term holiday - no meeting. 
+  <span class="event-date">mid April 2026 - exact date tbc soon</span>: 
+ <a href="/speakers/mai/" class="event-speakers">free slots</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">May 2025 - Thursday 15th</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Shana DELFOSSE and Matthias TITEUX</a>
+  <span class="event-date">mid May 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/mai/" class="event-speakers">free slots</a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">June 2025 - Thursday 19th</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
+  <span class="event-date">mid June 2026 - exact date tbc soon</span>: 
+  <a href="/speakers/Juin/" class="event-speakers">free slots</a>
 </div>
 <br><br><br>
