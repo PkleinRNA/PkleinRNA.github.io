@@ -18,7 +18,7 @@ Dans ce contexte, la personne recrutée contribuera à l’étude des mécanisme
 
 Email Mme Frédérique RAU : frederique.rau@sorbonne-universite.fr et Mr Pierre KLEIN : pierre.klein@sorbonne-universite.fr pour plus d'information. 
 
-<img src="/assets/img/Fiche_de_poste_IE_VF" alt="Image 1" width="600">
+<img src="/assets/img/Fiche_de_poste_IE_VF.pdf" alt="Image 1" width="600">
 
 
 <br><br>
