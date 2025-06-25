@@ -14,9 +14,9 @@ permalink: /job_highlights
 
 Le/la candidat(e) évoluera au sein de l’équipe « Repeat Expansions & Myotonic Dystrophy - REDs », dont les travaux sont centrés sur une pathologie neuromusculaire, la dystrophie myotonique de type 1 (DM1) ou maladie de Steinert.
 
-Dans ce contexte, la personne recrutée contribuera à l’étude des mécanismes physiopathologiques de la DM1, avec un accent particulier porté sur le muscle squelettique (au niveau cellulaire et tissulaire) ainsi que sur l’analyse de l’épitranscriptome, notamment via des approches RNA-seq et multi-omiques
+Dans ce contexte, la personne recrutée contribuera à l’étude des mécanismes physiopathologiques de la DM1, avec un accent particulier porté sur le muscle squelettique (au niveau cellulaire et tissulaire) ainsi que sur l’analyse de l’épitranscriptome, notamment via des approches RNA-seq et multi-omiques. 
 
-Enail : Mme Frédérique RAU : frederique.rau@sorbonne-universite.fr et Mr Pierre KLEIN : pierre.klein@sorbonne-universite.fr pour plus d'information. 
+Email  Mme Frédérique RAU : frederique.rau@sorbonne-universite.fr et Mr Pierre KLEIN : pierre.klein@sorbonne-universite.fr pour plus d'information. 
 
 <img src="/assets/img/JuniorProfessorshipCPJmodARNannonce2025.pdf" alt="Image 1" width="600">
 
