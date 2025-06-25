@@ -8,6 +8,17 @@ category: work
 related_publications: true
 permalink: /job_highlights
 ---
+<br><br>
+
+<span style="font-size: 1.5em;"><strong> Offre de CDD pour un ingénieur d’étude (IE) sur le rôle de l’épitranscriptomique dans la dystrophie musculaire de type 1</strong> </span><br> 
+
+Le/la candidat(e) évoluera au sein de l’équipe « Repeat Expansions & Myotonic Dystrophy - REDs », dont les travaux sont centrés sur une pathologie neuromusculaire, la dystrophie myotonique de type 1 (DM1) ou maladie de Steinert.
+
+Dans ce contexte, la personne recrutée contribuera à l’étude des mécanismes physiopathologiques de la DM1, avec un accent particulier porté sur le muscle squelettique (au niveau cellulaire et tissulaire) ainsi que sur l’analyse de l’épitranscriptome, notamment via des approches RNA-seq et multi-omiques
+
+Enail : Mme Frédérique RAU : frederique.rau@sorbonne-universite.fr et Mr Pierre KLEIN : pierre.klein@sorbonne-universite.fr pour plus d'information. 
+
+<img src="/assets/img/JuniorProfessorshipCPJmodARNannonce2025.pdf" alt="Image 1" width="600">
 
 
 <br><br>
@@ -15,7 +26,7 @@ permalink: /job_highlights
 
 More info here:  <a href="https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=EN" > https://emploi.cnrs.fr/Offres/CPJ/CPJ-2025-056/Default.aspx?lang=ENf </a> <br>
 
-<img src="/assets/img/JuniorProfessorshipCPJmodARNannonce2025.pdf" alt="Image 1" width="600">
+<img src="/assets/img/Fiche_de_poste_IE_VF" alt="Image 1" width="600">
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
