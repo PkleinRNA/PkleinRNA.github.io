@@ -21,17 +21,17 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date"> mid November 2025 - exact date tbc soon</span>: 
-  <a href="/speakers/November/" class="event-speakers">A51 startup and Rantxa Rojas (Cecere lab, Pasteur)</a>
+  <a href="/speakers/November/" class="event-speakers">A51 startup and Rantxa Rojas (Germano Cecere's lab)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid December 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/December/" class="event-speakers">Bernard's Lab, IBPC and Florent Hubé (Carré/Teysset lab, Dev2A-IBPS Sorbonne Université) </a>
+  <a href="/speakers/December/" class="event-speakers">Lionel Benard's Lab and Florent Hubé (Clément Carré/Laure Teysset lab) </a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid January 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/January/" class="event-speakers" > Olga Soutourina’ lab and Léo Hardy (Zeynep Baharoglu lab,IBPC)</a>
+  <a href="/speakers/January/" class="event-speakers" >Olga Soutourina’ lab and Léo Hardy (Zeynep Baharoglu lab)</a>
 </div>
 <br>
 <div class="event">
@@ -41,7 +41,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid March 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab (UPC) and Sargueil'lab, UPC, CitCom</a>
+  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab and Sargueil's lab</a>
 </div>
 <br>
 <div class="event">
@@ -51,11 +51,11 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid May 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Carré/ Teysset Lab, piRNA subject, Dev2A-IBPS and free slot</a>
+  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and free slot</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid June 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Carré/ Teysset Lab, piRNA subject, Dev2A-IBPS and free slot</a>
+  <a href="/speakers/Juin/" class="event-speakers">Carré/Teysset Lab and free slot</a>
 </div>
 <br><br><br>
