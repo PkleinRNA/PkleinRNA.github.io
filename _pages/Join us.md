@@ -26,12 +26,12 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid December 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/December/" class="event-speakers">Lionel Benard's Lab and Florent Hubé (Clément Carré/Laure Teysset lab) </a>
+  <a href="/speakers/December/" class="event-speakers">Lionel Benard's Lab and Florent Hubé (Clément Carré/Laure Teysset's lab) </a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid January 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/January/" class="event-speakers" >Olga Soutourina’ lab and Léo Hardy (Zeynep Baharoglu lab)</a>
+  <a href="/speakers/January/" class="event-speakers" >Olga Soutourina’ lab and Léo Hardy (Zeynep Baharoglu's lab)</a>
 </div>
 <br>
 <div class="event">
@@ -41,7 +41,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid March 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab and Sargueil's lab</a>
+  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab and Bruno Sargueil's lab</a>
 </div>
 <br>
 <div class="event">
@@ -56,6 +56,6 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid June 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Carré/Teysset Lab and free slot</a>
+  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and free slot</a>
 </div>
 <br><br><br>
