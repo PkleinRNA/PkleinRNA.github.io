@@ -36,7 +36,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid February 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/fevrier/" class="event-speakers">free slots</a>
+  <a href="/speakers/fevrier/" class="event-speakers">FREE SLOTS</a>
 </div>
 <br>
 <div class="event">
@@ -46,16 +46,16 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid April 2026 - exact date tbc soon</span>: 
- <a href="/speakers/mai/" class="event-speakers">free slot</a>
+ <a href="/speakers/mai/" class="event-speakers">FREE SLOTS</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid May 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and free slot</a>
+  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and FREE SLOT</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid June 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and free slot</a>
+  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and FREE SLOT</a>
 </div>
 <br><br><br>
