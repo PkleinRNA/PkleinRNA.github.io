@@ -16,22 +16,22 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 
 <div class="event">
   <span class="event-date">October 2025 - 16th </span>: 
-  <a href="/speakers/October/" class="event-speakers">Emma DENHAM and Florent HUBE (Carré/ Teysset lab, Dev2A-IBPS Sorbonne Université)</a>
+  <a href="/speakers/October/" class="event-speakers">Emma Denham and Carine Tisné's lab</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date"> mid November 2025 - exact date tbc soon</span>: 
-  <a href="/speakers/November/" class="event-speakers">A51 startup and Rantxa ROJAS (Cecere lab, Pasteur)</a>
+  <a href="/speakers/November/" class="event-speakers">A51 startup and Rantxa Rojas (Cecere lab, Pasteur)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid December 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/December/" class="event-speakers">free slots</a>
+  <a href="/speakers/December/" class="event-speakers">Bernard's Lab, IBPC and Florent Hubé (Carré/Teysset lab, Dev2A-IBPS Sorbonne Université) </a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid January 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/January/" class="event-speakers" > Olga SOUTOURINA’ lab and Léo HARDY (post doc in Zeynep BAHAROGLU lab, IBPC)</a>
+  <a href="/speakers/January/" class="event-speakers" > Olga Soutourina’ lab and Léo Hardy (Zeynep Baharoglu lab,IBPC)</a>
 </div>
 <br>
 <div class="event">
@@ -41,21 +41,21 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">mid March 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Carré/ Teysset Lab and free slot</a>
+  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab (UPC) and Sargueil'lab, UPC, CitCom</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid April 2026 - exact date tbc soon</span>: 
- <a href="/speakers/mai/" class="event-speakers">free slots</a>
+ <a href="/speakers/mai/" class="event-speakers">free slot</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid May 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/mai/" class="event-speakers">free slots</a>
+  <a href="/speakers/mai/" class="event-speakers">Carré/ Teysset Lab, piRNA subject, Dev2A-IBPS and free slot</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">mid June 2026 - exact date tbc soon</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">free slots</a>
+  <a href="/speakers/Juin/" class="event-speakers">Carré/ Teysset Lab, piRNA subject, Dev2A-IBPS and free slot</a>
 </div>
 <br><br><br>
