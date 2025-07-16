@@ -11,19 +11,16 @@ body.dark-mode .profile-img-dark {
   display: block;
 }
 
-
-/******************************************************************************
-* Dropdown Scroll Fix
-******************************************************************************/
-
+// Scrollable dropdown fix for "Affiliated labs"
 @media (min-width: 576px) {
   .navbar-nav .dropdown-menu.show {
     position: absolute !important;
     top: 100%;
     left: 0;
     z-index: 1050;
-    max-height: 200px;
+    max-height: 300px; /* Adjust as needed */
     overflow-y: auto;
     overflow-x: hidden;
+    scrollbar-width: thin; /* Optional: for Firefox */
   }
 }
