@@ -1357,9 +1357,11 @@ ninja-keys::part(ninja-input-wrapper) {
 
 
 .navbar .dropdown-menu.show {
-  max-height: 200px !important;
-  overflow-y: auto !important;
-  overflow-x: hidden;
   position: absolute !important;
-  z-index: 1050; // Ensure it's above everything else
+  top: 100%;
+  left: 0;
+  z-index: 1050;
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
