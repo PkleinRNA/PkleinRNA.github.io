@@ -242,12 +242,7 @@ ul.task-list input[type="checkbox"] {
 
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
-  border: 1px solid var(--global-divider-color);
-  overflow-y: auto;
-  overflow-x: hidden;
-  position: absolute !important;
-  z-index: 1050; // Ensure it's above everything else
-  
+  border: 1px solid var(--global-divider-color);  
 
   a:not(.active) {
     color: var(--global-text-color);
