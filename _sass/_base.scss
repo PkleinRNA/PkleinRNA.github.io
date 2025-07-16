@@ -246,6 +246,9 @@ ul.task-list input[type="checkbox"] {
   max-height: 100px !important ;        /* Limite la hauteur du menu */
   overflow-y: auto;
   overflow-x: hidden;
+  position: absolute !important;
+  z-index: 1050; // Ensure it's above everything else
+  
 
   a:not(.active) {
     color: var(--global-text-color);
