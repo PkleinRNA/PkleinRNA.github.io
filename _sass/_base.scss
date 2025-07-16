@@ -244,8 +244,8 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
   max-height: 100px !important ;        /* Limite la hauteur du menu */
-  overflow: scroll !important;       /* Scroll toujours visible */
-
+  overflow-y: auto;
+  overflow-x: hidden;
 
   a:not(.active) {
     color: var(--global-text-color);
