@@ -1356,12 +1356,14 @@ ninja-keys::part(ninja-input-wrapper) {
 
 
 
-.navbar .dropdown-menu.show {
-  position: absolute !important;
-  top: 100%;
-  left: 0;
-  z-index: 1050;
-  max-height: 200px;
-  overflow-y: auto;
-  overflow-x: hidden;
+@media (min-width: 576px) {
+  .navbar-nav .dropdown-menu.show {
+    position: absolute !important;
+    top: 100%;
+    left: 0;
+    z-index: 1050;
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
 }
