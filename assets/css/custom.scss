@@ -11,14 +11,26 @@ body.dark-mode .profile-img-dark {
   display: block;
 }
 
-// Scrollable dropdown fix for "Affiliated labs"
+
+/* Scrollable dropdown fix for 'Affiliated labs' */
 .navbar .dropdown-menu.show {
   position: absolute !important;
-  top: 100%;
+  top: 100% !important;
   left: 0;
   z-index: 1050;
+
+  display: block !important;
+
   max-height: 300px;
-  overflow-y: scroll; /* instead of auto for Safari */
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS Safari */
-  display: block;
+  min-height: 150px;
+  overflow-y: auto; /* or scroll */
+  overflow-x: hidden;
+
+  -webkit-overflow-scrolling: touch; /* Smooth on iOS */
+}
+
+/* Ensure dropdown isn't clipped */
+.navbar-collapse,
+.navbar-nav {
+  overflow: visible !important;
 }
