@@ -21,12 +21,11 @@ body.dark-mode .profile-img-dark {
 
   display: block !important;
 
-  max-height: 300px;             /* scroll only if too long */
-  overflow-y: auto;
-  overflow-x: visible;           /* allow wide text to be seen */
-  white-space: normal;           /* allow wrapping if needed */
+  max-height: 300px;
+  min-height: 1000px;
+  overflow-y: auto; /* or scroll */
 
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch; /* Smooth on iOS */
 }
 
 /* Ensure dropdown isn't clipped */
