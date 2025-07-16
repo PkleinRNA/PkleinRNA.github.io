@@ -243,6 +243,8 @@ ul.task-list input[type="checkbox"] {
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
+  max-height: 300px; /* scroll si dépasse */
+  overflow-y: auto;  /* curseur vertical */
 
   a:not(.active) {
     color: var(--global-text-color);
