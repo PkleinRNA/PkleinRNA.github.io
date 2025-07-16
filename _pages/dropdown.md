@@ -42,7 +42,7 @@ children:
   - title: Carine Tisné's lab – Biogenesis,architecture and interactions of RNAs
     permalink: http://www.ibpc.fr/UMR8261/AccueilUMR8261.html
   - title: Dominique Weil's lab - RNP et Condensats
-    permalink: [https://www.ibps.sorbonne-universite.fr/fr/Recherche/umr-developpement-adaptation-et-vieillissement/compartimentation-trafic-intracellulaire-mrnp](https://www.ibps.sorbonne-universite.fr/fr/Recherche/umr-developpement-adaptation-et-vieillissement/compartimentation-trafic-intracellulaire-mrnp)
+   permalink: https://www.ibps.sorbonne-universite.fr/fr/Recherche/umr-developpement-adaptation-et-vieillissement/compartimentation-trafic-intracellulaire-mrnp
    
 
 ---
