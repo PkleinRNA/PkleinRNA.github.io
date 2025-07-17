@@ -24,7 +24,7 @@ body.dark-mode .profile-img-dark {
   max-height: 300px;
   min-height: 1000px;
   overflow-y: auto; /* or scroll */
-  overflow-x: hidden;
+  overflow-x: auto;
   
   -webkit-overflow-scrolling: touch; /* Smooth on iOS */
 }
