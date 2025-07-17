@@ -16,14 +16,13 @@ body.dark-mode .profile-img-dark {
 .navbar .dropdown-menu.show {
   position: absolute !important;
   top: 100% !important;
-  left: 0;
   z-index: 1050;
 
   display: block !important;
 
   max-height: 300px;
   min-height: 1000px;
-  overflow-y: auto; /* or scroll */
+  overflow-y: scroll; /* or scroll */
   overflow-x: auto;
   
   -webkit-overflow-scrolling: touch; /* Smooth on iOS */
