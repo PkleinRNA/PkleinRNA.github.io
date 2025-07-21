@@ -10,6 +10,17 @@ permalink: /Conference_highlights
 ---
 
 <br><br>
+<span style="font-size: 1.5em;"><strong> Transcription and Chromatin 2025 </strong> </span><br> 
+17-19 September 2025 The Midland Hotel, Manchester, UK
+Abstract & early booking deadlines: 17 July 2025. (Places are limited).
+Late Breaking abstracts is now open until Monday 11 August. 
+
+More info here: <a https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0"> https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0 </a> <br> 
+
+
+<br>
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> 2025 SFBBM (Société Française de Biochimie et Biologie Moléculaire) Annual Congress, June 19th and 20th </strong> </span><br> 
