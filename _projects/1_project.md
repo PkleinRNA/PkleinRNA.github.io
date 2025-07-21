@@ -27,7 +27,7 @@ https://forms.gle/skL1p7xtBhKuNDvd6
 Abstract & early booking deadlines: 17 July 2025. (Places are limited).
 Late Breaking abstracts is now open until Monday 11 August. 
 
-More info here: <a [https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0](https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240)"> [https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0](https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240) </a> <br> 
+More info here: <a href="https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0"> https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=130100&eventID=240&CSPCHD=000001000000zZhDzLFkWfs5pDHQgvYtkgfdc6eME6BIYP4kD0 </a> <br>   
 
 
 <br>
