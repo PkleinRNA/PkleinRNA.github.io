@@ -10,6 +10,18 @@ permalink: /Conference_highlights
 ---
 
 <br><br>
+
+<span style="font-size: 1.5em;"><strong> Rencontres Technologiques – ARN et Vectorisation </strong> </span><br> 
+Il se déroulera le 9 septembre 2025 au 11 rue Watt, 75013 Paris.
+ 
+Vous trouverez ci-dessous le lien d’inscription à l’atelier :
+https://forms.gle/skL1p7xtBhKuNDvd6
+
+![Invitation_ARNetVectorisation1.pdf](/assets/img/Invitation_ARNetVectorisation1.pdf)
+![Invitation_ARNetVectorisation2.pdf](/assets/img/Invitation_ARNetVectorisation2.pdf)
+
+
+<br><br>
 <span style="font-size: 1.5em;"><strong> Transcription and Chromatin 2025 </strong> </span><br> 
 17-19 September 2025 The Midland Hotel, Manchester, UK
 Abstract & early booking deadlines: 17 July 2025. (Places are limited).
