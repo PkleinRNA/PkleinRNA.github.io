@@ -4,7 +4,7 @@ permalink: /Past meetings/
 title: Past meetings
 description:
 nav: true
-nav_order: 9
+nav_order: 7
 ---
 <span style="font-size: 40px;">
 **2024/2025** <br>
