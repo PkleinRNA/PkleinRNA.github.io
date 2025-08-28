@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /calendar/
-title: Calendar
+permalink: /Past meetings/
+title: Past meetings
 description:
 nav: true
 nav_order: 9
