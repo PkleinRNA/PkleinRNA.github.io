@@ -13,17 +13,17 @@ nav_order: 4
 
 <div class="event">
   <span class="event-date">October 2024</span>: 
-  <a href="/speakers/October/" class="event-speakers">Adham SAFIEDDINE and Benoit PALANCADE</a>
+  <a href="/speakers/October20242025/" class="event-speakers">Adham SAFIEDDINE and Benoit PALANCADE</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">November 2024</span>: 
-  <a href="/speakers/November/" class="event-speakers">Toni GOUHIER and Olivia CHARMANT</a>
+  <a href="/speakers/November20242025/" class="event-speakers">Toni GOUHIER and Olivia CHARMANT</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">December 2024</span>: 
-  <a href="/speakers/December/" class="event-speakers">Jonathan JAGODNIK and Hervé VAUCHERET</a>
+  <a href="/speakers/December20242025/" class="event-speakers">Jonathan JAGODNIK and Hervé VAUCHERET</a>
 </div>
 <br>
 <div class="event">
@@ -33,25 +33,26 @@ nav_order: 4
 <br>
 <div class="event">
   <span class="event-date">February 2025</span>: 
-  <a href="/speakers/fevrier/" class="event-speakers">Pierre KLEIN and Carine TISNE</a>
+  <a href="/speakers/fevrier20242025/" class="event-speakers">Pierre KLEIN and Carine TISNE</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">March 2025</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Eric ALLEMAND and Martin DUTERTRE</a>
+  <a href="/speakers/mars20242025/" class="event-speakers">Eric ALLEMAND and Martin DUTERTRE</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">April 2025</span>: 
+   <a href="/speakers/mars20242025/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">May 2025</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Shana DELFOSSE and Matthias TITEUX</a>
+  <a href="/speakers/mai20242025/" class="event-speakers">Shana DELFOSSE and Matthias TITEUX</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">June 2025</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
+  <a href="/speakers/Juin20242025/" class="event-speakers">Loic BROIX and Patricia UGUEN </a>
 </div>
 <br><br><br>
