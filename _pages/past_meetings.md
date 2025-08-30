@@ -38,12 +38,11 @@ nav_order: 4
 <br>
 <div class="event">
   <span class="event-date">March 2025</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Eric ALLEMAND</a>
+  <a href="/speakers/mars/" class="event-speakers">Eric ALLEMAND and Martin DUTERTRE</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">April 2025</span>: 
-  Half-term holiday - no meeting. 
 </div>
 <br>
 <div class="event">
