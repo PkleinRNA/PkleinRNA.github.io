@@ -10,15 +10,19 @@ permalink: /job_highlights
 ---
 <br><br>
 
-<span style="font-size: 1.5em;"><strong> Offre de CDD pour un ingénieur d’étude (IE) sur le rôle de l’épitranscriptome dans la dystrophie musculaire de type 1</strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> Offre de Postdoc in Dominique Weil's team "RNPs and condensates" </strong> </span><br> 
+We are seeking a highly motivated candidate trained in molecular and cellular biology to be part of the FRM-funded project: "Role of the DDX6 RNA helicase and P-bodies in cell cycle and neurodevelopment".
 
-Le/la candidat(e) évoluera au sein de l’équipe « Repeat Expansions & Myotonic Dystrophy - REDs » (Le Centre de Recherche en Myologie (CRM) sur le site de la Pitie-Salpetriere), dont les travaux sont centrés sur une pathologie neuromusculaire, la dystrophie myotonique de type 1 (DM1) ou maladie de Steinert.
+Funding for this position is for three years, starting in November. Interested candidates
+are welcome to apply by sending the following to Dominique Weil
+(dominique.weil@sorbonne-university.fr):
+- A motivation letter indicating current and future research interests
+- A Curriculum Vitae
+- 2 reference letters
 
-Dans ce contexte, la personne recrutée contribuera à l’étude des mécanismes physiopathologiques de la DM1, avec un accent particulier porté sur le muscle squelettique (au niveau cellulaire et tissulaire) ainsi que sur l’analyse de l’épitranscriptome, notamment via des approches RNA-seq et multi-omiques. 
+For more details about the Weil team, on-going research projects, and recent publications, please visit its website.
 
-Email Mme Frédérique RAU : frederique.rau@sorbonne-universite.fr et Mr Pierre KLEIN : pierre.klein@sorbonne-universite.fr pour plus d'information. 
-
-<img src="/assets/img/Fiche_de_poste_IE_VF.pdf" alt="Image 1" width="600">
+<img src="/assets/img/POSTDOCatDev2A-teamWeil.pdf" alt="Image 1" width="600">
 
 
 <br><br>
