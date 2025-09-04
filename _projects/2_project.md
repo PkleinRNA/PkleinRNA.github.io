@@ -20,8 +20,7 @@ are welcome to apply by sending the following to Dominique Weil
 - A Curriculum Vitae
 - 2 reference letters
 
-For more details about the Weil team, on-going research projects, and recent publications, please visit its website. 
-
+For more details about the Weil team, on-going research projects, and recent publications, please visit its <span style="font-size: 1.5em;"><strong><a href="https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/en-RNP-Co">   website. </a></strong></span><br>
 Link to the advert here:  <a href=" https://dropsu.sorbonne-universite.fr/s/sJoAcPpfksTbYFa" > https://dropsu.sorbonne-universite.fr/s/sJoAcPpfksTbYFa </a> <br> 
 
 <img src="/assets/img/POSTDOCatDev2A-teamWeil.pdf" alt="Image 1" width="600">
