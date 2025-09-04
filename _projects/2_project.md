@@ -25,6 +25,8 @@ Link to the advert here:  <a href=" https://dropsu.sorbonne-universite.fr/s/sJoA
 
 <img src="/assets/img/POSTDOCatDev2A-teamWeil.pdf" alt="Image 1" width="600">
 
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <br>
 <span style="font-size: 1.5em;"><strong> CNRS Junior Professorship – RNA Modifications and Advanced Epitranscriptomic Technologies (M/F) </strong> </span><br> 
 
