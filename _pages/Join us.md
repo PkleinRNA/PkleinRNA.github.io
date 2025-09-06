@@ -35,7 +35,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 18th of February 2026/span>: 
+  <span class="event-date">Wednesday 18th of February 2026</span>: 
   <a href="/speakers/fevrier/" class="event-speakers">FREE SLOTS</a>
 </div>
 <br>
