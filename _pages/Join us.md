@@ -15,7 +15,7 @@ Meetings are happening from 16:30 to 18:00. They include two 30-minute talks fol
 Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
 
 <div class="event">
-  <span class="event-date">Wednesday 15th of October 2025 </span>: 
+  <span class="event-date">Wednesday 15th of October 2025</span>: 
   <a href="/speakers/October/" class="event-speakers">X and Carine Tisné's lab</a>
 </div>
 <br>
@@ -50,7 +50,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 20th of May 2026 </span>: 
+  <span class="event-date">Wednesday 20th of May 2026</span>: 
   <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and Diu Nguyen - Group Leader at Barts Cancer Institute, Queen Mary University of London</a>
 </div>
 <br>
