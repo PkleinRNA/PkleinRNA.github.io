@@ -11,6 +11,21 @@ permalink: /Conference_highlights
 
 <br><br>
 
+
+<span style="font-size: 1.5em;"><strong>  Sientific seminar presented by Loïc Broix (New team – NeuroSU), entitled: “Crosstalk between membrane-bound organelles, mRNA and the cytoskeleton in neurons” Friday 26th of September at 11am in room C404.  </strong> </span><br>  
+
+Abstract : Neurons are highly polarized cells characterized by a long axon that extends far from the cell body. Their homeostasis depends on long-range transport between the soma and synapses. Within the axon, microtubules form extended tracks that support the transport of diverse organelles, vesicles, and mRNAs by the molecular motors kinesin and dynein. In the first part of my talk, I will present evidence that motile axonal membrane-bound vesicles carry enzymatic machinery capable of regulating their own transport by modifying the local microtubule environment. In the second part, I will discuss how the coordination between epitranscriptomics, mRNA trafficking, and cytoskeletal dynamics underlies axon development in neurons. Together, these findings highlight the crucial crosstalk among membrane-bound organelles, mRNAs, and the cytoskeleton in governing neuronal development and function.
+
+
+
+![SeminarLoïcBroix.jpg](/assets/img/SeminarLoïcBroix.jpg) 
+
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
 <span style="font-size: 1.5em;"><strong> Rencontres Technologiques – ARN et Vectorisation </strong> </span><br> 
 Il se déroulera le 9 septembre 2025 au 11 rue Watt, 75013 Paris.
  
