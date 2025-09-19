@@ -16,7 +16,7 @@ Please send applications to: Hervé Le Hir (lehir@ens.fr)
 
 More info here  <a href="https://www.ibens.bio.ens.psl.eu/?rubrique42&lang=en" > https://dropsu.sorbonne-universite.fr/s/sJoAcPpfksTbYFa </a> <br> 
 
-<img src="/assets/img/Postdocadd25.pdf" alt="Image 1" width="400">
+<img src="assets/img/Postdocadd25.pdf" alt="Image 1" width="400">
 
 
 
