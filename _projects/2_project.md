@@ -10,7 +10,18 @@ permalink: /job_highlights
 ---
 <br><br>
 
-<span style="font-size: 1.5em;"><strong> Offre de Postdoc in Dominique Weil's team "RNPs and condensates" </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> A postdoctoral position is available in the laboratory of Hervé Le Hir within the Department of Functional Genomics at the IBENS on "mRNP Packaging and Epitranscriptomic Control" </strong> </span><br> 
+
+Please send applications to: Hervé Le Hir (lehir@ens.fr)
+
+More info here  <a href="https://www.ibens.bio.ens.psl.eu/?rubrique42&lang=en" > https://dropsu.sorbonne-universite.fr/s/sJoAcPpfksTbYFa </a> <br> 
+
+<img src="/assets/img/Postdocadd25.pdf" alt="Image 1" width="600">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+<span style="font-size: 1.5em;"><strong> Offre de Postdoc within Dominique Weil's team "RNPs and condensates" </strong> </span><br> 
 We are seeking a highly motivated candidate trained in molecular and cellular biology to be part of the FRM-funded project: "Role of the DDX6 RNA helicase and P-bodies in cell cycle and neurodevelopment".
 
 Funding for this position is for three years, starting in November. Interested candidates
