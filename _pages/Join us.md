@@ -16,7 +16,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 
 <div class="event">
   <span class="event-date">Wednesday 15th of October 2025</span>: 
-  <a href="/speakers/October/" class="event-speakers">X and Carine Tisné's lab</a>
+  <a href="/speakers/October/" class="event-speakers">Marta Kwapisz and Carine Tisné's lab</a>
 </div>
 <br>
 <div class="event">
