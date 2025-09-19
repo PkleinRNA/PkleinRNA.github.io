@@ -21,9 +21,21 @@ Abstract : Neurons are highly polarized cells characterized by a long axon that 
 ![SeminarLoïcBroix.jpg](/assets/img/SeminarLoïcBroix.jpg) 
 
 
-
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
+
+<span style="font-size: 1.5em;"><strong>  "G4 Made in France" will take place on November 27–28 on the Jussieu campus (Central Paris – Jussieu Metro station) </strong> </span><br>  
+
+The next edition of "G4 Made in France" will take place on November 27–28 on the Jussieu campus (Central Paris – Jussieu Metro station).
+This event will be dedicated to G-quadruplexes, as well as all non-canonical nucleic acid structures.
+All contributions related to these topics are welcome!
+Registration is free but mandatory, via the following link:
+More info here: <a href="https://quadinfrance.sciencesconf.org/"> https://quadinfrance.sciencesconf.org/
+The program will be finalized in early October, based on your proposed presentations (recommended language: English).
+Feel free to share this announcement within your networks.
+We strongly encourage the participation of young researchers.
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> Rencontres Technologiques – ARN et Vectorisation </strong> </span><br> 
