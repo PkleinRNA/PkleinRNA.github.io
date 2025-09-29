@@ -5,7 +5,7 @@ permalink: /speakers/October/
 ---
 
 <span style="font-size: 1.5em;"><strong>Yu Qiao</strong></span><br>
-Visiting PhD student in Carrie Tisné's lab, Institut de biologie physico-chimique (IBPC), Laboratory of Microbial Gene Expression, UMR 8261 CNRS/University of Paris Cité
+Visiting PhD student in Carrie Tisné's lab, Laboratoire d'expression génétique microbienne (UMR8261 CNRS/université de Paris), Team "Biogenèse, architecture et interactions des ARN"
 
 **Title**:  
  Functional and structural study of mRNA N⁶-methyladenosine (m⁶A) modification and its methyltransferase in Tetrahymena
