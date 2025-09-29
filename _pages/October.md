@@ -5,7 +5,7 @@ permalink: /speakers/October/
 ---
 
 <span style="font-size: 1.5em;"><strong>Yu Qiao</strong></span><br>
-Visiting PhD student in Carrie Tisné's lab, Institut de biologie physico-chimique (IBPC) Team "Biogenèse, architecture et interactions des ARN" 
+Visiting PhD student in Carrie Tisné's lab, Institut de biologie physico-chimique (IBPC), Laboratory of Microbial Gene Expression, UMR 8261 CNRS/University of Paris Cité
 
 **Title**:  
  Functional and structural study of mRNA N⁶-methyladenosine (m⁶A) modification and its methyltransferase in Tetrahymena
@@ -16,7 +16,7 @@ Visiting PhD student in Carrie Tisné's lab, Institut de biologie physico-chimiq
 <br><br>
 
 <span style="font-size: 1.5em;"><strong>Marta Kwapisz</strong></span><br>
-MCD-CBI- Université de Toulouse, Team: "RNA Biology of Archaea" 
+MCD-CBI-Université de Toulouse, Team: "RNA Biology of Archaea" 
 
 **Title**: <br>
 The RNA Degradation Machineries in Hyperthermophile Archaea
