@@ -13,17 +13,17 @@ Visiting PhD student in Carrie Tisné's lab, Institut de biologie physico-chimiq
 **Abstract**:  
 
 
+<br><br>
 
 <span style="font-size: 1.5em;"><strong>Marta Kwapisz</strong></span><br>
-MCD-CBI- Université de Toulouse, Team: "RNA Biology of Archaea"
+MCD-CBI- Université de Toulouse, Team: "RNA Biology of Archaea" 
 
-**Title**:
+**Title**: <br>
 The RNA Degradation Machineries in Hyperthermophile Archaea
 
 RNArchaea group (M. Ansart, J. Pham, M. Tassoni, M. Batista, R. Capeyrou, B. Clouet d&#39;Orval, M.
 Bouvier) in collaboration with OncoRib team (P. Espirito-Santo, D. Rinaldi, C. Plisson-Chastang),
 CBI (Centre de Biologie Intégrative), Toulouse, France
-
 
 **Abstract**:  
 Our study model are the hyperthermophile archaea Thermococcus barophilus and Pyrococcus
