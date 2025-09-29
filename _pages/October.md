@@ -21,9 +21,9 @@ MCD-CBI-Université de Toulouse, Team: "RNA Biology of Archaea"
 **Title**: <br>
 The RNA Degradation Machineries in Hyperthermophile Archaea
 
-RNArchaea group (M. Ansart, J. Pham, M. Tassoni, M. Batista, R. Capeyrou, B. Clouet d&#39;Orval, M.
+"RNArchaea group (M. Ansart, J. Pham, M. Tassoni, M. Batista, R. Capeyrou, B. Clouet d&#39;Orval, M.
 Bouvier) in collaboration with OncoRib team (P. Espirito-Santo, D. Rinaldi, C. Plisson-Chastang),
-CBI (Centre de Biologie Intégrative), Toulouse, France
+CBI (Centre de Biologie Intégrative), Toulouse, France"
 
 **Abstract**:  
 Our study model are the hyperthermophile archaea Thermococcus barophilus and Pyrococcus
