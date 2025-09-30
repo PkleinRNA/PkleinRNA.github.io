@@ -11,6 +11,13 @@ permalink: /Conference_highlights
 
 <br><br>
 
+<span style="font-size: 1.5em;"><strong>  IBPS seminar given by Laurence Drouard entitled : "Tracing plant evolution through tRNA genes and their expression" </strong> </span><br>  
+This seminar will be held on october 7th on the Pierre et Marie Curie campus (Jussieu), building C, room C707 (7th floor) at noon.
+![Plant_tRNA.pdf](/assets/img/Plant_tRNA.pdf) 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 
 <span style="font-size: 1.5em;"><strong>  Sientific seminar presented by Loïc Broix (New team – NeuroSU), entitled: “Crosstalk between membrane-bound organelles, mRNA and the cytoskeleton in neurons” Friday 26th of September at 11am in room C404.  </strong> </span><br>  
 
