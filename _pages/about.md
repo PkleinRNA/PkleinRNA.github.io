@@ -6,9 +6,9 @@ subtitle: <a href='#'></a>
 
 profile:
   align: right
-  image: Logo_ParisRNAClub_Clément.png
-  image_light: Logo_ParisRNAClub_Clément.png
-  image_dark: Logo_ParisRNAClub_Clément.png
+  image: Logo_ParisRNAClub_Clement.png
+  image_light: Logo_ParisRNAClub_Clement.png
+  image_dark: Logo_ParisRNAClub_Clement.png
   image_circular: false # crops the image to make it circular
   image_style: "width: 600px; height: 300px;"
   more_info: >
