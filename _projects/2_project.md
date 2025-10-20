@@ -10,6 +10,19 @@ permalink: /job_highlights
 ---
 <br><br>
 
+
+
+<span style="font-size: 1.5em;"><strong> Post-doctoral position in RNA biology </strong> </span><br> 
+
+A post-doctoral position is available under the supervision of Drice Challal (Assistant professor, Université Paris Cité) in the Laboratory “Microbial Gene Expression” at the Institut de Biologie Physico-Chimique (IBPC), Paris. This position is funded by the inIdex ICB (Institut de Chimie Biologique) within the team “RNA control of gene expression” led by Maude Guillier.
+
+Please send applications to: Drice Challal (drice.challal@ibpc.fr)
+
+<img src="/assets/img/Postdoctoral-position RNA-biology_IBPC, Paris.pdf" alt="Image 1" width="400">
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong> A postdoctoral position is available in the laboratory of Hervé Le Hir within the Department of Functional Genomics at the IBENS on "mRNP Packaging and Epitranscriptomic Control" </strong> </span><br> 
 
 Please send applications to: Hervé Le Hir (lehir@ens.fr)
