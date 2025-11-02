@@ -32,7 +32,7 @@ Oncologie moléculaire et pathologies ovariennes (Resp. Reiner VEITIA).
 Contact: Valérie Doye (direction@ijm.fr) et les responsables d’équipes que vous souhaiteriez rejoindre (https://www.ijm.fr/nos-equipes/)
 
 
-<img src="/assets/img/Appel-doffre-PU-stabillite-des-genomes-IJM.pdf, Paris.pdf" alt="Image 1" width="400">
+<img src="/assets/img/Appel-doffre-PU-stabillite-des-genomes-IJM.pdf" alt="Image 1" width="400">
 
 <span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
