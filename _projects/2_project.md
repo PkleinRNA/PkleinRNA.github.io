@@ -12,6 +12,30 @@ permalink: /job_highlights
 
 
 
+
+
+<span style="font-size: 1.5em;"><strong> Poste de Professeur en stabilité des génomes au sein de l’Université Paris Cité </strong> </span><br> 
+
+Nous recherchons des candidat.es pour le concours de Professeur (PU) qui aura lieu au printemps 2026 pour une prise de poste en septembre 2026. La fiche de poste n’est pas encore publiée, car elle doit être votée par les instances de l’université en fin d’année.
+
+Attention, nous attirons l’attention des candidat.es sur les procédures de qualifications s’ils/elles ne sont pas encore qualifié.es !! La campagne de qualification commencera début novembre 2025 pour se terminer le 15 décembre 2025. Plus
+
+
+A l’Institut Jacques Monod, six équipes développant des axes de recherche centrés autour de ces thématiques ont clairement exprimé leur souhait de voir un ou une professeur.e rejoindre leur équipe pour y développer un projet de recherche autonome en lien avec leur recherche :
+Pathologies de la réplication de l’ADN (Resp. Jean-Charles CADORET),
+Élimination programmée du génome (Resp. Sandra DUHARCOURT),
+Dynamique de la chromatine dans le développement des mammifères (Resp. Maxime GREENBERG),
+Domaines chromatiniens et réplication (Resp. Marie-Noelle PRIOLEAU), Neurodéveloppement humain et pathologies associées (Resp. Vanessa RIBES et Stéphane NEDELEC) et
+Oncologie moléculaire et pathologies ovariennes (Resp. Reiner VEITIA).
+
+
+Contact: Valérie Doye (direction@ijm.fr) et les responsables d’équipes que vous souhaiteriez rejoindre (https://www.ijm.fr/nos-equipes/)
+
+
+<img src="/assets/img/Appel-doffre-PU-stabillite-des-genomes-IJM.pdf, Paris.pdf" alt="Image 1" width="400">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong> Post-doctoral position in RNA biology </strong> </span><br> 
 
 A post-doctoral position is available under the supervision of Drice Challal (Assistant professor, Université Paris Cité) in the Laboratory “Microbial Gene Expression” at the Institut de Biologie Physico-Chimique (IBPC), Paris. This position is funded by the inIdex ICB (Institut de Chimie Biologique) within the team “RNA control of gene expression” led by Maude Guillier.
