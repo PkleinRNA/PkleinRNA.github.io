@@ -13,6 +13,18 @@ permalink: /Conference_highlights
 
 <br><br>
 
+
+
+
+<span style="font-size: 1.5em;"><strong> Symposia Molecular mechanisms in disease  26–29 January 2026, Switzerland </strong> </span><br>  
+
+
+![FinalSymposiumPoster_small.pdf](/assets/img/FinalSymposiumPoster_small.pdf) 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 <span style="font-size: 1.5em;"><strong> Mini symposium on RNAs in Paris at Sorbonne University - RNA piecing the futuRe: oNe strAnd at a time  </strong> </span><br>  
 
 Quand / When :
