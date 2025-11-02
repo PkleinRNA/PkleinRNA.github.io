@@ -9,6 +9,33 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+
+
+<br><br>
+
+<span style="font-size: 1.5em;"><strong> Mini symposium on RNAs in Paris at Sorbonne University - RNA piecing the futuRe: oNe strAnd at a time  </strong> </span><br>  
+
+Quand / When :
+Vendredi 5 décembre 2025 / Friday 5th of December 2025
+
+Programme de la journée / Flyer: 
+RNA piecing the futuRe: oNe strAnd at a time !!!
+
+Inscription gratuite :) mais obligatoire ;( via le lien / Registration free but mandatory here --> 
+https://forms.gle/fT5dyjgcEDF1QZp57
+
+Où / Where : 
+Amphithéâtre Bilsky-Pasquier 
+Centre de Recherche des Cordeliers
+15 rue de l’École de Médecine
+Paris
+
+
+
+![RNA_sympo_SU_2025_1.pdf](/assets/img/RNA_sympo_SU_2025_1.pdf) 
+
+
+
 <br><br>
 
 <span style="font-size: 1.5em;"><strong>  IBPS seminar given by Laurence Drouard entitled : "Tracing plant evolution through tRNA genes and their expression" </strong> </span><br>  
