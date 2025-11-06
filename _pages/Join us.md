@@ -46,7 +46,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 15th of April 2026</span>: 
- <a href="/speakers/mai/" class="event-speakers">Partho Sarothi RAY and FREE SLOT</a>
+ <a href="/speakers/mai/" class="event-speakers">Partho Sarothi Ray and Milo Migeon (Eric Allemand's lab)</a>
 </div>
 <br>
 <div class="event">
