@@ -13,8 +13,9 @@ permalink: /Conference_highlights
 
 <br><br>
 
+<span style="font-size: 1.5em;"><strong> 14th SifrARN, Rennes, from JUNE 30 to JULY 2 2026 </strong> </span><br>  
 
-
+![sifrARN14.png](/assets/img/sifrARN14.png) 
 
 <span style="font-size: 1.5em;"><strong> Symposia Molecular mechanisms in disease  26–29 January 2026, Switzerland </strong> </span><br>  
 
