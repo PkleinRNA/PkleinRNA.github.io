@@ -21,7 +21,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 26th of November 2025</span>: 
-  <a href="/speakers/November/" class="event-speakers">A51 startup and Rantxa Rojas (Germano Cecere's lab)</a>
+  <a href="/speakers/November/" class="event-speakers">A51 startup and Arantxa Rojas (Germano Cecere's lab)</a>
 </div>
 <br>
 <div class="event">
