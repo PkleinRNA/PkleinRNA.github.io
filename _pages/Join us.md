@@ -36,7 +36,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 18th of February 2026</span>: 
-  <a href="/speakers/fevrier/" class="event-speakers">Lionel Benard's Lab and Sabrina Mazzucchi</a>
+  <a href="/speakers/fevrier/" class="event-speakers">Lionel Benard's Lab and FREE SLOT</a>
 </div>
 <br>
 <div class="event">
