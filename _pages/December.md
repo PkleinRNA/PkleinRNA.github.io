@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talks by Florent HubÉ"
+title: "Talk by Florent Hubé"
 permalink: /speakers/December/
 ---
 
