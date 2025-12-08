@@ -10,8 +10,50 @@ permalink: /job_highlights
 ---
 <br><br>
 
+<span style="font-size: 1.5em;"><strong> Biocomputation & Experimental Biology Intern - A51 startup </strong> </span><br> 
+
+Meet A51 and the team shaping programmable biology
+A51 is a biotech company engineering RNA to reprogram cellular states. We use RNA as the programmable layer of biology. Backed by a top-tier Silicon Valley VC and based at the iconic Agoranov incubator in the heart of Paris, A51 is a winner of the national i-Lab innovation competition and part of the 2025 Future 40 cohort, a recognition that places us among the top 4 percent of startups.
+Our mission is to make biology engineerable by rapidly designing functional RNAs that modulate cell behavior. Beyond treating disease, this opens the door to regenerative medicine and real-time cellular reprogramming. We’re a global, interdisciplinary team spanning wet lab, computation, and engineering, working on some of the hardest problems in biotech.
+What you will do
+As a Biocomputation & Experimental Biology Intern, you will work on building the foundational pieces of our cellular biocomputing system. You will design, run, and analyze experiments in bacteria using high-throughput fl uorescence imaging, fl ow cytometry, and molecular readouts.
+Your responsibilities will include:
+● Running molecular biology workfl ows (PCR, cloning, gel electrophoresis, sample prep)
+● Working with bacterial strains containing computational RNA circuits
+● Operating and analyzing experiments using FACS, fluorescence microscopy, and other imaging-based screens
+● Running Oxford Nanopore sequencing workflows from end-to-end including library prep and barcoding strategies
+Contributing to experimental design with computational and microfl uidic scientists
+● Maintaining clean lab notebooks and participating in team discussions around data and strategy
+
+What you bring
+● Currently enrolled in a Bachelor’s (Licence), Master’s, engineering school, or equivalent program in Biology, Biotechnology, Bioengineering, or a related fi eld
+● Hands-on experience with basic molecular biology (PCR, gels, cloning) and bacterial culture
+● Interest in fluorescence imaging, cytometry, or sequencing
+● Curiosity, rigor, willingness to learn, and comfort working in a fast-moving environment
+● Communicating in English (French is a plus)
+
+Nice to have:
+● Experience with primary data analysis (Python, Fiji, FlowJo)
+● Exposure to cellular biology, synthetic biology, gene circuits, or phenotypic screening
+● Prior internship in an experimental lab or biotech startup
+What you will learn
+● How to run end-to-end experimental workfl ows bridging computation and wet lab
+● How biological circuits can be engineered, screened, and optimized
+How to design and execute high-throughput experiments and analyze sequencing-based readouts
+● How early-stage biotechs build technology, test hypotheses, and move fast without sacrifi cing rigor
+
+Compensation and practicals
+● Paid internship per French standards
+● Start date on January 1, 2026 for up to a 6 month period
+
+How to apply
+Email your CV and a short note on why you want to work on programmable biology to contact@a51tx.com
 
 
+<img src="/assets/img/A51_Biocomputation_intern.pdf" alt="Image 1" width="400"> 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> Poste de Professeur en stabilité des génomes au sein de l’Université Paris Cité </strong> </span><br> 
