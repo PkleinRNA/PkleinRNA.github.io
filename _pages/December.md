@@ -4,8 +4,6 @@ title: "Talks by Florent HUBÉ"
 permalink: /speakers/December/
 ---
 
-
-<span style="font-size: 1.5em;"><strong>Florent Hubé</strong></span><br>
 Team "Transgenerational Epigenetics & small RNA Biology"
 UMR7622 Laboratoire de Biologie du Développement - Institut de Biologie Paris Seine
 
