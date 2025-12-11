@@ -56,6 +56,6 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 24th of June 2026</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and FREE SLOT</a>
+  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and Reini Luco</a>
 </div>
 <br><br><br>
