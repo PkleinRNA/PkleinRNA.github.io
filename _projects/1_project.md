@@ -9,6 +9,12 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+<br><br> 
+<span style="font-size: 1.5em;"><strong> The 3rd Codon Usage Conference: Function, Mechanism and Evolution Montreal, Canada (May 31-June 3, 2026) </strong> </span><br> 
+https://sites.google.com/view/codonusage/home
+
+About the Conference
+Codon usage bias—the preference for certain synonymous codons—is a key factor in genome regulation. Codon usage and synonymous codon mutations have been shown to influence gene expression, protein conformation, RNA stability, organismal fitness, and human disease. Together, these findings reveal codon usage as an additional layer of genetic information that shapes diverse biological processes.  Following the success of the first two International Conferences on Codon Usage held in Edinburgh in 2022 and 2024, we are establishing this meeting as a biennial series. This will be the only international conference dedicated to understanding the functions of codon usage, the mechanisms underlying codon usage–mediated regulation, and the evolution of codon usage bias and genomes. The conference will focus on (1) translational regulation, (2) mRNA metabolism, (3) protein folding, (4) fitness and genome evolution, (5) new computational and experimental methods. Our goal is to bring together leading researchers, students, and postdoctoral scholars from academia and industry worldwide to advance the study of codon usage and its far-reaching biological impacts. 
 
 
 <br><br>
