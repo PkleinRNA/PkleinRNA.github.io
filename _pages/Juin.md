@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Talks by Loic BROIX and Patricia UGUEN"
+title: "Talks by Clément Carré/Laure Teysset's Lab and Reini Luco "
 permalink: /speakers/Juin/
 ---
 
