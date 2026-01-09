@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Léo Hardy and Olga Soutourina"
+title: "Léo Hardy and Polina Pavlinova"
 permalink: /speakers/January/
 ---
 
@@ -9,7 +9,24 @@ Zeynep Baharoglu's lab, Epitranscriptomic and translational responses to antibac
 
 **Title**:  
 Investigating the role of the ribosomal large subunit pseudouridine synthase B (RluB) in tobramycin tolerance in Vibrio cholerae.
+Philippe Nghe's lab, Laboratory of Biophysics and Evolution, ESPCI
+
 
 **Abstract**:  
 The massive and inappropriate use of antibiotics has led to their widespread dissemination in the environment, where they are encountered as concentration gradients. While many studies have addressed the effects of lethal antibiotic doses on bacterial physiology, far less is known about how bacteria respond to so-called subinhibitory concentrations (i.e., levels below the minimal inhibitory concentration), even though these are likely the levels most frequently experienced in natural settings. Using Vibrio cholerae, a bacterium that alternates between aquatic reservoirs and the human host and therefore faces strong environmental and antibiotic pressures, we found that rRNA modification enzymes play a major role in adaptation to subinhibitory antibiotic exposure.
 In this study, we focused on one enzyme in particular, RluB, a pseudouridine synthase catalysing the formation of pseudouridine at position 2588 of the 23S rRNA in V. cholerae. We showed that deletion of rluB leads to increased tolerance to tobramycin, an antibiotic targeting the 30S ribosomal subunit. Analysis of catalytic mutants of RluB further indicated that this phenotype is not driven by the absence of the rRNA modification itself, but rather by the presence of RluB as a protein. Preliminary experiments suggest that ribosomes from the ΔrluB mutant may display increased translational fidelity but reduced stability. Ongoing work combines epistasis analyses with other ribosomal components, reporter fusions to quantify translation efficiency, sucrose gradient analyses of ribosome integrity, and omics approaches to define the molecular basis of this phenotype and to clarify how RluB contributes to bacterial adaptation to subinhibitory aminoglycoside exposure.
+
+
+
+<span style="font-size: 1.5em;"><strong>Polina Pavlinova</strong></span><br>
+
+**Title**:  
+Effect of the environment on the selection of RNA folds formed from a random RNA mixture.
+
+**Abstract**: 
+One of the most interesting questions of modern biology is the question of the origin of life. The theory of abiogenesis (the transition from non-living to living matter) assumes that the emergence of life was multistage: first, building blocks (nucleotides, amino acids) were formed, which could combine into oligomers. At the next stage, collective autocatalytic networks capable of self-reproduction appeared, followed by the evolution of these networks and the formation of protocells. Nevertheless, there is still no consensus on any of these stages.
+This work focuses on the exploration of chemical reaction networks involving random RNA polymers in the presence of catalytic RNAs. We selected a re-engineered group I intron from the bacterium Azoarcus sp. as a model system, which has been shown to self-assemble from fragments and form a collective autocatalytic set. First, we examine the potential for self-reproducing ribozymes to function within random pools of RNA. Then, we characterise the reactions that are favourable in these randomised RNA mixtures and explore the diversity of
+sequences and structures that emerge during these reactions. Furthermore, we demonstrate that environments, such as molecular crowding and coacervation, can significantly change RNA folding and, consequently, the reaction profiles within random RNA mixtures.
+Overall, the obtained results demonstrate that RNA-based systems have significant evolutionary potential. Furthermore, they are not limited to ideal conditions and can coexist with side molecules, leading to the formation of more complex networks.
+
+ 
