@@ -31,7 +31,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 14th of January 2026</span>: 
-  <a href="/speakers/January/" class="event-speakers" > Léo Hardy (Zeynep Baharoglu's lab) and open slot</a>
+  <a href="/speakers/January/" class="event-speakers" > Léo Hardy (Zeynep Baharoglu's lab) and Polina Pavlinova</a>
 </div>
 <br>
 <div class="event">
