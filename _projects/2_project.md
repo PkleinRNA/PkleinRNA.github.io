@@ -10,6 +10,26 @@ permalink: /job_highlights
 ---
 <br><br>
 
+<span style="font-size: 1.5em;"><strong> PhD and Postdoctoral researcher positions in the RNA Structural Biology & Biophysics laboratory at Uppsala University, Sweden. </strong> </span><br> 
+ 
+The research projects focus on RNA structure, dynamics, and regulation under biologically relevant conditions, including microRNAs, ribosomal RNA, and viral RNAs. The successful candidates will use and further develop state-of-the-art biophysical and structural biology methods such as solution- and solid-state NMR, in-cell NMR, RNA chemical probing (e.g., SHAPE-based methods), and integrative data analysis to answer biological complex questions. Computational or advanced data analysis skills are of advantage.
+ 
+The positions offer access to a strong local infrastructure, including high-field NMR spectrometers with cryogenic probes, Cryo-EM facility, own sequencer and complementary biochemical, molecular biology, and cell-based facilities. The lab is embedded in an interdisciplinary and international research environment within the Center of Excellence for Chemical Mechanisms of Life.
+ 
+Postdoctoral positions are full-time, time-limited appointments according to Swedish regulations. PhD positions are fully funded doctoral training positions (4 years).
+ 
+More information and application instructions can be found here:
+
+Postdoctoral position:
+<a href="[https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898641)" > https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=898641 </a> <br> 
+ 
+PhD position:
+<a href="[https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=899123)" > https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=899123 </a> <br> 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 <span style="font-size: 1.5em;"><strong> Biocomputation & Experimental Biology Intern - A51 startup </strong> </span><br> 
 
 Meet A51 and the team shaping programmable biology
