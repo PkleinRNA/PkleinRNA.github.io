@@ -14,7 +14,7 @@ permalink: /Conference_highlights
 [https://sites.google.com/view/codonusage/home](https://sciforum.net/event/ncRNA2026)
 
 
-![26CONF-ncRNA_2026-Poster-Print-Chairs.pdf](/assets/img/26CONF-ncRNA_2026-Poster-Print-Chairs.pdf) 
+![26CONF-ncRNA-2026-Poster-Print-Chairs.pdf](/assets/img/26CONF-ncRNA-2026-Poster-Print-Chairs.pdf) 
 
 
 
