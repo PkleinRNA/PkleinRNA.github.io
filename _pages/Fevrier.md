@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "talks by Tristan Cazenave and Lionel Bernard's lab "
+title: "talks by Tristan Cazenave and Lionel Bernard"
 permalink: /speakers/fevrier/
 ---
 
@@ -15,9 +15,17 @@ RNA design with AI
 RNA design consists of discovering a nucleotide sequence that optimizes predefined criteria. A criterion can be that the generated RNA folds into a target secondary structure or tertiary structure. Another criterion can be to maximize the structure of the mRNA for example. We propose to use Monte Carlo Tree Search for RNA design. The algorithm and its applications to RNA design will be presented.
 
 
-<span style="font-size: 1.5em;"><strong>Lionel Bernard's lab</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Lionel Bernard</strong></span><br>
+Régulation Fonctionnelle et Surveillance de l'ARN - UMR8226 CNRS - SORBONNE Université
 
-tbc
+**Title**:  
+Pat1 at the Crossroads of mRNA and Peptide Surveillance
+
+**Abstract**:  
+The accumulation of aberrant proteins poses a significant threat to cellular integrity, and cells have evolved sophisticated control systems to minimize their harmful effects. One such challenge arises from ribosomal stalling during problematic translation events. When ribosomes stall within the coding sequence of an mRNA, the transcript is primarily targeted for degradation through 5’ decapping followed by 5’-to-3’ exonucleolytic processing by the exoribonuclease Xrn1. These stalled ribosomes are resolved by the Ribosome Quality Trigger (RQT) complex, which facilitates the dissociation of ribosomal subunits. This process releases a 60S subunit that remains associated with the nascent peptide, referred to as the arrest product (AP), which is subsequently recognized by the Ribosome Quality Control (RQC) complex. The AP is ubiquitinated and directed to the proteasome for degradation.
+Despite this understanding, how the processes of peptide and mRNA degradation are coordinated remains unclear. Although the endonuclease Cue2 can cleave mRNAs at sites of ribosomal stalling prior to ribosome dissociation, this is considered a secondary, fail-safe mechanism. Therefore, the interplay between peptide degradation and mRNA decay is still not fully elucidated.
+Our findings demonstrate that the evolutionarily conserved decapping activator Pat1 plays a pivotal role in coordinating ribosome-associated quality control. We show that Pat1 remains bound to aberrant mRNAs already marked for decay and facilitates efficient degradation of the associated AP. Notably, we found that a specific PAT1 mutant, despite exhibiting impaired mRNA decay similar to other mutants, retains its capacity to promote AP degradation. We thus propose that Pat1 promotes the degradation of faulty mRNAs before ribosome dissociation occurs, thereby preventing additional rounds of translation and that Pat1 interacts closely with stalled ribosomes to support the degradation of APs. We conclude that Pat1 serves as a functional interface linking the early detection of stalled ribosomes with downstream mRNA and protein decay pathways, thereby preserving cellular homeostasis.
+
 
 
 
