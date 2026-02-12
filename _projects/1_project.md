@@ -10,6 +10,18 @@ permalink: /Conference_highlights
 ---
 
 <br><br> 
+
+<span style="font-size: 1.5em;"><strong> RNA localization and local translation </strong> </span><br> 
+[https://meetings.embo.org/event/26-rna-localization](https://meetings.embo.org/event/26-rna-localization)
+
+
+![w26-33-poster.pdf](/assets/img/w26-33-poster.pdf) 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
 <span style="font-size: 1.5em;"><strong> ncRNA2026:From Molecular Mechanisms to Clinical, Impact 24–26 June 2026 Leuven, Belgium </strong> </span><br> 
 [https://sites.google.com/view/codonusage/home](https://sciforum.net/event/ncRNA2026)
 
