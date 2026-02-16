@@ -9,6 +9,22 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+
+
+<br><br> 
+
+<span style="font-size: 1.5em;"><strong> Post-Transcriptional Gene Regulation, 8th Course, May 18th-22nd, 2026 </strong> </span><br> 
+[https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2026](https://training.institut-curie.org/courses/post-transcriptional-gene-regulation-2026)
+
+
+![Poster_PTGR 2026_A3.pdf](/assets/img/Poster_PTGR 2026_A3.pdf) 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
+
 <br><br> 
 
 <span style="font-size: 1.5em;"><strong> RNA localization and local translation </strong> </span><br> 
