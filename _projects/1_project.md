@@ -10,6 +10,34 @@ permalink: /Conference_highlights
 ---
 
 
+<br><br> 
+
+<span style="font-size: 1.5em;"><strong> The Epitranscriptome in Cancer and Autoimmunity,  </strong> </span><br> 
+
+The epitranscriptome, encompassing the full range of chemical RNA modifications, is emerging as a major layer of gene expression regulation. By modulating RNA stability, translation, and localization, these dynamic marks play key roles in immune responses, inflammation, and cellular homeostasis. Their dysregulation is increasingly linked to cancer and autoimmune diseases, opening new diagnostic and therapeutic opportunities.
+
+In this context, the Graduate School Health & Drug Sciences of Université Paris-Saclay, in partnership with FHU CARE², is pleased to invite you to the symposium:
+
+Date: March 19, 2026
+Time: 3:00 – 5:30 PM
+Location: Research Building, Room 1 (Ground Floor)
+63 rue Gabriel Péri, 94270 Le Kremlin-Bicêtre
+
+Program highlights
+• Targeting RNA modifications in cancer
+• tRNA-regulated transcription factors and metastasis
+• Epitranscriptomics in autoimmunity
+
+Free registration:
+https://forms.gle/rDnymt6bNJ7sR1X27
+
+
+![ColloqueEpitranscriptomeAutoimmunity.pdf](/assets/img/ColloqueEpitranscriptomeAutoimmunity.pdf) 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 
 <br><br> 
 
