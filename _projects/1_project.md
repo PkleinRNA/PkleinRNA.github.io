@@ -12,7 +12,7 @@ permalink: /Conference_highlights
 
 <br><br> 
 
-<span style="font-size: 1.5em;"><strong> The Epitranscriptome in Cancer and Autoimmunity,  </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> Colloeque: The Epitranscriptome in Cancer and Autoimmunity </strong> </span><br> 
 
 The epitranscriptome, encompassing the full range of chemical RNA modifications, is emerging as a major layer of gene expression regulation. By modulating RNA stability, translation, and localization, these dynamic marks play key roles in immune responses, inflammation, and cellular homeostasis. Their dysregulation is increasingly linked to cancer and autoimmune diseases, opening new diagnostic and therapeutic opportunities.
 
