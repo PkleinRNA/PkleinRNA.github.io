@@ -29,8 +29,7 @@ Program highlights
 • Epitranscriptomics in autoimmunity
 
 Free registration:
-https://forms.gle/rDnymt6bNJ7sR1X27
-
+[https://forms.gle/rDnymt6bNJ7sR1X27](https://forms.gle/rDnymt6bNJ7sR1X27)
 
 ![ColloqueEpitranscriptomeAutoimmunity.pdf](/assets/img/ColloqueEpitranscriptomeAutoimmunity.pdf) 
 
