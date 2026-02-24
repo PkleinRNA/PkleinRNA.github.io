@@ -9,10 +9,23 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+<br><br> 
+
+<span style="font-size: 1.5em;"><strong> 7th Scientific Meeting of GDR RNA, Bordeaux on May 19th and 20th 2026.</strong> </span><br> 
+
+Registration are now open! Do not hesitate to join us, there are several slots available for oral communications and for poster presentations. All members, including students and postdocs are welcome!
+ 
+Deadline for abstract submission is April 27th, deadline for registration is May 4th. Registration is free but mandatory.
+
+[https://gdr-rna.cnrs.fr/scientific-meetings/7th-scientific-meeting/](https://gdr-rna.cnrs.fr/scientific-meetings/7th-scientific-meeting/)
+
+
+![7th_Scientific_Meeting_of_GDR_RNA.pdf](/assets/img/7th_Scientific_Meeting_of_GDR_RNA.pdf) 
+
 
 <br><br> 
 
-<span style="font-size: 1.5em;"><strong> Colloeque: The Epitranscriptome in Cancer and Autoimmunity </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> Colloque: The Epitranscriptome in Cancer and Autoimmunity </strong> </span><br> 
 
 The epitranscriptome, encompassing the full range of chemical RNA modifications, is emerging as a major layer of gene expression regulation. By modulating RNA stability, translation, and localization, these dynamic marks play key roles in immune responses, inflammation, and cellular homeostasis. Their dysregulation is increasingly linked to cancer and autoimmune diseases, opening new diagnostic and therapeutic opportunities.
 
