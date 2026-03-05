@@ -10,6 +10,14 @@ permalink: /job_highlights
 ---
 <br><br>
 
+
+<span style="font-size: 1.5em;"><strong>  MSCA Postdoctoral Fellowships at Sorbonne University - 2026 which include RNA related topics </strong> </span><br>
+
+<a href="[https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-university-2026" > https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-university-2026 </a> <br> 
+
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
 <span style="font-size: 1.5em;"><strong> PhD and Postdoctoral researcher positions in the RNA Structural Biology & Biophysics laboratory at Uppsala University, Sweden. </strong> </span><br> 
  
 The research projects focus on RNA structure, dynamics, and regulation under biologically relevant conditions, including microRNAs, ribosomal RNA, and viral RNAs. The successful candidates will use and further develop state-of-the-art biophysical and structural biology methods such as solution- and solid-state NMR, in-cell NMR, RNA chemical probing (e.g., SHAPE-based methods), and integrative data analysis to answer biological complex questions. Computational or advanced data analysis skills are of advantage.
