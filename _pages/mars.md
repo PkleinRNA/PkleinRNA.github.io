@@ -1,7 +1,31 @@
 ---
 layout: page
-title: ""
+title: "Milo Migeon and Laure Weill"
 permalink: /speakers/mars/
 ---
+
+<span style="font-size: 1.5em;"><strong>Milo MIGEON</strong></span><br>
+PhD Student, Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications - U1163 Institut Imagine
+
+**Title**:  
+Finally Resolving Gene Transcriptome Complexity with Targeted Long-Read Sequencing
+
+**Abstract**:  
+β-hemoglobinopathies are the most common monogenic genetic disorders worldwide and result from genetic alterations affecting the β-chain of adult hemoglobin. In these diseases, reactivation of fetal hemoglobin represents an effective therapeutic strategy to restore functional hemoglobin in adults. This regulation largely relies on a key factor: the transcription factor BCL11A, a major repressor of HBG1/2 gene expression after birth. HBG1/2 encode the γ-globin chains of fetal hemoglobin (HbF). Current therapeutic approaches therefore rely on complete inactivation of BCL11A. However, this strategy may lead to undesirable effects in other hematopoietic lineages, particularly lymphocytes. Importantly, BCL11A does not exist as a single entity but is expressed as multiple isoforms, of which only the longest one, termed BCL11A-XL, is responsible for repression of HBG1/2 genes.
+
+We therefore formulated the following hypothesis: modulating BCL11A alternative splicing, rather than completely suppressing the gene, could enable more specific HbF reactivation by selectively targeting the long isoform responsible for the repressive activity. To investigate this hypothesis, we characterized the BCL11A transcriptome during human erythropoiesis by comparing fetal liver CD34⁺ cells, which express HbF, with adult bone marrow CD34⁺ cells expressing adult hemoglobin (HbA). To accurately capture BCL11A isoform diversity, we developed a targeted long-read sequencing protocol. Combined with a dedicated bioinformatics pipeline, this approach enabled us to obtain nearly one million BCL11A reads per sample. This strategy revealed an unexpected transcriptional diversity: 142 distinct transcripts were identified in our samples, compared with only about ten annotated in reference databases. Consistent with short-read sequencing data, the overall inclusion level of the exon associated with HBG1/2 repression did not significantly differ between fetal and adult samples. However, full-length transcript analysis uncovered a major isoform-specific regulatory mechanism. Fetal CD34⁺ cells preferentially express so-called “competitive” isoforms, capable of recognizing the HBG1/2 locus but lacking the ability to efficiently recruit the NuRD complex, which is essential for transcriptional repression. Conversely, adult CD34⁺ cells predominantly express long, functionally competent isoforms capable of orchestrating NuRD recruitment and mediating effective repression of HBG1/2 genes. Taken together, these findings highlight a post-transcriptional regulatory mechanism that depends not on the total abundance of BCL11A, but rather on the balance between functionally distinct isoforms.
+
+
+<span style="font-size: 1.5em;"><strong>Laure Weill</strong></span><br>
+UFR des sciences fondamentales et biomédicales Université Paris Cité, INSERM, Health & Functional Exposomics - HealthFex, U1124
+Équipe "Dégénérescence et plasticité du système locomoteur"
+
+
+**Title**:  
+
+
+**Abstract**:  
+
+
 
 TBC soon - stay tuned! 
