@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Milo Migeon and Laure Weill"
+title: "Milo Migeon and Else Piller"
 permalink: /speakers/mars/
 ---
 
@@ -17,7 +17,7 @@ We therefore formulated the following hypothesis: modulating BCL11A alternative 
 
 
 <span style="font-size: 1.5em;"><strong>Else Piller</strong></span><br>
-PhD Student, Laure Weill's teamn,INSERM, Health & Functional Exposomics - HealthFex, U1124
+PhD Student, Laure Weill's team - INSERM, Health & Functional Exposomics - HealthFex, U1124
 Équipe "Dégénérescence et plasticité du système locomoteur"
 
 **Title**:  
