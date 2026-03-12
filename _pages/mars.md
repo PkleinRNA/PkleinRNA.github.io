@@ -5,7 +5,7 @@ permalink: /speakers/mars/
 ---
 
 <span style="font-size: 1.5em;"><strong>Milo MIGEON</strong></span><br>
-PhD Student, Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications - U1163 Institut Imagine
+PhD Student, Eric Allemand's team - Laboratory of cellular and molecular mechanisms of hematological disorders and therapeutic implications - U1163 Institut Imagine
 
 **Title**:  
 Finally Resolving Gene Transcriptome Complexity with Targeted Long-Read Sequencing
@@ -21,11 +21,17 @@ UFR des sciences fondamentales et biomédicales Université Paris Cité, INSERM,
 Équipe "Dégénérescence et plasticité du système locomoteur"
 
 
-**Title**:  
+<span style="font-size: 1.5em;"><strong>Else Piller</strong></span><br>
+PhD Student, Laure Weill's teamn,INSERM, Health & Functional Exposomics - HealthFex, U1124
+Équipe "Dégénérescence et plasticité du système locomoteur"
 
+**Title**:  
+Implication of Paraspeckles in the ALS muscle
 
 **Abstract**:  
 
-
-
-TBC soon - stay tuned! 
+Amyotrophic Lateral Sclerosis (ALS) is a fatal neurodegenerative disease characterized by degeneration of motor neurons and progressive paralysis. Muscles also undergo cellular alterations, such as imbalances in RNA and protein metabolism and mitochondrial homeostasis.
+A nuclear membraneless organelle called the paraspeckle regulates these processes through nuclear sequestration of RNA and protein targets. NEAT1_2, a long non-coding RNA acts as a scaffold to form paraspeckles by interacting with essential RNA binding proteins such as FUS and SFPQ that can be mutated in ALS.
+Paraspeckles accumulate in the motor neurons of ALS patients but their status in ALS muscle is not known. Therefore we aim to explore their status and their role in the ALS muscle as they might be involved in physiopathology.
+In primary myotube cultures from sporadic ALS patients, we have indeed observed alterations of paraspeckle number and size independently from NEAT1_2 expression, suggesting paraspeckle malformation or instability. We also observed that paraspeckles lost their stress sensing function in ALS myotubes. Moreover, by depleting paraspeckles we uncovered that paraspeckles are involved in the regulation of major muscular pathways such as neuromuscular junction formation and muscular contraction. In addition, we show that they sequester those targets differentially in ALS myotubes compared to controls. Therefore, these alterations could be key to understanding their involvement in ALS development.
+We are currently analyzing the RNA composition of paraspeckles in muscle cells, which could shed light on relevant pathways to investigate in regards to paraspeckles and ALS pathology. Altogether our results reveal a new player in ALS physiopathology.
