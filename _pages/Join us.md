@@ -41,7 +41,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 18th of March 2026</span>: 
-  <a href="/speakers/mars/" class="event-speakers">Laure Weill's lab and Milo Migeon (Eric Allemand's lab) </a>
+  <a href="/speakers/mars/" class="event-speakers"> Else Piller (Laure Weill's lab) lab and Milo Migeon (Eric Allemand's lab) </a>
 </div>
 <br>
 <div class="event">
