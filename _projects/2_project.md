@@ -11,6 +11,30 @@ permalink: /job_highlights
 <br><br>
 
 
+<span style="font-size: 1.5em;"><strong> PhD research Project - Understanding the Role of a Human tRNA-Modifying Enzyme in the Cellular Response to Stress </strong> </span><br> 
+
+Keywords : Epitranscriptomics, cell biology, RNA modification enzymes, cellular stress response
+
+Host laboratory:
+Laboratoire de Biologie Structurale de la Cellule (BIOC); UMR7654; CNRS
+Ecole polytechnique, Institut Polytechnique de Paris
+91128 Palaiseau CEDEX
+FRANCE
+Host team: “RNA & Protein modifications” (https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications)
+a href="[https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications)" > https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications</a> <br> 
+
+Team leader / PhD supervisor: Dr. Marc GRAILLE (DR1 CNRS)
+Application Deadline: 04/04/2026
+Thesis Start Date: 01/10/2026
+
+To apply:
+<a href="[https://adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=70661)" > https://adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=70661 </a> <br> 
+ 
+<img src="/assets/img/PhD-subject-2026-Graille-Polytechnique.pdf" alt="Image 1" width="400">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 <span style="font-size: 1.5em;"><strong>  MSCA Postdoctoral Fellowships at Sorbonne University - 2026 which include RNA related topics </strong> </span><br>
 
 <a href="[https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-university-2026" > https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-sorbonne-university-2026 </a> <br> 
