@@ -21,7 +21,7 @@ Ecole polytechnique, Institut Polytechnique de Paris
 91128 Palaiseau CEDEX
 FRANCE
 Host team: “RNA & Protein modifications” (https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications)
-a href="[https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications)" > https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications</a> <br> 
+<a href="[https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications)" > https://bioc.ip-paris.fr/en/research/rna-and-proteinmodifications</a> <br> 
 
 Team leader / PhD supervisor: Dr. Marc GRAILLE (DR1 CNRS)
 Application Deadline: 04/04/2026
