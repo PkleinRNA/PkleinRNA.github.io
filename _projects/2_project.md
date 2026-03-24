@@ -11,6 +11,18 @@ permalink: /job_highlights
 <br><br>
 
 
+<span style="font-size: 1.5em;"><strong> The Institute for Integrative Biology of the Cell is recriting new team leader </strong> </span><br> 
+
+The I2BC is recruiting new team leaders.
+
+Special consideration will be given to multidisciplinary research programs integrating into one or more I2BC research axes, as well as research programs in computational biology, addressing the challenges of biological process modeling and multi-scale data integration.
+
+
+<img src="/assets/img/2026-I2BCCallforteamleaders.pdf" alt="2026-I2BCCallforteamleaders.pdf" width="400">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
 <span style="font-size: 1.5em;"><strong> PhD research Project - Understanding the Role of a Human tRNA-Modifying Enzyme in the Cellular Response to Stress </strong> </span><br> 
 
 Keywords : Epitranscriptomics, cell biology, RNA modification enzymes, cellular stress response
