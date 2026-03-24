@@ -11,7 +11,7 @@ permalink: /job_highlights
 <br><br>
 
 
-<span style="font-size: 1.5em;"><strong> The Institute for Integrative Biology of the Cell is recriting new team leader </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> The Institute for Integrative Biology of the Cell is recruting new teams leaders </strong> </span><br> 
 
 The I2BC is recruiting new team leaders.
 
