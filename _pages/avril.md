@@ -4,11 +4,10 @@ title: ""
 permalink: /speakers/avril/
 ---
 
-<span style="font-size: 1.5em;"><strong> Partho Sarothi RAY  </strong></span><br>
+<span style="font-size: 1.5em;"><strong> Partho Sarothi RAY </strong></span><br>
 SABNP Laboratory | Inserm U1204 | Université d'Evry-Paris-Saclay
 
-**Title**: <br>
-m6A, microRNA and RBP: The "Three Musketeers" of mRNA Regulation
+**Title**: m6A, microRNA and RBP: The "Three Musketeers" of mRNA Regulation
 
 **Abstract**: 
 N6-methyladenosine (m6A), the most prevalent epitranscriptomic modification in eukaryotes, is enriched in 3′- untranslated regions (3′ UTRs) of mRNAs. m6A modifications directly determine the binding of a class of RNA-binding proteins (RBPs) called as m6A “readers” to RNA. However, as 3′ UTRs are major binding sites of RNA-binding protein (RBPs) and microRNAs (miRNAs), we hypothesized that m6A-dependent local RNA structure changes may further influence the proximal binding of RBPs and miRNAs and thereby regulate mRNA function. Using a human transcriptome-wide bioinformatic analysis, we found a strong positive correlation between number of m6A sites, miRNAs and RBPs binding to mRNAs, suggesting m6A-modified mRNAs are more targeted by miRNAs and RBPs. Moreover, m6A sites were also found to be located proximally to miRNA target sites and binding sites of multiple RBPs. This indicated three-way crosstalk between m6A, microRNA and RBP binding, suggesting the influence of mRNA modifications on the miRNA and RBP interactomes. From the subset of mRNAs which show proximity between m6A sites, target sites of the miRNA miR-125b and binding sites of the RBP HuR, we investigated COX7A2L, which encodes a crucial regulatory component of the mitochondrial respiratory chain and is upregulated in estrogen-treated breast cancer cells. We found that expression of COX7A2L is regulated by both miR-125b and HuR, and m6A modification facilitates the binding of miR-125b to the COX7A2L mRNA 3’UTR. However, HuR binds to the COX7A2L mRNA 3’UTR in absence of m6A modification and antagonizes the miR-125b mediated repression of COX7A2L expression. Hence, our observations have established that m6A modifications influence the interplay  between miRNAs and RBPs in binding with mRNAs, with important consequences for the integrated post-transcriptional regulation of gene expression.
@@ -18,8 +17,7 @@ N6-methyladenosine (m6A), the most prevalent epitranscriptomic modification in e
 
 <span style="font-size: 1.5em;"><strong> Maëlle Etienne (Bruno Sargueil's lab)</strong></span><br>
 
-**Title**: <br>
-Positional mapping of lipid-RNA adduct formation in LNP and structural implications for vaccine mRNA
+**Title**: Positional mapping of lipid-RNA adduct formation in LNP and structural implications for vaccine mRNA
 
 **Authors**: <br>
 Maëlle ETIENNE 1,2, Christelle KRAL 2, Nour AL-TURIHI 2, Isabelle LEGASTELOIS 2, Delphine ALLOUCHE 2, Bruno SARGUEIL1
