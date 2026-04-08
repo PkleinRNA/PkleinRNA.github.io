@@ -20,8 +20,8 @@ N6-methyladenosine (m6A), the most prevalent epitranscriptomic modification in e
 **Title**: Positional mapping of lipid-RNA adduct formation in LNP and structural implications for vaccine mRNA
 
 **Authors**: <br>
-Maëlle ETIENNE 1,2, Christelle KRAL 2, Nour AL-TURIHI 2, Isabelle LEGASTELOIS 2, Delphine ALLOUCHE 2, Bruno SARGUEIL1
-1 UMR 8038 CITCOM, 4 Avenue de l’observatoire, 75006 Paris
+Maëlle ETIENNE 1,2, Christelle KRAL 2, Nour AL-TURIHI 2, Isabelle LEGASTELOIS 2, Delphine ALLOUCHE 2, Bruno SARGUEIL 1 <br>
+1 UMR 8038 CITCOM, 4 Avenue de l’observatoire, 75006 Paris <br>
 2 Sanofi mRNA Center of Excellence, 1541 Avenue Marcel Mérieux, 69210 Marcy L’Etoile, France
 
 **Abstract**:
