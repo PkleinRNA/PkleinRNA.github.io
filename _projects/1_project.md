@@ -9,6 +9,19 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+
+
+<br><br> 
+
+<span style="font-size: 1.5em;"><strong> Epigenetics and Epitranscriptomics conference - Brussels from September 23 to 25, 2026</strong> </span><br> 
+
+
+
+![7th_Scientific_Meeting_of_GDR_RNA.pdf](/assets/img/A3_Flyer.pdf) 
+
+
+
+
 <br><br> 
 
 <span style="font-size: 1.5em;"><strong> 7th Scientific Meeting of GDR RNA, Bordeaux on May 19th and 20th 2026.</strong> </span><br> 
