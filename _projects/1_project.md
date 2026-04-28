@@ -15,9 +15,17 @@ permalink: /Conference_highlights
 
 <span style="font-size: 1.5em;"><strong> Epigenetics and Epitranscriptomics conference - Brussels from September 23 to 25, 2026</strong> </span><br> 
 
+This three‑day international meeting on epigenetics, epitranscriptomics and RNA regulation in health and disease is taking place in Brussels from 23–25 September 2026.
+ 
+The conference will bring together around 150 researchers and 30 international speakers for 3 days of:
+- Keynote and invited lectures on cutting‑edge epigenetics, epigenomics, RNA and epitranscriptomics
+- Selected oral and poster presentations from submitted abstracts
+- Networking opportunities with top scientists from academia and industry
+- Discover our international speakers here and the conference programme here
 
+Submit Your Research (By 30th June 2026) All registered participants can submit an abstract for consideration. Submissions will be reviewed for poster presentations and, where applicable, short oral presentations. Abstracts are submitted during the registration process.
 
-![7th_Scientific_Meeting_of_GDR_RNA.pdf](/assets/img/A3_Flyer.pdf) 
+![A3_Flyer.pdf](/assets/img/A3_Flyer.pdf) 
 
 
 
