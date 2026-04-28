@@ -43,7 +43,7 @@ nav_order: 4
 <br>
 <div class="event">
   <span class="event-date">April 2025</span>: 
-   <a href="/speakers/mai20242025/" class="event-speakers">Shana DELFOSSE and Matthias TITEUX</a>
+   <a href="/speakers/mai20242025/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
