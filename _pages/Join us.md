@@ -51,7 +51,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img
 <br>
 <div class="event">
   <span class="event-date">Wednesday 20th of May 2026</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and Diu Nguyen</a>
+  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and Anais Mounier - Oxford Nanopore </a>
 </div>
 <br>
 <div class="event">
