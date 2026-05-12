@@ -9,6 +9,30 @@ related_publications: true
 permalink: /job_highlights
 ---
 <br><br>
+<span style="font-size: 1.5em;"><strong> PhD position available - Translational Control in Genotoxic Stress - Université de Strasbourg </strong> </span><br> 
+
+The position is available in the research group of Dr. Mikhail Schepetilnikov, Institute of Plant Molecular Biology (IBMP), University of Strasbourg, France. IBMP website
+
+Funding:
+A 3-year doctoral contract financed by MITI 80PRIME CNRS. The salary is 2300 € gross per month.
+
+Start date: October 1, 2026
+
+Project:
+Our laboratory studies the factors and pathways involved in translation reprogramming under genotoxic stress in plants. Among these, the Target of Rapamycin (TOR) kinase, as a central regulator of cell growth and proliferation, coordinates autophagy, ribosome biogenesis and translation. While we have recently discovered the role of TOR in reinitiation of translation after short uORFs1 and in cap-dependent initiation of translation2 in plants, our understanding of TORmediated
+translational control in response to diverse stress conditions remains limited. This PhD project aims particularly to uncover the role of TOR in translational reprogramming in response to RNA damage induced by ionizing radiation. We use a unique model of genetically modified plants that lack the core components of the DNA Damage Response (DDR) pathway. This enables us to study with no health risk how radiation activates TOR independently of DNA damage. The research will integrate proteomics and ribosome profiling with radiochemical assays to map translational changes induced by therapeutically relevant doses of radiation.
+
+Application:
+The PhD position will be advertised on the CNRS recruitment portal. Interested applicants should send the following documents to mikhail.shchepetilnikov@ibmp-cnrs.unistra.fr:
+• Cover letter
+• Curriculum Vitae
+• Academic transcripts
+• Contact information for two to three references
+
+
+<img src="/assets/img/PhD_position_IBMP_Strasbourg_translational_control_2026.pdf" alt="PhD_position_IBMP_Strasbourg_translational_control_2026.pdf" width="400">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
 
 
 <span style="font-size: 1.5em;"><strong> The Institute for Integrative Biology of the Cell is recruting new teams leaders </strong> </span><br> 
