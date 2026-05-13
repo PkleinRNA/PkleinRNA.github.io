@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Brégeon/Hamdane's lab and Anais Mounier (Oxford Nanopore)"
+title: "Bacterial dihydrouridine synthases and Anais Mounier (Oxford Nanopore)"
 permalink: /speakers/mai/
 ---
 
-<span style="font-size: 1.5em;"><strong>Brégeon/Hamdane's lab</strong></span><br>
+<span style="font-size: 1.5em;"><strong>Damien Brégeon</strong></span><br>
 
 
-**Title**:  
+**Title**: Bacterial dihydrouridine synthases
 
 
 **Abstract**:  
