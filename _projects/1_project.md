@@ -9,6 +9,20 @@ related_publications: true
 permalink: /Conference_highlights 
 ---
 
+<br><br> 
+
+<span style="font-size: 1.5em;"><strong> Prof. Jörg VOGEL - ASO technology for phage functional genomics and therapy - 29/05/2026 Salle Favard IBENS </strong> </span><br> 
+
+EEB Seminar Series 2025-2026 
+
+Speaker : Prof. Jörg VOGEL
+Professor at the University of Würzburg and Director of the Helmholtz Institute for RNA-based Infection Research (HIRI) inWürzburg
+
+Title: ASO technology for phage functional genomics and therapy
+
+Host: Lionel Navarro, Email: lionel.navarro@bio.ens.psl.eu
+
+![2025-26_EEB_Vogel.pdf](/assets/img/2025-26_EEB_Vogel.pdf) 
 
 
 <br><br> 
