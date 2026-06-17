@@ -5,7 +5,7 @@ permalink: /speakers/Juin/
 ---
 
 <span style="font-size: 1.5em;"><strong>Laure Teysset</strong></span><br> 
-TErBio : Epigénétique transgénérationnelle et biologie des petits ARN - Clément Carré and Laure Teysset’team, IBPS </strong></span><br>
+TErBio : Epigénétique transgénérationnelle et biologie des petits ARN - Clément Carré and Laure Teysset’ team, IBPS </strong></span><br>
 
 
 **Title**:  
