@@ -1,7 +1,29 @@
 ---
 layout: page
-title: "Talks by Clément Carré/Laure Teysset's Lab and Reini Luco "
+title: "Talks by Laure Teysset and Reini Luco "
 permalink: /speakers/Juin/
 ---
 
-TBC soon - stay tuned! 
+<span style="font-size: 1.5em;"><strong>Laure Teysset</strong></span><br> 
+TErBio : Epigénétique transgénérationnelle et biologie des petits ARN - Clément Carré and Laure Teysset’team, IBPS </strong></span><br>
+
+
+**Title**:  
+Study of unconventional genes producing small RNAs involved in Transposable Element silencing
+
+**Abstract**:  
+
+
+
+
+<span style="font-size: 1.5em;"><strong>Reini Luco</strong></span><br>
+Chromatin & RNA splicing team, Institut Curie (UMR3348-U1368)
+
+
+**Title**:
+A THREE-DIMENSIONAL SPLICING ORGANIZATION IMPORTANT FOR CELL INVASIVENESS.
+
+**Abstract**:  
+Metastasis and treatment resistance remain the main causes of cancer-related mortality. A major challenge is to target aggressive cells early enough before their plasticity enables adaptation through EMT reprogramming. In this context, the key issue is not only which genes are expressed, but also how they are processed into different isoforms. Alternative splicing can rapidly rewire protein function without major transcriptional changes and has emerged as a critical regulatory layer in EMT and cancer progression. Indeed, splicing signatures often outperform gene-expression patterns in identifying poor-prognosis cancers, suggesting that isoform regulation may better capture the functional adaptations underlying aggressiveness. Yet it remains unclear how transcriptional and splicing programs are activated so rapidly and in a coordinated manner during EMT. We have previously shown that chromatin is a major regulator of splicing dynamics. Using CRISPR–dCas9 epigenome editing, we demonstrated that exon-localized chromatin marks can drive EMT-associated splicing switches by modulating recruitment of the splicing factor PTBP1 to pre-mRNA. Using an adapted CRISPR genomic screen and antibody-based proximity labeling approaches, we now propose that invasive reprogramming depends on a dynamic 3D chromatin organization that coordinates transcriptional and splicing regulation through specialized hubs. Distrubing these hubs could be an innovative strategy to target metastasis at its source.
+
+
