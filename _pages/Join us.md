@@ -56,7 +56,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 23th of June 2027</span>: 
-  <a href="/speakers/Juin20262027/" class="event-speakers">/a>
+  <a href="/speakers/Juin20262027/" class="event-speakers"></a>
 </div>
 <br><br><br>
 
