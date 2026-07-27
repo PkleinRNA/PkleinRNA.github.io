@@ -31,7 +31,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 20th of January 2027</span>: 
-  <a href="/speakers/January20262027/" class="event-speakers" ></a>
+  <a href="/speakers/January20262027/" class="event-speakers" > Helena Cruz de Carvalho and open slot </a>
 </div>
 <br>
 <div class="event">
