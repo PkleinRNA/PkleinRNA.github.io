@@ -7,55 +7,75 @@ nav: true
 nav_order: 3
 ---
 <span style="font-size: 40px;">
-**2025/2026** <br>
+**2026/2027** <br>
 <span style="font-size: 20px;">
 Meetings are happening from 16:30 to 18:00. They include two 30-minute talks followed by refreshments, allowing further discussions.<br>
 
 <span style="font-size: 20px;">
-Location: 45 rue d’Ulm, 75005 Paris - Auditorium Gallois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
+Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/map.pdf" target="_blank">click here to open the map</a>) <br><br>
 
 <div class="event">
-  <span class="event-date">Wednesday 15th of October 2025</span>: 
-  <a href="/speakers/October/" class="event-speakers">Marta Kwapisz and Yu Qiao (Carine Tisné's lab)</a>
+  <span class="event-date">Wednesday 21th of October 2026</span>: 
+  <a href="/speakers/October20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 26th of November 2025</span>: 
-  <a href="/speakers/November/" class="event-speakers">A51 startup and Arantxa Rojas (Germano Cecere's lab)</a>
+  <span class="event-date">Wednesday 25th of November 2026</span>: 
+  <a href="/speakers/November20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 17th of December 2025</span>: 
-  <a href="/speakers/December/" class="event-speakers">Florent Hubé (Clément Carré/Laure Teysset's lab). EXCEPTIONALLY MEETING WILL START AT 5:30pm!! </a>
+  <span class="event-date">Wednesday 16th of December 2026</span>: 
+  <a href="/speakers/December20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 14th of January 2026</span>: 
-  <a href="/speakers/January/" class="event-speakers" > Léo Hardy (Zeynep Baharoglu's lab) and Polina Pavlinova</a>
+  <span class="event-date">Wednesday 20th of January 2027</span>: 
+  <a href="/speakers/January20262027/" class="event-speakers" ></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 18th of February 2026</span>: 
-  <a href="/speakers/fevrier/" class="event-speakers">Lionel Benard and Tristan Cazenave</a>
+  <span class="event-date">Wednesday 24th of February 2027</span>: 
+  <a href="/speakers/fevrier20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 18th of March 2026</span>: 
-  <a href="/speakers/mars/" class="event-speakers"> Else Piller (Laure Weill's lab) lab and Milo Migeon (Eric Allemand's lab) </a>
+  <span class="event-date">Wednesday 24th of March 2027</span>: 
+  <a href="/speakers/mars20262027/" class="event-speakers"> </a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 15th of April 2026</span>: 
- <a href="/speakers/avril/" class="event-speakers">Partho Sarothi Ray and Maëlle Etienne (Bruno Sargueil's lab)</a>
+  <span class="event-date">Wednesday 21th of April 2027</span>: 
+ <a href="/speakers/avril20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 20th of May 2026</span>: 
-  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and Anais Mounier - Oxford Nanopore </a>
+  <span class="event-date">Wednesday 19th of May 2027</span>: 
+  <a href="/speakers/mai20262027/" class="event-speakers"></a>
 </div>
 <br>
 <div class="event">
-  <span class="event-date">Wednesday 24th of June 2026</span>: 
-  <a href="/speakers/Juin/" class="event-speakers">Clément Carré/Laure Teysset's Lab and Reini Luco</a>
+  <span class="event-date">Wednesday 23th of June 2027</span>: 
+  <a href="/speakers/Juin20262027/" class="event-speakers">/a>
 </div>
 <br><br><br>
+
+<span style="font-size: 40px;">
+**2027/2028** <br>
+<span style="font-size: 20px;">
+
+<div class="event">
+  <span class="event-date">Wednesday 13th of October 2027</span>: 
+  <a href="/speakers/October20272028/" class="event-speakers"></a>
+</div>
+<br>
+<div class="event">
+  <span class="event-date">Wednesday 17th of November 2027</span>: 
+  <a href="/speakers/November20272028/" class="event-speakers"></a>
+</div>
+<br>
+<div class="event">
+  <span class="event-date">Wednesday 15th of December 2027</span>: 
+  <a href="/speakers/December20272028/" class="event-speakers"></a>
+</div>
+<br>
