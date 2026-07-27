@@ -26,7 +26,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 16th of December 2026</span>: 
-  <a href="/speakers/December20262027/" class="event-speakers"></a>
+  <a href="/speakers/December20262027/" class="event-speakers">Olga Soutourina and Reini F. Luco</a>
 </div>
 <br>
 <div class="event">
