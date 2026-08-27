@@ -16,7 +16,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 
 <div class="event">
   <span class="event-date">Wednesday 21th of October 2026</span>: 
-  <a href="/speakers/October20262027/" class="event-speakers"></a>
+  <a href="/speakers/October20262027/" class="event-speakers">Laure Teysset and open slot</a>
 </div>
 <br>
 <div class="event">
@@ -31,32 +31,32 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 20th of January 2027</span>: 
-  <a href="/speakers/January20262027/" class="event-speakers" > Helena Cruz de Carvalho and open slot </a>
+  <a href="/speakers/January20262027/" class="event-speakers" >Helena Cruz de Carvalho and open slot </a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 24th of February 2027</span>: 
-  <a href="/speakers/fevrier20262027/" class="event-speakers"></a>
+  <a href="/speakers/fevrier20262027/" class="event-speakers">Claudia Salinas and open slot</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 24th of March 2027</span>: 
-  <a href="/speakers/mars20262027/" class="event-speakers"> </a>
+  <a href="/speakers/mars20262027/" class="event-speakers">Leo Hardy and Nassim Meziane</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 21th of April 2027</span>: 
- <a href="/speakers/avril20262027/" class="event-speakers"></a>
+ <a href="/speakers/avril20262027/" class="event-speakers">open slots</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 19th of May 2027</span>: 
-  <a href="/speakers/mai20262027/" class="event-speakers"></a>
+  <a href="/speakers/mai20262027/" class="event-speakers">open slots</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 23th of June 2027</span>: 
-  <a href="/speakers/Juin20262027/" class="event-speakers"></a>
+  <a href="/speakers/Juin20262027/" class="event-speakers">open slots</a>
 </div>
 <br><br><br>
 
