@@ -21,7 +21,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 25th of November 2026</span>: 
-  <a href="/speakers/November20262027/" class="event-speakers"></a>
+  <a href="/speakers/November20262027/" class="event-speakers">open slots</a>
 </div>
 <br>
 <div class="event">
