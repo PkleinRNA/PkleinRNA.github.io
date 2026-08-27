@@ -36,27 +36,27 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 24th of February 2027</span>: 
-  <a href="/speakers/fevrier20262027/" class="event-speakers">Claudia Salinas and open slot</a>
+  <a href="/speakers/February20262027/" class="event-speakers">Claudia Salinas and open slot</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 24th of March 2027</span>: 
-  <a href="/speakers/mars20262027/" class="event-speakers">Leo Hardy and Nassim Meziane</a>
+  <a href="/speakers/March20262027/" class="event-speakers">Leo Hardy and Nassim Meziane</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 21th of April 2027</span>: 
- <a href="/speakers/avril20262027/" class="event-speakers">open slots</a>
+ <a href="/speakers/April20262027/" class="event-speakers">open slots</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 19th of May 2027</span>: 
-  <a href="/speakers/mai20262027/" class="event-speakers">open slots</a>
+  <a href="/speakers/May20262027/" class="event-speakers">open slots</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">Wednesday 23th of June 2027</span>: 
-  <a href="/speakers/Juin20262027/" class="event-speakers">open slots</a>
+  <a href="/speakers/June20262027/" class="event-speakers">open slots</a>
 </div>
 <br><br><br>
 
