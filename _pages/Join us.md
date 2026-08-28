@@ -16,7 +16,7 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 
 <div class="event">
   <span class="event-date">Wednesday 21th of October 2026</span>: 
-  <a href="/speakers/October20262027/" class="event-speakers">Laure Teysset and open slot</a>
+  <a href="/speakers/October20262027/" class="event-speakers">Laure Teysset and Andana Barrios</a>
 </div>
 <br>
 <div class="event">
