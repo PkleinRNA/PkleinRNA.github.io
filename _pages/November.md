@@ -4,15 +4,13 @@ title: ""
 permalink: /speakers/November/
 ---
 
-Arantxa Rojas
-Mechanisms of Epigenetic Inheritance, Department of Developmental and Stem Cell
-Biology, Institut Pasteur, CNRS UMR3738, Paris.
+<span style="font-size: 1.5em;"><strong>Arantxa Rojas</strong></span><br>
+Mechanisms of Epigenetic Inheritance, Department of Developmental and Stem Cell Biology, Institut Pasteur, CNRS UMR3738, Paris.
 Postdoc in Germano Cecere’s lab
 
-Title: Nuclear Argonaute HRDE-1 Maintains Chromatin-Independent Transcriptional
-Silencing through a Transgenerational Small RNA Feedback Loop
-
-Abstract:
+**Title**:  
+Nuclear Argonaute HRDE-1 Maintains Chromatin-Independent Transcriptional
+**Abstract**:  
 Epigenetic inheritance of transcriptional silencing is traditionally attributed to chromatin-
 based mechanisms in which Argonaute–small RNA complexes recruit histone-modifying
 enzymes. In this project, we found that in Caenorhabditis elegans, the nuclear
