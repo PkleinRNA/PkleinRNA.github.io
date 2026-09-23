@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bacterial dihydrouridine synthases and Anais Mounier (Oxford Nanopore)"
+title: "Damien Brégeon and Anais Mounier (Oxford Nanopore)"
 permalink: /speakers/mai/
 ---
 
