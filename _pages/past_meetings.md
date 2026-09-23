@@ -13,17 +13,17 @@ nav_order: 4
 
 <div class="event">
   <span class="event-date">October 2025</span>: 
-  <a href="/speakers/October20242025/" class="event-speakers">Marta Kwapisz and Yu Qiao (Carine Tisné's lab)</a>
+  <a href="/speakers/October/" class="event-speakers">Marta Kwapisz and Yu Qiao (Carine Tisné's lab)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">November 2025</span>: 
-  <a href="/speakers/November20242025/" class="event-speakers">A51 startup and Arantxa Rojas (Germano Cecere's lab)</a>
+  <a href="/speakers/November/" class="event-speakers">A51 startup and Arantxa Rojas (Germano Cecere's lab)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">December 2025</span>: 
-  <a href="/speakers/December20242025/" class="event-speakers">Florent Hubé (Clément Carré/Laure Teysset's lab)</a>
+  <a href="/speakers/December/" class="event-speakers">Florent Hubé (Clément Carré/Laure Teysset's lab)</a>
 </div>
 <br>
 <div class="event">
@@ -33,27 +33,27 @@ nav_order: 4
 <br>
 <div class="event">
   <span class="event-date">February 2026</span>: 
-  <a href="/speakers/fevrier20242025/" class="event-speakers">Lionel Benard and Tristan Cazenave</a>
+  <a href="/speakers/fevrier/" class="event-speakers">Lionel Benard and Tristan Cazenave</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">March 2026</span>: 
-  <a href="/speakers/mars20242025/" class="event-speakers">Else Piller (Laure Weill's lab) lab and Milo Migeon (Eric Allemand's lab)</a>
+  <a href="/speakers/mars/" class="event-speakers">Else Piller (Laure Weill's lab) lab and Milo Migeon (Eric Allemand's lab)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">April 2026</span>: 
-   <a href="/speakers/mai20242025/" class="event-speakers">Partho Sarothi Ray and Maëlle Etienne (Bruno Sargueil's lab)</a>
+   <a href="/speakers/mai/" class="event-speakers">Partho Sarothi Ray and Maëlle Etienne (Bruno Sargueil's lab)</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">May 2026</span>: 
-  <a href="/speakers/mai20242025/" class="event-speakers">Brégeon/Hamdane's lab and Anais Mounier - Oxford Nanopore</a>
+  <a href="/speakers/mai/" class="event-speakers">Brégeon/Hamdane's lab and Anais Mounier - Oxford Nanopore</a>
 </div>
 <br>
 <div class="event">
   <span class="event-date">June 2026</span>: 
-  <a href="/speakers/Juin20242025/" class="event-speakers">Cancelled </a>
+  <a href="/speakers/Juin/" class="event-speakers">Cancelled </a>
 </div>
 <br><br><br>
 
@@ -79,7 +79,7 @@ nav_order: 4
 <br>
 <div class="event">
   <span class="event-date">January 2025</span>: 
-  <a href="/speakers/January/" class="event-speakers">Alexandre D’HALLUIN and Grégory BOËL</a>
+  <a href="/speakers/January2024202/" class="event-speakers">Alexandre D’HALLUIN and Grégory BOËL</a>
 </div>
 <br>
 <div class="event">
