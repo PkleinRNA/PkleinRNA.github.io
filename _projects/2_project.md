@@ -13,7 +13,9 @@ permalink: /job_highlights
 
 
 <br><br>
-<span style="font-size: 1.5em;"><strong> PhD subject - Title: Exploring the role of double-stranded RNA in plant organelles - Name: Institut de Biologie Moléculaire des Plantes (IBMP) - Strasbourg </strong> </span><br> 
+<span style="font-size: 1.5em;"><strong> PhD subject - Title: Exploring the role of double-stranded RNA in plant organelles at the Institut de Biologie Moléculaire des Plantes (IBMP) in Strasbourg </strong> </span><br> 
+
+More info available here https://imcbio-phdprogram.unistra.fr/
 
 <img src="/assets/img/2027_IMCBio_collaboration_fellowships_dsRNA.pdf" alt="2027_IMCBio_collaboration_fellowships_dsRNA.pdf" width="400">
 
