@@ -29,6 +29,8 @@ children:
     permalink: https://www.ibens.bio.ens.psl.eu/spip.php?rubrique42&lang=fr
   - title: Reini L. Luco's lab - Chromatin & RNA splicing
     permalink: https://institut-curie.org/team/luco
+  - title: Susan E. Liao lab - AI for RNA (AI4RNA)
+    permalink: https://www.ibens.bio.ens.psl.eu/spip.php?rubrique114
   - title: Christian Muschardt's lab - Epigenetics and RNA metabolism in human diseases
     permalink: https://www.ibps.upmc.fr/fr/Recherche/umr-8256/epigenetique-metabolisme-arn-maladies-humaines
   - title: Olivier Namy's lab - Genomic, Structure and Translation
