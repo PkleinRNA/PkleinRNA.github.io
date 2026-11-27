@@ -76,6 +76,6 @@ Location: 45 rue d’Ulm, 75005 Paris - Auditorium Galois (<a href="/assets/img/
 <br>
 <div class="event">
   <span class="event-date">Wednesday 15th of December 2027</span>: 
-  <a href="/speakers/December20272028/" class="event-speakers"></a>
+  <a href="/speakers/December20272028/" class="event-speakers">Flora Borne and open slot</a>
 </div>
 <br>
