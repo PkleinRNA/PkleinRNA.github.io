@@ -10,6 +10,20 @@ permalink: /job_highlights
 ---
 
 
+
+
+<br><br>
+<span style="font-size: 1.5em;"><strong> PhD subject - Title: Exploring the role of double-stranded RNA in plant organelles - Name: Institut de Biologie Moléculaire des Plantes (IBMP) - Strasbourg </strong> </span><br> 
+
+<img src="/assets/img/2027_IMCBio_collaboration_fellowships_dsRNA.pdf" alt="2027_IMCBio_collaboration_fellowships_dsRNA.pdf" width="400">
+
+<span style="font-size: 1.5em;"><strong>---</strong></span><br>
+
+
+
+
+
+
 <br><br>
 <span style="font-size: 1.5em;"><strong> The Development, Adaptation and Ageing (Dev2A) Laboratory of the Institut de Biologie Paris Seine (IBPS) is seeking to recruit two talented group leaders </strong> </span><br> 
 
